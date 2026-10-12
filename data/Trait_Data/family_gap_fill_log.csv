@@ -1,0 +1,870 @@
+matrix,TAXANAME,row_kind,family,kin_rank_used,trait_group,action,n_kin_genera_with_record
+main,Abedus,Twardochleb genus,Belostomatidae,Belostomatidae (family),Emerge,filled from closest kin,2
+main,Ablabesmyia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Ablabesmyia,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+main,Acilius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Acilius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Acilius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Acneus,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+main,Adicrophleps,Twardochleb genus,Brachycentridae,Brachycentridae (family),Emerge,filled from closest kin,3
+main,Agarodes,Twardochleb genus,Sericostomatidae,Sericostomatidae (family),Disperse,filled from closest kin,1
+main,Agarodes,Twardochleb genus,Sericostomatidae,Sericostomatidae (family),Flying,filled from closest kin,1
+main,Agathon,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+main,Alisotrichia,Twardochleb genus,Hydroptilidae,Hydroptilidae (family),Emerge,filled from closest kin,14
+main,Alluaudomyia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+main,Alluaudomyia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+main,Amiocentrus,Twardochleb genus,Brachycentridae,Brachycentridae (family),Emerge,filled from closest kin,3
+main,Anacroneuria,Twardochleb genus,Perlidae,Perlidae (family),Disperse,filled from closest kin,14
+main,Anacroneuria,Twardochleb genus,Perlidae,Perlidae (family),Synchro,filled from closest kin,14
+main,Anisocentropus,Twardochleb genus,Calamoceratidae,Calamoceratidae (family),Disperse,filled from closest kin,2
+main,Apedilum,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Apedilum,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Aquarius,Twardochleb genus,Gerridae,Gerridae (family),Emerge,filled from closest kin,2
+main,Arthroplea,Twardochleb genus,Arthropleidae,NA,Disperse,"missing, no family record",0
+main,Arthroplea,Twardochleb genus,Arthropleidae,NA,Flying,"missing, no family record",0
+main,Arthroplea,Twardochleb genus,Arthropleidae,NA,Synchro,"missing, no family record",0
+main,Asynarchus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Atrichopogon,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+main,Beothukus,Twardochleb genus,Phryganeidae,Phryganeidae (family),Disperse,filled from closest kin,1
+main,Beothukus,Twardochleb genus,Phryganeidae,Phryganeidae (family),Feed,filled from closest kin,7
+main,Bezzia,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+main,Bibiocephala,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+main,Bisancora,Twardochleb genus,Chloroperlidae,Chloroperlidae (family),Emerge,filled from closest kin,11
+main,Bittacomorpha,Twardochleb genus,Ptychopteridae,NA,Emerge,"missing, no family record",0
+main,Blepharicera,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+main,Blephariceridae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+main,Bolotoperla,Twardochleb genus,Taeniopterygidae,Taeniopterygidae (family),Emerge,filled from closest kin,5
+main,Brachypremna,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Brachypremna,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+main,Brachypremna,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Bradysia,Twardochleb genus,Sciaridae,NA,Disperse,"missing, no family record",0
+main,Bradysia,Twardochleb genus,Sciaridae,NA,Emerge,"missing, no family record",0
+main,Bradysia,Twardochleb genus,Sciaridae,NA,Rheophily,"missing, no family record",0
+main,Brillia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Brillia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Caloparyphus,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+main,Capnura,Twardochleb genus,Capniidae,Capniidae (family),Emerge,filled from closest kin,10
+main,Cascadoperla,Twardochleb genus,Perlodidae,Perlodidae (family),Emerge,filled from closest kin,23
+main,Celithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+main,Celithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+main,Celithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Flying,filled from closest kin,17
+main,Ceratopogon,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+main,Ceratopogon,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+main,Chaetocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Chaetocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Cheilotrichia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Cheilotrichia,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+main,Cheilotrichia,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Chelifera,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+main,Chimarra,Twardochleb genus,Philopotamidae,Philopotamidae (family),Emerge,filled from closest kin,2
+main,Chironominae,tribe or subfamily meld,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Chironomini,tribe or subfamily meld,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Chironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Chrysops,Twardochleb genus,Tabanidae,Tabanidae (family),Emerge,filled from closest kin,3
+main,Chyranda,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Climacia,Twardochleb genus,Sisyridae,NA,Emerge,"missing, no family record",0
+main,Clinocera,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+main,Clioperla,Twardochleb genus,Perlodidae,Perlodidae (family),Emerge,filled from closest kin,23
+main,Cnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Habit,filled from closest kin,8
+main,Cnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+main,Colymbetes,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Colymbetes,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Colymbetes,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Corynoneura,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Corynoneura,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Crambidae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+main,Cryphocricos,Twardochleb genus,Naucoridae,Naucoridae (family),Disperse,filled from closest kin,2
+main,Cryphocricos,Twardochleb genus,Naucoridae,Naucoridae (family),Flying,filled from closest kin,2
+main,Cryphocricos,Twardochleb genus,Naucoridae,Naucoridae (family),Synchro,filled from closest kin,2
+main,Cryptochia,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Cryptochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Cryptochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Cryptolabis,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Culiseta,Twardochleb genus,Culicidae,Culicidae (family),Disperse,filled from closest kin,3
+main,Culiseta,Twardochleb genus,Culicidae,Culicidae (family),Flying,filled from closest kin,4
+main,Culiseta,Twardochleb genus,Culicidae,Culicidae (family),Synchro,filled from closest kin,4
+main,Curicta,Twardochleb genus,Nepidae,Nepidae (family),Emerge,filled from closest kin,2
+main,Cyrnellus,Twardochleb genus,Polycentropodidae,Polycentropodidae (family),Emerge,filled from closest kin,4
+main,Dannella,Twardochleb genus,Ephemerellidae,Ephemerellidae (family),Disperse,filled from closest kin,8
+main,Dannella,Twardochleb genus,Ephemerellidae,Ephemerellidae (family),Flying,filled from closest kin,8
+main,Dannella,Twardochleb genus,Ephemerellidae,Ephemerellidae (family),Synchro,filled from closest kin,8
+main,Dasyhelea,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+main,Dasyhelea,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Thermal,filled from closest kin,5
+main,Demicryptochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Demicryptochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Emerge,filled from closest kin,29
+main,Demicryptochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Diamesa,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Diamesa,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Dicosmoecus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Dicranota,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Dicrotendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Dicrotendipes,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Dipseudopsidae,family or higher meld,NA,NA,Disperse,"missing, no family record",0
+main,Dipseudopsidae,family or higher meld,NA,NA,Flying,"missing, no family record",0
+main,Dipseudopsidae,family or higher meld,NA,NA,Synchro,"missing, no family record",0
+main,Dixa,Twardochleb genus,Dixidae,NA,Emerge,"missing, no family record",0
+main,Dixella,Twardochleb genus,Dixidae,NA,Emerge,"missing, no family record",0
+main,Dolichocephala,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+main,Dolichocephala,Twardochleb genus,Empididae,Empididae (family),Thermal,filled from closest kin,8
+main,Dytiscus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Dytiscus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Dytiscus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Ecclisomyia,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Ectemnia,Twardochleb genus,Simuliidae,Simuliidae (family),Emerge,filled from closest kin,3
+main,Ectemnia,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+main,Ectopria,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+main,Empididae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+main,Eocosmoecus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Ephydra,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+main,Ephydridae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+main,Epiphragma,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Epiphragma,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+main,Epiphragma,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Erioptera,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Erythemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+main,Erythrodiplax,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+main,Erythrodiplax,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+main,Erythrodiplax,Twardochleb genus,Libellulidae,Libellulidae (family),Synchro,filled from closest kin,14
+main,Eubrianax,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+main,Eukiefferiella,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Eukiefferiella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Euparyphus,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+main,Farula,Twardochleb genus,Uenoidae,Uenoidae (family),Emerge,filled from closest kin,2
+main,Forcipomyia,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+main,Forcipomyia,Twardochleb genus,Ceratopogonidae,Forcipomyiinae (subfamily),Thermal,filled from closest kin,1
+main,Gelastocoris,Twardochleb genus,Gelastocoridae,NA,Disperse,"missing, no family record",0
+main,Gelastocoris,Twardochleb genus,Gelastocoridae,NA,Flying,"missing, no family record",0
+main,Gelastocoris,Twardochleb genus,Gelastocoridae,NA,Synchro,"missing, no family record",0
+main,Goeracea,Twardochleb genus,Goeridae,Goeridae (family),Emerge,filled from closest kin,2
+main,Goerita,Twardochleb genus,Goeridae,Goeridae (family),Disperse,filled from closest kin,2
+main,Goerita,Twardochleb genus,Goeridae,Goeridae (family),Respiration,filled from closest kin,2
+main,Goerita,Twardochleb genus,Goeridae,Goeridae (family),Synchro,filled from closest kin,2
+main,Gonielmis,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+main,Gonielmis,Twardochleb genus,Elmidae,Elmidae (family),Thermal,filled from closest kin,17
+main,Gonomyia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Gonomyia,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Gumaga,Twardochleb genus,Sericostomatidae,Sericostomatidae (family),Emerge,filled from closest kin,1
+main,Gyretes,Twardochleb genus,Gyrinidae,Gyrinidae (family),Emerge,filled from closest kin,2
+main,Gyretes,Twardochleb genus,Gyrinidae,Gyrinidae (family),Respiration,filled from closest kin,2
+main,Hansonoperla,Twardochleb genus,Perlidae,Perlidae (family),Emerge,filled from closest kin,14
+main,Harnischia,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Harnischia,Twardochleb genus,Chironomidae,Chironomini (tribe),Respiration,filled from closest kin,13
+main,Harnischia,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Heleniella,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Heleniella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Emerge,filled from closest kin,29
+main,Heleniella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Helius,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Helius,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Helochares,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Emerge,filled from closest kin,15
+main,Helochares,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Respiration,filled from closest kin,16
+main,Hemerodromia,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+main,Hesperagrion,Twardochleb genus,Coenagrionidae,Coenagrionidae (family),Emerge,filled from closest kin,9
+main,Hesperoconopa,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Hesperocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Emerge,filled from closest kin,1
+main,Hesperocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Flying,filled from closest kin,1
+main,Hesperocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Synchro,filled from closest kin,1
+main,Heterelmis,Twardochleb genus,Elmidae,Elmidae (family),Disperse,filled from closest kin,8
+main,Heterelmis,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+main,Heterelmis,Twardochleb genus,Elmidae,Elmidae (family),Synchro,filled from closest kin,8
+main,Heterotrissocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Heterotrissocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Hexatoma,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Himalopsyche,Twardochleb genus,Rhyacophilidae,Rhyacophilidae (family),Disperse,filled from closest kin,1
+main,Himalopsyche,Twardochleb genus,Rhyacophilidae,Rhyacophilidae (family),Flying,filled from closest kin,1
+main,Homophylax,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Hydatophylax,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Hydraena,Twardochleb genus,Hydraenidae,NA,Emerge,"missing, no family record",0
+main,Hydraena,Twardochleb genus,Hydraenidae,Hydraenidae (family),Respiration,filled from closest kin,1
+main,Hydrellia,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+main,Hydrobaenus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Hydrobaenus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Rheophily,filled from closest kin,29
+main,Hydrobaenus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Hydrobius,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Disperse,filled from closest kin,9
+main,Hydrobius,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Flying,filled from closest kin,11
+main,Hydrobius,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Synchro,filled from closest kin,9
+main,Hydroscapha,Twardochleb genus,Hydroscaphidae,NA,Emerge,"missing, no family record",0
+main,Hygrotus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Hygrotus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Hygrotus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Ilybius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Ilybius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Ilybius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Krenosmittia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Krenosmittia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Labrundinia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Labrundinia,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+main,Larsia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Larsia,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+main,Lasiodiamesa,Twardochleb genus,Chironomidae,Boreochlini (tribe),Disperse,filled from closest kin,1
+main,Lasiodiamesa,Twardochleb genus,Chironomidae,Boreochlini (tribe),Voltinism,filled from closest kin,2
+main,Lasiodiamesa,Twardochleb genus,Chironomidae,Boreochlini (tribe),Size,filled from closest kin,2
+main,Leptocerus,Twardochleb genus,Leptoceridae,Leptoceridae (family),Disperse,filled from closest kin,6
+main,Leptocerus,Twardochleb genus,Leptoceridae,Leptoceridae (family),Flying,filled from closest kin,6
+main,Leptocerus,Twardochleb genus,Leptoceridae,Leptoceridae (family),Synchro,filled from closest kin,6
+main,Leptoconops,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+main,Leptoconops,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Thermal,filled from closest kin,5
+main,Leptohyphes,Twardochleb genus,Leptohyphidae,Leptohyphidae (family),Emerge,filled from closest kin,1
+main,Lethocerus,Twardochleb genus,Belostomatidae,Belostomatidae (family),Synchro,filled from closest kin,2
+main,Limnephilus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Limnophila,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Limnophora,Twardochleb genus,Muscidae,NA,Emerge,"missing, no family record",0
+main,Limonia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Lipsothrix,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Lipsothrix,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+main,Lipsothrix,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Lutrochus,Twardochleb genus,Lutrochidae,NA,Emerge,"missing, no family record",0
+main,Lutrochus,Twardochleb genus,Lutrochidae,NA,Synchro,"missing, no family record",0
+main,Lype,Twardochleb genus,Psychomyiidae,NA,Emerge,"missing, no family record",0
+main,Maccaffertium,Twardochleb genus,Heptageniidae,Heptageniidae (family),Disperse,filled from closest kin,12
+main,Maccaffertium,Twardochleb genus,Heptageniidae,Heptageniidae (family),Flying,filled from closest kin,12
+main,Maccaffertium,Twardochleb genus,Heptageniidae,Heptageniidae (family),Synchro,filled from closest kin,12
+main,Mallochohelea,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+main,Mallochohelea,Twardochleb genus,Ceratopogonidae,Sphaeromiini (tribe),Thermal,filled from closest kin,1
+main,Mansonia,Twardochleb genus,Culicidae,Culicidae (family),Disperse,filled from closest kin,3
+main,Mansonia,Twardochleb genus,Culicidae,Culicidae (family),Rheophily,filled from closest kin,5
+main,Mansonia,Twardochleb genus,Culicidae,Culicidae (family),Synchro,filled from closest kin,4
+main,Maruina,Twardochleb genus,Psychodidae,NA,Emerge,"missing, no family record",0
+main,Mesovelia,Twardochleb genus,Mesoveliidae,NA,Disperse,"missing, no family record",0
+main,Mesovelia,Twardochleb genus,Mesoveliidae,NA,Respiration,"missing, no family record",0
+main,Metacnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Emerge,filled from closest kin,3
+main,Metacnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+main,Micropsectra,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+main,Micropsectra,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Microtendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Microtendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Flying,filled from closest kin,12
+main,Microtendipes,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Microvelia,Twardochleb genus,Veliidae,Veliidae (family),Emerge,filled from closest kin,1
+main,Molanna,Twardochleb genus,Molannidae,NA,Emerge,"missing, no family record",0
+main,Molophilus,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Molophilus,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Monohelea,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+main,Monohelea,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+main,Moselyana,Twardochleb genus,Apataniidae,Apataniidae (family),Emerge,filled from closest kin,2
+main,Muscidae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+main,Nanocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Nanocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Nemotelus,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+main,Neoheterocerus,Twardochleb genus,Heteroceridae,NA,Emerge,"missing, no family record",0
+main,Neoplasta,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+main,Neoplea,Twardochleb genus,Pleidae,NA,Disperse,"missing, no family record",0
+main,Neoplea,Twardochleb genus,Pleidae,NA,Flying,"missing, no family record",0
+main,Neoplea,Twardochleb genus,Pleidae,NA,Synchro,"missing, no family record",0
+main,Neoporus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Neoporus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Neoporus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Neothremma,Twardochleb genus,Uenoidae,Uenoidae (family),Emerge,filled from closest kin,2
+main,Nilotanypus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Nilotanypus,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+main,Notonecta,Twardochleb genus,Notonectidae,NA,Emerge,"missing, no family record",0
+main,Notonecta,Twardochleb genus,Notonectidae,NA,Thermal,"missing, no family record",0
+main,Notonecta,Twardochleb genus,Notonectidae,NA,Synchro,"missing, no family record",0
+main,Ochlerotatus,Twardochleb genus,Culicidae,Culicidae (family),Disperse,filled from closest kin,3
+main,Ochlerotatus,Twardochleb genus,Culicidae,Culicidae (family),Respiration,filled from closest kin,10
+main,Ochlerotatus,Twardochleb genus,Culicidae,Culicidae (family),Flying,filled from closest kin,4
+main,Ochthebius,Twardochleb genus,Hydraenidae,NA,Emerge,"missing, no family record",0
+main,Ochthebius,Twardochleb genus,Hydraenidae,Hydraenidae (family),Respiration,filled from closest kin,1
+main,Odontoceridae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+main,Odontomyia,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+main,Onocosmoecus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Optioservus,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+main,Ormosia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Oropsyche,Twardochleb genus,Hydropsychidae,Hydropsychidae (family),Emerge,filled from closest kin,10
+main,Orthemis,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+main,Orthemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+main,Orthemis,Twardochleb genus,Libellulidae,Libellulidae (family),Thermal,filled from closest kin,15
+main,Orthocladiinae,tribe or subfamily meld,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Orthocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Oulimnius,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+main,Palaeodipteron,Twardochleb genus,Nymphomyiidae,NA,Disperse,"missing, no family record",0
+main,Palaeodipteron,Twardochleb genus,Nymphomyiidae,NA,Respiration,"missing, no family record",0
+main,Palmacorixa,Twardochleb genus,Corixidae,Corixini (tribe),Thermal,filled from closest kin,5
+main,Palpomyia,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+main,Palpomyia,Twardochleb genus,Ceratopogonidae,Palpomyiini (tribe),Thermal,filled from closest kin,1
+main,Pantala,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+main,Paraboreochlus,Twardochleb genus,Chironomidae,Boreochlini (tribe),Disperse,filled from closest kin,1
+main,Paraboreochlus,Twardochleb genus,Chironomidae,Boreochlini (tribe),Flying,filled from closest kin,2
+main,Paraboreochlus,Twardochleb genus,Chironomidae,Boreochlini (tribe),Synchro,filled from closest kin,2
+main,Paracladopelma,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Paracladopelma,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Paramerina,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Paramerina,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+main,Parametriocnemus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Parametriocnemus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Parapoynx,Twardochleb genus,Crambidae,NA,Emerge,"missing, no family record",0
+main,Paratendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Paratendipes,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Parochlus,Twardochleb genus,Chironomidae,Podonominae (subfamily),Disperse,filled from closest kin,1
+main,Parochlus,Twardochleb genus,Chironomidae,Podonominae (subfamily),Synchro,filled from closest kin,2
+main,Parthina,Twardochleb genus,Odontoceridae,NA,Emerge,"missing, no family record",0
+main,Parydra,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+main,Pedicia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Pedomoecus,Twardochleb genus,Apataniidae,Apataniidae (family),Emerge,filled from closest kin,2
+main,Pelonomus,Twardochleb genus,Dryopidae,Dryopidae (family),Emerge,filled from closest kin,1
+main,Pentaneura,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Pentaneura,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+main,Pericoma,Twardochleb genus,Psychodidae,NA,Emerge,"missing, no family record",0
+main,Perithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+main,Petrophila,Twardochleb genus,Crambidae,NA,Emerge,"missing, no family record",0
+main,Phaenopsectra,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Phaenopsectra,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Philocasca,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Philorus,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+main,Phryganea,Twardochleb genus,Phryganeidae,Phryganeidae (family),Disperse,filled from closest kin,1
+main,Phylocentropus,Twardochleb genus,Dipseudopsidae,NA,Disperse,"missing, no family record",0
+main,Phylocentropus,Twardochleb genus,Dipseudopsidae,NA,Flying,"missing, no family record",0
+main,Phylocentropus,Twardochleb genus,Dipseudopsidae,NA,Synchro,"missing, no family record",0
+main,Pilaria,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Pilaria,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Platambus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Platambus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Respiration,filled from closest kin,31
+main,Platambus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Platycentropus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Plauditus,Twardochleb genus,Baetidae,Baetidae (family),Disperse,filled from closest kin,14
+main,Plauditus,Twardochleb genus,Baetidae,Baetidae (family),Voltinism,filled from closest kin,16
+main,Plauditus,Twardochleb genus,Baetidae,Baetidae (family),Flying,filled from closest kin,14
+main,Plectrocnemia,Twardochleb genus,Polycentropodidae,Polycentropodidae (family),Disperse,filled from closest kin,4
+main,Plectrocnemia,Twardochleb genus,Polycentropodidae,Polycentropodidae (family),Flying,filled from closest kin,4
+main,Polypedilum,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Polypedilum,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Postelichus,Twardochleb genus,Dryopidae,Dryopidae (family),Emerge,filled from closest kin,1
+main,Postelichus,Twardochleb genus,Dryopidae,Dryopidae (family),Respiration,filled from closest kin,3
+main,Probezzia,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+main,Procladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Procladius,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+main,Promoresia,accepted-name genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+main,Psectrocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Psectrocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Psephenus,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+main,Pseudochironomus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+main,Pseudochironomus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Flying,filled from closest kin,18
+main,Pseudochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Pseudogoera,Twardochleb genus,Odontoceridae,NA,Emerge,"missing, no family record",0
+main,Pseudolimnophila,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Pseudolimnophila,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+main,Pseudostenophylax,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Psilotreta,Twardochleb genus,Odontoceridae,NA,Emerge,"missing, no family record",0
+main,Psychoda,Twardochleb genus,Psychodidae,NA,Emerge,"missing, no family record",0
+main,Psychoglypha,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Psychomyia,Twardochleb genus,Psychomyiidae,NA,Emerge,"missing, no family record",0
+main,Psychoronia,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Ptychoptera,Twardochleb genus,Ptychopteridae,NA,Emerge,"missing, no family record",0
+main,Pycnopsyche,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Ranatra,Twardochleb genus,Nepidae,Nepidae (family),Disperse,filled from closest kin,2
+main,Ranatra,Twardochleb genus,Nepidae,Nepidae (family),Synchro,filled from closest kin,2
+main,Rhabdomastix,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+main,Rhagovelia,Twardochleb genus,Veliidae,Veliidae (family),Emerge,filled from closest kin,1
+main,Rhantus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Rhantus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Rhantus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Rheocricotopus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Rheocricotopus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Rheotanytarsus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+main,Rheotanytarsus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Rheumatobates,Twardochleb genus,Gerridae,Gerridae (family),Emerge,filled from closest kin,2
+main,Rhionaeschna,Twardochleb genus,Aeshnidae,Aeshnidae (family),Disperse,filled from closest kin,7
+main,Rhionaeschna,Twardochleb genus,Aeshnidae,Aeshnidae (family),Respiration,filled from closest kin,8
+main,Rhionaeschna,Twardochleb genus,Aeshnidae,Aeshnidae (family),Synchro,filled from closest kin,6
+main,Rhyacophila,Twardochleb genus,Rhyacophilidae,Rhyacophilidae (family),Emerge,filled from closest kin,1
+main,Rossiana,Twardochleb genus,Rossianidae,NA,Emerge,"missing, no family record",0
+main,Saldula,Twardochleb genus,Saldidae,NA,Disperse,"missing, no family record",0
+main,Saldula,Twardochleb genus,Saldidae,NA,Synchro,"missing, no family record",0
+main,Scatella,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+main,Setodes,Twardochleb genus,Leptoceridae,Leptoceridae (family),Emerge,filled from closest kin,7
+main,Sigara,Twardochleb genus,Corixidae,Corixini (tribe),Emerge,filled from closest kin,1
+main,Sigara,Twardochleb genus,Corixidae,Corixini (tribe),Flying,filled from closest kin,1
+main,Sigara,Twardochleb genus,Corixidae,Corixini (tribe),Synchro,filled from closest kin,1
+main,Sisyra,Twardochleb genus,Sisyridae,NA,Emerge,"missing, no family record",0
+main,Smittia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Smittia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Sperchopsis,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Disperse,filled from closest kin,9
+main,Sperchopsis,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Flying,filled from closest kin,11
+main,Sperchopsis,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Synchro,filled from closest kin,9
+main,Sphaeridium,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Emerge,filled from closest kin,15
+main,Sphaeridium,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Rheophily,filled from closest kin,12
+main,Sphaeridium,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Thermal,filled from closest kin,14
+main,Stegopterna,Twardochleb genus,Simuliidae,Simuliidae (family),Emerge,filled from closest kin,3
+main,Stegopterna,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+main,Stenochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Stenochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Stictochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+main,Stictochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Flying,filled from closest kin,12
+main,Stictochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Stilobezzia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+main,Stilobezzia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+main,Stratiomyidae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+main,Stratiomys,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+main,Suphisellus,Twardochleb genus,Noteridae,NA,Respiration,"missing, no family record",0
+main,Suphisellus,Twardochleb genus,Noteridae,NA,Thermal,"missing, no family record",0
+main,Suphisellus,Twardochleb genus,Noteridae,NA,Synchro,"missing, no family record",0
+main,Susulus,Twardochleb genus,Perlodidae,Perlodidae (family),Emerge,filled from closest kin,23
+main,Tabanus,Twardochleb genus,Tabanidae,Tabanidae (family),Emerge,filled from closest kin,3
+main,Tanypodinae,tribe or subfamily meld,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Tanytarsini,tribe or subfamily meld,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+main,Tanytarsini,tribe or subfamily meld,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Tanytarsus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+main,Tanytarsus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+main,Thaumalea,Twardochleb genus,Thaumaleidae,NA,Emerge,"missing, no family record",0
+main,Thermonectus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Thermonectus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Thermonectus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Thienemanniella,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Thienemanniella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Tinodes,Twardochleb genus,Psychomyiidae,NA,Emerge,"missing, no family record",0
+main,Tramea,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+main,Trepobates,Twardochleb genus,Gerridae,Gerridae (family),Emerge,filled from closest kin,2
+main,Trichocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Emerge,filled from closest kin,1
+main,Trichocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Flying,filled from closest kin,1
+main,Trichocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Synchro,filled from closest kin,1
+main,Tvetenia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+main,Tvetenia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Rheophily,filled from closest kin,29
+main,Tvetenia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+main,Wiedemannia,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+main,Yphria,Twardochleb genus,Phryganeidae,Phryganeidae (family),Disperse,filled from closest kin,1
+main,Yphria,Twardochleb genus,Phryganeidae,Phryganeidae (family),Synchro,filled from closest kin,3
+main,Zaitzevia,Twardochleb genus,Elmidae,Elmidae (family),Disperse,filled from closest kin,8
+main,Zaitzevia,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+main,Zaitzevia,Twardochleb genus,Elmidae,Elmidae (family),Synchro,filled from closest kin,8
+main,Zumatrichia,Twardochleb genus,Hydroptilidae,Hydroptilidae (family),Emerge,filled from closest kin,14
+main,Ironoquia,targeted meld,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+main,Hoperius,targeted meld,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Hoperius,targeted meld,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Hoperius,targeted meld,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+main,Oxycera,targeted meld,Stratiomyidae,NA,Emerge,"missing, no family record",0
+main,Hydaticus,targeted meld,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+main,Hydaticus,targeted meld,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+main,Hydaticus,targeted meld,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Abedus,Twardochleb genus,Belostomatidae,Belostomatidae (family),Emerge,filled from closest kin,2
+sensitivity,Ablabesmyia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Ablabesmyia,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+sensitivity,Acilius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Acilius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Acilius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Acneus,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+sensitivity,Adicrophleps,Twardochleb genus,Brachycentridae,Brachycentridae (family),Emerge,filled from closest kin,3
+sensitivity,Agarodes,Twardochleb genus,Sericostomatidae,Sericostomatidae (family),Disperse,filled from closest kin,1
+sensitivity,Agarodes,Twardochleb genus,Sericostomatidae,Sericostomatidae (family),Flying,filled from closest kin,1
+sensitivity,Agathon,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Alisotrichia,Twardochleb genus,Hydroptilidae,Hydroptilidae (family),Emerge,filled from closest kin,14
+sensitivity,Alluaudomyia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+sensitivity,Alluaudomyia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+sensitivity,Amiocentrus,Twardochleb genus,Brachycentridae,Brachycentridae (family),Emerge,filled from closest kin,3
+sensitivity,Anacroneuria,Twardochleb genus,Perlidae,Perlidae (family),Disperse,filled from closest kin,14
+sensitivity,Anacroneuria,Twardochleb genus,Perlidae,Perlidae (family),Synchro,filled from closest kin,14
+sensitivity,Anisocentropus,Twardochleb genus,Calamoceratidae,Calamoceratidae (family),Disperse,filled from closest kin,2
+sensitivity,Apedilum,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Apedilum,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Aquarius,Twardochleb genus,Gerridae,Gerridae (family),Emerge,filled from closest kin,2
+sensitivity,Arthroplea,Twardochleb genus,Arthropleidae,NA,Disperse,"missing, no family record",0
+sensitivity,Arthroplea,Twardochleb genus,Arthropleidae,NA,Flying,"missing, no family record",0
+sensitivity,Arthroplea,Twardochleb genus,Arthropleidae,NA,Synchro,"missing, no family record",0
+sensitivity,Asynarchus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Atrichopogon,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+sensitivity,Beothukus,Twardochleb genus,Phryganeidae,Phryganeidae (family),Disperse,filled from closest kin,1
+sensitivity,Beothukus,Twardochleb genus,Phryganeidae,Phryganeidae (family),Feed,filled from closest kin,7
+sensitivity,Bezzia,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+sensitivity,Bibiocephala,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Bisancora,Twardochleb genus,Chloroperlidae,Chloroperlidae (family),Emerge,filled from closest kin,11
+sensitivity,Bittacomorpha,Twardochleb genus,Ptychopteridae,NA,Emerge,"missing, no family record",0
+sensitivity,Blepharicera,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Blephariceridae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Bolotoperla,Twardochleb genus,Taeniopterygidae,Taeniopterygidae (family),Emerge,filled from closest kin,5
+sensitivity,Brachypremna,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Brachypremna,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+sensitivity,Brachypremna,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Bradysia,Twardochleb genus,Sciaridae,NA,Disperse,"missing, no family record",0
+sensitivity,Bradysia,Twardochleb genus,Sciaridae,NA,Emerge,"missing, no family record",0
+sensitivity,Bradysia,Twardochleb genus,Sciaridae,NA,Rheophily,"missing, no family record",0
+sensitivity,Brillia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Brillia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Caloparyphus,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+sensitivity,Capnura,Twardochleb genus,Capniidae,Capniidae (family),Emerge,filled from closest kin,10
+sensitivity,Cascadoperla,Twardochleb genus,Perlodidae,Perlodidae (family),Emerge,filled from closest kin,23
+sensitivity,Celithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+sensitivity,Celithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+sensitivity,Celithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Flying,filled from closest kin,17
+sensitivity,Ceratopogon,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+sensitivity,Ceratopogon,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+sensitivity,Chaetocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Chaetocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Cheilotrichia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Cheilotrichia,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+sensitivity,Cheilotrichia,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Chelifera,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+sensitivity,Chimarra,Twardochleb genus,Philopotamidae,Philopotamidae (family),Emerge,filled from closest kin,2
+sensitivity,Chironominae,tribe or subfamily meld,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Chironomini,tribe or subfamily meld,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Chironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Chrysops,Twardochleb genus,Tabanidae,Tabanidae (family),Emerge,filled from closest kin,3
+sensitivity,Chyranda,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Climacia,Twardochleb genus,Sisyridae,NA,Emerge,"missing, no family record",0
+sensitivity,Clinocera,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+sensitivity,Clioperla,Twardochleb genus,Perlodidae,Perlodidae (family),Emerge,filled from closest kin,23
+sensitivity,Cnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Habit,filled from closest kin,8
+sensitivity,Cnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+sensitivity,Colymbetes,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Colymbetes,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Colymbetes,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Corynoneura,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Corynoneura,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Crambidae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Cryphocricos,Twardochleb genus,Naucoridae,Naucoridae (family),Disperse,filled from closest kin,2
+sensitivity,Cryphocricos,Twardochleb genus,Naucoridae,Naucoridae (family),Flying,filled from closest kin,2
+sensitivity,Cryphocricos,Twardochleb genus,Naucoridae,Naucoridae (family),Synchro,filled from closest kin,2
+sensitivity,Cryptochia,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Cryptochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Cryptochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Cryptolabis,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Culiseta,Twardochleb genus,Culicidae,Culicidae (family),Disperse,filled from closest kin,3
+sensitivity,Culiseta,Twardochleb genus,Culicidae,Culicidae (family),Flying,filled from closest kin,4
+sensitivity,Culiseta,Twardochleb genus,Culicidae,Culicidae (family),Synchro,filled from closest kin,4
+sensitivity,Curicta,Twardochleb genus,Nepidae,Nepidae (family),Emerge,filled from closest kin,2
+sensitivity,Cyrnellus,Twardochleb genus,Polycentropodidae,Polycentropodidae (family),Emerge,filled from closest kin,4
+sensitivity,Dannella,Twardochleb genus,Ephemerellidae,Ephemerellidae (family),Disperse,filled from closest kin,8
+sensitivity,Dannella,Twardochleb genus,Ephemerellidae,Ephemerellidae (family),Flying,filled from closest kin,8
+sensitivity,Dannella,Twardochleb genus,Ephemerellidae,Ephemerellidae (family),Synchro,filled from closest kin,8
+sensitivity,Dasyhelea,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+sensitivity,Dasyhelea,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Thermal,filled from closest kin,5
+sensitivity,Demicryptochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Demicryptochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Emerge,filled from closest kin,29
+sensitivity,Demicryptochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Diamesa,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Diamesa,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Dicosmoecus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Dicranota,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Dicrotendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Dicrotendipes,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Dipseudopsidae,family or higher meld,NA,NA,Disperse,"missing, no family record",0
+sensitivity,Dipseudopsidae,family or higher meld,NA,NA,Flying,"missing, no family record",0
+sensitivity,Dipseudopsidae,family or higher meld,NA,NA,Synchro,"missing, no family record",0
+sensitivity,Dixa,Twardochleb genus,Dixidae,NA,Emerge,"missing, no family record",0
+sensitivity,Dixella,Twardochleb genus,Dixidae,NA,Emerge,"missing, no family record",0
+sensitivity,Dolichocephala,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+sensitivity,Dolichocephala,Twardochleb genus,Empididae,Empididae (family),Thermal,filled from closest kin,8
+sensitivity,Dytiscus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Dytiscus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Dytiscus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Ecclisomyia,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Ectemnia,Twardochleb genus,Simuliidae,Simuliidae (family),Emerge,filled from closest kin,3
+sensitivity,Ectemnia,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+sensitivity,Ectopria,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+sensitivity,Empididae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Eocosmoecus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Ephydra,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+sensitivity,Ephydridae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Epiphragma,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Epiphragma,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+sensitivity,Epiphragma,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Erioptera,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Erythemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+sensitivity,Erythrodiplax,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+sensitivity,Erythrodiplax,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+sensitivity,Erythrodiplax,Twardochleb genus,Libellulidae,Libellulidae (family),Synchro,filled from closest kin,14
+sensitivity,Eubrianax,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+sensitivity,Eukiefferiella,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Eukiefferiella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Euparyphus,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+sensitivity,Farula,Twardochleb genus,Uenoidae,Uenoidae (family),Emerge,filled from closest kin,2
+sensitivity,Forcipomyia,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+sensitivity,Forcipomyia,Twardochleb genus,Ceratopogonidae,Forcipomyiinae (subfamily),Thermal,filled from closest kin,1
+sensitivity,Gelastocoris,Twardochleb genus,Gelastocoridae,NA,Disperse,"missing, no family record",0
+sensitivity,Gelastocoris,Twardochleb genus,Gelastocoridae,NA,Flying,"missing, no family record",0
+sensitivity,Gelastocoris,Twardochleb genus,Gelastocoridae,NA,Synchro,"missing, no family record",0
+sensitivity,Goeracea,Twardochleb genus,Goeridae,Goeridae (family),Emerge,filled from closest kin,2
+sensitivity,Goerita,Twardochleb genus,Goeridae,Goeridae (family),Disperse,filled from closest kin,2
+sensitivity,Goerita,Twardochleb genus,Goeridae,Goeridae (family),Respiration,filled from closest kin,2
+sensitivity,Goerita,Twardochleb genus,Goeridae,Goeridae (family),Synchro,filled from closest kin,2
+sensitivity,Gonielmis,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+sensitivity,Gonielmis,Twardochleb genus,Elmidae,Elmidae (family),Thermal,filled from closest kin,17
+sensitivity,Gonomyia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Gonomyia,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Gumaga,Twardochleb genus,Sericostomatidae,Sericostomatidae (family),Emerge,filled from closest kin,1
+sensitivity,Gyretes,Twardochleb genus,Gyrinidae,Gyrinidae (family),Emerge,filled from closest kin,2
+sensitivity,Gyretes,Twardochleb genus,Gyrinidae,Gyrinidae (family),Respiration,filled from closest kin,2
+sensitivity,Hansonoperla,Twardochleb genus,Perlidae,Perlidae (family),Emerge,filled from closest kin,14
+sensitivity,Harnischia,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Harnischia,Twardochleb genus,Chironomidae,Chironomini (tribe),Respiration,filled from closest kin,13
+sensitivity,Harnischia,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Heleniella,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Heleniella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Emerge,filled from closest kin,29
+sensitivity,Heleniella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Helius,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Helius,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Helochares,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Emerge,filled from closest kin,15
+sensitivity,Helochares,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Respiration,filled from closest kin,16
+sensitivity,Hemerodromia,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+sensitivity,Hesperagrion,Twardochleb genus,Coenagrionidae,Coenagrionidae (family),Emerge,filled from closest kin,9
+sensitivity,Hesperoconopa,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Hesperocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Emerge,filled from closest kin,1
+sensitivity,Hesperocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Flying,filled from closest kin,1
+sensitivity,Hesperocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Synchro,filled from closest kin,1
+sensitivity,Heterelmis,Twardochleb genus,Elmidae,Elmidae (family),Disperse,filled from closest kin,8
+sensitivity,Heterelmis,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+sensitivity,Heterelmis,Twardochleb genus,Elmidae,Elmidae (family),Synchro,filled from closest kin,8
+sensitivity,Heterotrissocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Heterotrissocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Hexatoma,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Himalopsyche,Twardochleb genus,Rhyacophilidae,Rhyacophilidae (family),Disperse,filled from closest kin,1
+sensitivity,Himalopsyche,Twardochleb genus,Rhyacophilidae,Rhyacophilidae (family),Flying,filled from closest kin,1
+sensitivity,Homophylax,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Hydatophylax,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Hydraena,Twardochleb genus,Hydraenidae,NA,Emerge,"missing, no family record",0
+sensitivity,Hydraena,Twardochleb genus,Hydraenidae,Hydraenidae (family),Respiration,filled from closest kin,1
+sensitivity,Hydrellia,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+sensitivity,Hydrobaenus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Hydrobaenus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Rheophily,filled from closest kin,29
+sensitivity,Hydrobaenus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Hydrobius,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Disperse,filled from closest kin,9
+sensitivity,Hydrobius,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Flying,filled from closest kin,11
+sensitivity,Hydrobius,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Synchro,filled from closest kin,9
+sensitivity,Hydroscapha,Twardochleb genus,Hydroscaphidae,NA,Emerge,"missing, no family record",0
+sensitivity,Hygrotus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Hygrotus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Hygrotus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Ilybius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Ilybius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Ilybius,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Krenosmittia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Krenosmittia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Labrundinia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Labrundinia,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+sensitivity,Larsia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Larsia,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+sensitivity,Lasiodiamesa,Twardochleb genus,Chironomidae,Boreochlini (tribe),Disperse,filled from closest kin,1
+sensitivity,Lasiodiamesa,Twardochleb genus,Chironomidae,Boreochlini (tribe),Voltinism,filled from closest kin,2
+sensitivity,Lasiodiamesa,Twardochleb genus,Chironomidae,Boreochlini (tribe),Size,filled from closest kin,2
+sensitivity,Lepidoptera,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Leptocerus,Twardochleb genus,Leptoceridae,Leptoceridae (family),Disperse,filled from closest kin,6
+sensitivity,Leptocerus,Twardochleb genus,Leptoceridae,Leptoceridae (family),Flying,filled from closest kin,6
+sensitivity,Leptocerus,Twardochleb genus,Leptoceridae,Leptoceridae (family),Synchro,filled from closest kin,6
+sensitivity,Leptoconops,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Emerge,filled from closest kin,2
+sensitivity,Leptoconops,Twardochleb genus,Ceratopogonidae,Ceratopogonidae (family),Thermal,filled from closest kin,5
+sensitivity,Leptohyphes,Twardochleb genus,Leptohyphidae,Leptohyphidae (family),Emerge,filled from closest kin,1
+sensitivity,Lethocerus,Twardochleb genus,Belostomatidae,Belostomatidae (family),Synchro,filled from closest kin,2
+sensitivity,Limnephilus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Limnophila,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Limnophora,Twardochleb genus,Muscidae,NA,Emerge,"missing, no family record",0
+sensitivity,Limonia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Lipsothrix,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Lipsothrix,Twardochleb genus,Tipulidae,Tipulidae (family),Habit,filled from closest kin,22
+sensitivity,Lipsothrix,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Lutrochus,Twardochleb genus,Lutrochidae,NA,Emerge,"missing, no family record",0
+sensitivity,Lutrochus,Twardochleb genus,Lutrochidae,NA,Synchro,"missing, no family record",0
+sensitivity,Lype,Twardochleb genus,Psychomyiidae,NA,Emerge,"missing, no family record",0
+sensitivity,Maccaffertium,Twardochleb genus,Heptageniidae,Heptageniidae (family),Disperse,filled from closest kin,12
+sensitivity,Maccaffertium,Twardochleb genus,Heptageniidae,Heptageniidae (family),Flying,filled from closest kin,12
+sensitivity,Maccaffertium,Twardochleb genus,Heptageniidae,Heptageniidae (family),Synchro,filled from closest kin,12
+sensitivity,Mallochohelea,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+sensitivity,Mallochohelea,Twardochleb genus,Ceratopogonidae,Sphaeromiini (tribe),Thermal,filled from closest kin,1
+sensitivity,Mansonia,Twardochleb genus,Culicidae,Culicidae (family),Disperse,filled from closest kin,3
+sensitivity,Mansonia,Twardochleb genus,Culicidae,Culicidae (family),Rheophily,filled from closest kin,5
+sensitivity,Mansonia,Twardochleb genus,Culicidae,Culicidae (family),Synchro,filled from closest kin,4
+sensitivity,Maruina,Twardochleb genus,Psychodidae,NA,Emerge,"missing, no family record",0
+sensitivity,Mesovelia,Twardochleb genus,Mesoveliidae,NA,Disperse,"missing, no family record",0
+sensitivity,Mesovelia,Twardochleb genus,Mesoveliidae,NA,Respiration,"missing, no family record",0
+sensitivity,Metacnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Emerge,filled from closest kin,3
+sensitivity,Metacnephia,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+sensitivity,Micropsectra,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+sensitivity,Micropsectra,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Microtendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Microtendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Flying,filled from closest kin,12
+sensitivity,Microtendipes,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Microvelia,Twardochleb genus,Veliidae,Veliidae (family),Emerge,filled from closest kin,1
+sensitivity,Molanna,Twardochleb genus,Molannidae,NA,Emerge,"missing, no family record",0
+sensitivity,Molophilus,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Molophilus,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Monohelea,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+sensitivity,Monohelea,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+sensitivity,Moselyana,Twardochleb genus,Apataniidae,Apataniidae (family),Emerge,filled from closest kin,2
+sensitivity,Muscidae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Nanocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Nanocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Nemotelus,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+sensitivity,Neoheterocerus,Twardochleb genus,Heteroceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Neoplasta,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+sensitivity,Neoplea,Twardochleb genus,Pleidae,NA,Disperse,"missing, no family record",0
+sensitivity,Neoplea,Twardochleb genus,Pleidae,NA,Flying,"missing, no family record",0
+sensitivity,Neoplea,Twardochleb genus,Pleidae,NA,Synchro,"missing, no family record",0
+sensitivity,Neoporus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Neoporus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Neoporus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Neothremma,Twardochleb genus,Uenoidae,Uenoidae (family),Emerge,filled from closest kin,2
+sensitivity,Nilotanypus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Nilotanypus,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+sensitivity,Notonecta,Twardochleb genus,Notonectidae,NA,Emerge,"missing, no family record",0
+sensitivity,Notonecta,Twardochleb genus,Notonectidae,NA,Thermal,"missing, no family record",0
+sensitivity,Notonecta,Twardochleb genus,Notonectidae,NA,Synchro,"missing, no family record",0
+sensitivity,Ochlerotatus,Twardochleb genus,Culicidae,Culicidae (family),Disperse,filled from closest kin,3
+sensitivity,Ochlerotatus,Twardochleb genus,Culicidae,Culicidae (family),Respiration,filled from closest kin,10
+sensitivity,Ochlerotatus,Twardochleb genus,Culicidae,Culicidae (family),Flying,filled from closest kin,4
+sensitivity,Ochthebius,Twardochleb genus,Hydraenidae,NA,Emerge,"missing, no family record",0
+sensitivity,Ochthebius,Twardochleb genus,Hydraenidae,Hydraenidae (family),Respiration,filled from closest kin,1
+sensitivity,Odontoceridae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Odontomyia,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+sensitivity,Onocosmoecus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Optioservus,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+sensitivity,Ormosia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Oropsyche,Twardochleb genus,Hydropsychidae,Hydropsychidae (family),Emerge,filled from closest kin,10
+sensitivity,Orthemis,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+sensitivity,Orthemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+sensitivity,Orthemis,Twardochleb genus,Libellulidae,Libellulidae (family),Thermal,filled from closest kin,15
+sensitivity,Orthocladiinae,tribe or subfamily meld,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Orthocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Oulimnius,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+sensitivity,Palaeodipteron,Twardochleb genus,Nymphomyiidae,NA,Disperse,"missing, no family record",0
+sensitivity,Palaeodipteron,Twardochleb genus,Nymphomyiidae,NA,Respiration,"missing, no family record",0
+sensitivity,Palmacorixa,Twardochleb genus,Corixidae,Corixini (tribe),Thermal,filled from closest kin,5
+sensitivity,Palpomyia,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+sensitivity,Palpomyia,Twardochleb genus,Ceratopogonidae,Palpomyiini (tribe),Thermal,filled from closest kin,1
+sensitivity,Pantala,Twardochleb genus,Libellulidae,Libellulidae (family),Disperse,filled from closest kin,9
+sensitivity,Paraboreochlus,Twardochleb genus,Chironomidae,Boreochlini (tribe),Disperse,filled from closest kin,1
+sensitivity,Paraboreochlus,Twardochleb genus,Chironomidae,Boreochlini (tribe),Flying,filled from closest kin,2
+sensitivity,Paraboreochlus,Twardochleb genus,Chironomidae,Boreochlini (tribe),Synchro,filled from closest kin,2
+sensitivity,Paracladopelma,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Paracladopelma,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Paramerina,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Paramerina,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+sensitivity,Parametriocnemus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Parametriocnemus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Parapoynx,Twardochleb genus,Crambidae,NA,Emerge,"missing, no family record",0
+sensitivity,Paratendipes,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Paratendipes,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Parochlus,Twardochleb genus,Chironomidae,Podonominae (subfamily),Disperse,filled from closest kin,1
+sensitivity,Parochlus,Twardochleb genus,Chironomidae,Podonominae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Parthina,Twardochleb genus,Odontoceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Parydra,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+sensitivity,Pedicia,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Pedomoecus,Twardochleb genus,Apataniidae,Apataniidae (family),Emerge,filled from closest kin,2
+sensitivity,Pelonomus,Twardochleb genus,Dryopidae,Dryopidae (family),Emerge,filled from closest kin,1
+sensitivity,Pentaneura,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Pentaneura,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+sensitivity,Pericoma,Twardochleb genus,Psychodidae,NA,Emerge,"missing, no family record",0
+sensitivity,Perithemis,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+sensitivity,Petrophila,Twardochleb genus,Crambidae,NA,Emerge,"missing, no family record",0
+sensitivity,Phaenopsectra,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Phaenopsectra,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Philocasca,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Philorus,Twardochleb genus,Blephariceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Phryganea,Twardochleb genus,Phryganeidae,Phryganeidae (family),Disperse,filled from closest kin,1
+sensitivity,Phylocentropus,Twardochleb genus,Dipseudopsidae,NA,Disperse,"missing, no family record",0
+sensitivity,Phylocentropus,Twardochleb genus,Dipseudopsidae,NA,Flying,"missing, no family record",0
+sensitivity,Phylocentropus,Twardochleb genus,Dipseudopsidae,NA,Synchro,"missing, no family record",0
+sensitivity,Pilaria,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Pilaria,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Platambus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Platambus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Respiration,filled from closest kin,31
+sensitivity,Platambus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Platycentropus,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Plauditus,Twardochleb genus,Baetidae,Baetidae (family),Disperse,filled from closest kin,14
+sensitivity,Plauditus,Twardochleb genus,Baetidae,Baetidae (family),Voltinism,filled from closest kin,16
+sensitivity,Plauditus,Twardochleb genus,Baetidae,Baetidae (family),Flying,filled from closest kin,14
+sensitivity,Plectrocnemia,Twardochleb genus,Polycentropodidae,Polycentropodidae (family),Disperse,filled from closest kin,4
+sensitivity,Plectrocnemia,Twardochleb genus,Polycentropodidae,Polycentropodidae (family),Flying,filled from closest kin,4
+sensitivity,Polypedilum,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Polypedilum,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Postelichus,Twardochleb genus,Dryopidae,Dryopidae (family),Emerge,filled from closest kin,1
+sensitivity,Postelichus,Twardochleb genus,Dryopidae,Dryopidae (family),Respiration,filled from closest kin,3
+sensitivity,Probezzia,Twardochleb genus,Ceratopogonidae,Ceratopogoninae (subfamily),Emerge,filled from closest kin,2
+sensitivity,Procladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Procladius,Twardochleb genus,Chironomidae,Tanypodinae (subfamily),Synchro,filled from closest kin,1
+sensitivity,Promoresia,accepted-name genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+sensitivity,Psectrocladius,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Psectrocladius,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Psephenus,Twardochleb genus,Psephenidae,NA,Emerge,"missing, no family record",0
+sensitivity,Pseudochironomus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+sensitivity,Pseudochironomus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Flying,filled from closest kin,18
+sensitivity,Pseudochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Pseudogoera,Twardochleb genus,Odontoceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Pseudolimnophila,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Pseudolimnophila,Twardochleb genus,Tipulidae,Tipulidae (family),Thermal,filled from closest kin,14
+sensitivity,Pseudostenophylax,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Psilotreta,Twardochleb genus,Odontoceridae,NA,Emerge,"missing, no family record",0
+sensitivity,Psychoda,Twardochleb genus,Psychodidae,NA,Emerge,"missing, no family record",0
+sensitivity,Psychoglypha,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Psychomyia,Twardochleb genus,Psychomyiidae,NA,Emerge,"missing, no family record",0
+sensitivity,Psychoronia,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Ptychoptera,Twardochleb genus,Ptychopteridae,NA,Emerge,"missing, no family record",0
+sensitivity,Pycnopsyche,Twardochleb genus,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Ranatra,Twardochleb genus,Nepidae,Nepidae (family),Disperse,filled from closest kin,2
+sensitivity,Ranatra,Twardochleb genus,Nepidae,Nepidae (family),Synchro,filled from closest kin,2
+sensitivity,Rhabdomastix,Twardochleb genus,Tipulidae,Tipulidae (family),Emerge,filled from closest kin,2
+sensitivity,Rhagovelia,Twardochleb genus,Veliidae,Veliidae (family),Emerge,filled from closest kin,1
+sensitivity,Rhantus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Rhantus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Rhantus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Rheocricotopus,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Rheocricotopus,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Rheotanytarsus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+sensitivity,Rheotanytarsus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Rheumatobates,Twardochleb genus,Gerridae,Gerridae (family),Emerge,filled from closest kin,2
+sensitivity,Rhionaeschna,Twardochleb genus,Aeshnidae,Aeshnidae (family),Disperse,filled from closest kin,7
+sensitivity,Rhionaeschna,Twardochleb genus,Aeshnidae,Aeshnidae (family),Respiration,filled from closest kin,8
+sensitivity,Rhionaeschna,Twardochleb genus,Aeshnidae,Aeshnidae (family),Synchro,filled from closest kin,6
+sensitivity,Rhyacophila,Twardochleb genus,Rhyacophilidae,Rhyacophilidae (family),Emerge,filled from closest kin,1
+sensitivity,Rossiana,Twardochleb genus,Rossianidae,NA,Emerge,"missing, no family record",0
+sensitivity,Saldula,Twardochleb genus,Saldidae,NA,Disperse,"missing, no family record",0
+sensitivity,Saldula,Twardochleb genus,Saldidae,NA,Synchro,"missing, no family record",0
+sensitivity,Scatella,Twardochleb genus,Ephydridae,NA,Emerge,"missing, no family record",0
+sensitivity,Setodes,Twardochleb genus,Leptoceridae,Leptoceridae (family),Emerge,filled from closest kin,7
+sensitivity,Sigara,Twardochleb genus,Corixidae,Corixini (tribe),Emerge,filled from closest kin,1
+sensitivity,Sigara,Twardochleb genus,Corixidae,Corixini (tribe),Flying,filled from closest kin,1
+sensitivity,Sigara,Twardochleb genus,Corixidae,Corixini (tribe),Synchro,filled from closest kin,1
+sensitivity,Sisyra,Twardochleb genus,Sisyridae,NA,Emerge,"missing, no family record",0
+sensitivity,Smittia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Smittia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Sperchopsis,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Disperse,filled from closest kin,9
+sensitivity,Sperchopsis,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Flying,filled from closest kin,11
+sensitivity,Sperchopsis,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Synchro,filled from closest kin,9
+sensitivity,Sphaeridium,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Emerge,filled from closest kin,15
+sensitivity,Sphaeridium,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Rheophily,filled from closest kin,12
+sensitivity,Sphaeridium,Twardochleb genus,Hydrophilidae,Hydrophilidae (family),Thermal,filled from closest kin,14
+sensitivity,Stegopterna,Twardochleb genus,Simuliidae,Simuliidae (family),Emerge,filled from closest kin,3
+sensitivity,Stegopterna,Twardochleb genus,Simuliidae,Simuliidae (family),Thermal,filled from closest kin,2
+sensitivity,Stenochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Stenochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Stictochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Disperse,filled from closest kin,1
+sensitivity,Stictochironomus,Twardochleb genus,Chironomidae,Chironomini (tribe),Flying,filled from closest kin,12
+sensitivity,Stictochironomus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Stilobezzia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Emerge,filled from closest kin,1
+sensitivity,Stilobezzia,Twardochleb genus,Ceratopogonidae,Ceratopogonini (tribe),Thermal,filled from closest kin,1
+sensitivity,Stratiomyidae,family or higher meld,NA,NA,Emerge,"missing, no family record",0
+sensitivity,Stratiomys,Twardochleb genus,Stratiomyidae,NA,Emerge,"missing, no family record",0
+sensitivity,Suphisellus,Twardochleb genus,Noteridae,NA,Respiration,"missing, no family record",0
+sensitivity,Suphisellus,Twardochleb genus,Noteridae,NA,Thermal,"missing, no family record",0
+sensitivity,Suphisellus,Twardochleb genus,Noteridae,NA,Synchro,"missing, no family record",0
+sensitivity,Susulus,Twardochleb genus,Perlodidae,Perlodidae (family),Emerge,filled from closest kin,23
+sensitivity,Tabanus,Twardochleb genus,Tabanidae,Tabanidae (family),Emerge,filled from closest kin,3
+sensitivity,Tanypodinae,tribe or subfamily meld,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Tanytarsini,tribe or subfamily meld,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+sensitivity,Tanytarsini,tribe or subfamily meld,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Tanytarsus,Twardochleb genus,Chironomidae,Chironominae (subfamily),Disperse,filled from closest kin,1
+sensitivity,Tanytarsus,Twardochleb genus,Chironomidae,Chironomidae (family),Synchro,filled from closest kin,5
+sensitivity,Thaumalea,Twardochleb genus,Thaumaleidae,NA,Emerge,"missing, no family record",0
+sensitivity,Thermonectus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Thermonectus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Thermonectus,Twardochleb genus,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Thienemanniella,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Thienemanniella,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Tinodes,Twardochleb genus,Psychomyiidae,NA,Emerge,"missing, no family record",0
+sensitivity,Tramea,Twardochleb genus,Libellulidae,Libellulidae (family),Respiration,filled from closest kin,7
+sensitivity,Trepobates,Twardochleb genus,Gerridae,Gerridae (family),Emerge,filled from closest kin,2
+sensitivity,Trichocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Emerge,filled from closest kin,1
+sensitivity,Trichocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Flying,filled from closest kin,1
+sensitivity,Trichocorixa,Twardochleb genus,Corixidae,Corixini (tribe),Synchro,filled from closest kin,1
+sensitivity,Tvetenia,Twardochleb genus,Chironomidae,Chironomidae (family),Disperse,filled from closest kin,2
+sensitivity,Tvetenia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Rheophily,filled from closest kin,29
+sensitivity,Tvetenia,Twardochleb genus,Chironomidae,Orthocladiinae (subfamily),Synchro,filled from closest kin,2
+sensitivity,Wiedemannia,Twardochleb genus,Empididae,NA,Emerge,"missing, no family record",0
+sensitivity,Yphria,Twardochleb genus,Phryganeidae,Phryganeidae (family),Disperse,filled from closest kin,1
+sensitivity,Yphria,Twardochleb genus,Phryganeidae,Phryganeidae (family),Synchro,filled from closest kin,3
+sensitivity,Zaitzevia,Twardochleb genus,Elmidae,Elmidae (family),Disperse,filled from closest kin,8
+sensitivity,Zaitzevia,Twardochleb genus,Elmidae,Elmidae (family),Emerge,filled from closest kin,5
+sensitivity,Zaitzevia,Twardochleb genus,Elmidae,Elmidae (family),Synchro,filled from closest kin,8
+sensitivity,Zumatrichia,Twardochleb genus,Hydroptilidae,Hydroptilidae (family),Emerge,filled from closest kin,14
+sensitivity,Ironoquia,targeted meld,Limnephilidae,Limnephilidae (family),Emerge,filled from closest kin,7
+sensitivity,Hoperius,targeted meld,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Hoperius,targeted meld,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Hoperius,targeted meld,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7
+sensitivity,Oxycera,targeted meld,Stratiomyidae,NA,Emerge,"missing, no family record",0
+sensitivity,Hydaticus,targeted meld,Dytiscidae,Dytiscidae (family),Disperse,filled from closest kin,8
+sensitivity,Hydaticus,targeted meld,Dytiscidae,Dytiscidae (family),Flying,filled from closest kin,9
+sensitivity,Hydaticus,targeted meld,Dytiscidae,Dytiscidae (family),Synchro,filled from closest kin,7

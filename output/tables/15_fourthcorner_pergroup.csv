@@ -1,0 +1,67 @@
+q_ordination,Region,block,n_taxa,n_states,trace,n_tests,n_seeds_pass,p_raw_min,p_raw_max,p_fdr_min,p_fdr_max,verdict
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Disperse,140,2,0.030867188985099336,11,0,0.3594,0.3649,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Emerge,127,4,0.01616087058706129,11,0,0.6331,0.6443,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Feed,142,6,0.013786133329732483,11,0,0.9523,0.955,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Flying,140,2,0.08144142238380239,11,0,0.1229,0.132,0.6759499999999999,0.726,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Habit,142,8,0.032830423524487465,11,0,0.8277,0.8392,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Respiration,142,3,0.06954198296717541,11,0,0.1175,0.1229,0.6759499999999999,0.726,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Rheophily,142,3,0.006989187196878095,11,0,0.7702,0.7837,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Size,142,3,0.009233984179627251,11,0,0.6255,0.6308,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Synchro,140,2,3.4761487946276476e-4,11,0,0.8776,0.8847,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Thermal,142,5,0.0024803707644416705,11,0,0.9701,0.9732,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Coastal Plain,Voltinism,142,3,0.00407516917458495,11,0,0.8653,0.8698,0.9701,0.9732,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Disperse,152,2,0.03109322717935791,11,0,0.1277,0.1359,0.46823333333333333,0.49829999999999997,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Emerge,137,4,0.003432613911336268,11,0,0.7966,0.806,0.7966,0.806,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Feed,152,6,0.03647734713887421,11,0,0.4207,0.4277,0.5784625,0.5886100000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Flying,152,2,0.018021870493810856,11,0,0.1808,0.1969,0.4972,0.5414749999999999,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Habit,152,7,0.024702599997873543,11,0,0.4159,0.4287,0.5784625,0.5886100000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Respiration,152,3,0.02898036645861341,11,0,0.071,0.0766,0.46823333333333333,0.49829999999999997,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Rheophily,152,3,0.010151585853496273,11,0,0.2797,0.2899,0.5784625,0.5886100000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Size,152,3,0.018033360348586578,11,0,0.0874,0.0969,0.46823333333333333,0.49829999999999997,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Synchro,152,2,0.005178269111331924,11,0,0.3867,0.3933,0.5784625,0.5886100000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Thermal,152,5,0.0075888882466528,11,0,0.5351,0.5453,0.5886100000000001,0.5998300000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Piedmont,Voltinism,152,3,0.00896876229043379,11,0,0.4892,0.499,0.5886100000000001,0.5998300000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Disperse,118,2,0.013371883019236613,11,0,0.4797,0.4965,0.9025,0.9092,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Emerge,105,4,0.009917417745830276,11,0,0.6916,0.7043,0.9025,0.9092,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Feed,118,6,0.033602974009228376,11,0,0.77,0.7744,0.9025,0.9092,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Flying,118,2,0.09277268749626648,11,0,0.0687,0.0737,0.37784999999999996,0.40535,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Habit,118,8,0.023498158015682898,11,0,0.7949,0.8018,0.9025,0.9092,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Respiration,118,3,0.07985714026450931,11,0,0.0357,0.041,0.37784999999999996,0.40535,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Rheophily,118,3,0.0027365535372528673,11,0,0.8475,0.8534,0.9025,0.9092,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Size,118,3,0.024016559223334656,11,0,0.1941,0.1991,0.6512,0.6883250000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Synchro,118,2,2.411031936596137e-4,11,0,0.9025,0.9092,0.9025,0.9092,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Thermal,118,5,0.028820798952183087,11,0,0.2368,0.2503,0.6512,0.6883250000000001,does not pass
+fuzzy correspondence analysis (the rule fixed first),Valley & Ridge,Voltinism,118,3,0.015321097842428119,11,0,0.6263,0.633,0.9025,0.9092,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Disperse,140,2,0.11265576669610707,11,0,0.0842,0.088,0.23154999999999998,0.242,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Emerge,127,4,0.13381612330041598,11,0,0.1472,0.1519,0.32384,0.33418000000000003,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Feed,142,6,0.029835848024577623,11,0,0.8231,0.831,0.9021,0.9121,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Flying,140,2,0.17914515178285348,11,0,0.0246,0.0262,0.22953333333333334,0.23466666666666666,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Habit,142,8,0.21790122912370188,11,0,0.0504,0.0544,0.22953333333333334,0.23466666666666666,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Respiration,142,3,0.15501375977863746,11,0,0.0626,0.064,0.22953333333333334,0.23466666666666666,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Rheophily,142,3,0.05095866200078302,11,0,0.4669,0.4808,0.8559833333333333,0.8814666666666666,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Size,142,3,0.03352788140243937,11,0,0.6143,0.6211,0.9021,0.9121,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Synchro,140,2,0.0025643867759421847,11,0,0.7634,0.7796,0.9021,0.9121,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Thermal,142,5,0.012738300047171426,11,0,0.9021,0.9121,0.9021,0.9121,does not pass
+states standardized (the declared sensitivity),Coastal Plain,Voltinism,142,3,0.021456090888417507,11,0,0.6681,0.6791,0.9021,0.9121,does not pass
+states standardized (the declared sensitivity),Piedmont,Disperse,152,2,0.09129348223802386,11,5,0.0033,0.0049,0.0363,0.053899999999999997,passes under every seed
+states standardized (the declared sensitivity),Piedmont,Emerge,137,4,0.022010009622041023,11,0,0.4388,0.4485,0.4388,0.4485,does not pass
+states standardized (the declared sensitivity),Piedmont,Feed,152,6,0.07776880856314801,11,5,0.0278,0.0301,0.07644999999999999,0.082775,passes under every seed
+states standardized (the declared sensitivity),Piedmont,Flying,152,2,0.0386509770088243,11,0,0.1186,0.1276,0.1637625,0.17545,does not pass
+states standardized (the declared sensitivity),Piedmont,Habit,152,7,0.06460262635350465,11,0,0.0835,0.0905,0.15308333333333335,0.1637625,does not pass
+states standardized (the declared sensitivity),Piedmont,Respiration,152,3,0.07340571756226771,11,5,0.0157,0.0185,0.06966666666666667,0.07516666666666667,passes under every seed
+states standardized (the declared sensitivity),Piedmont,Rheophily,152,3,0.067029749383122,11,5,0.019,0.0205,0.06966666666666667,0.07516666666666667,passes under every seed
+states standardized (the declared sensitivity),Piedmont,Size,152,3,0.057691535984714166,11,5,0.0375,0.0422,0.0825,0.09284,passes under every seed
+states standardized (the declared sensitivity),Piedmont,Synchro,152,2,0.020076155009581684,11,0,0.2135,0.2197,0.23485,0.24167000000000002,does not pass
+states standardized (the declared sensitivity),Piedmont,Thermal,152,5,0.04205204652200828,11,0,0.1634,0.1678,0.19971111111111112,0.2050888888888889,does not pass
+states standardized (the declared sensitivity),Piedmont,Voltinism,152,3,0.03854870423962569,11,0,0.119,0.1235,0.1637625,0.17545,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Disperse,118,2,0.04400615405271177,11,0,0.2351,0.2454,0.36944285714285713,0.38562857142857143,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Emerge,105,4,0.0513092352481989,11,0,0.4275,0.4374,0.5878125,0.601425,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Feed,118,6,0.12702297779382712,11,0,0.1375,0.1455,0.30250000000000005,0.3201,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Flying,118,2,0.20669186081790689,11,5,0.001,0.0018,0.0055,0.009899999999999999,passes under every seed
+states standardized (the declared sensitivity),Valley & Ridge,Habit,118,8,0.048808590414483786,11,0,0.7025,0.711,0.8174100000000001,0.8312700000000001,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Respiration,118,3,0.2106354302932725,11,5,2e-4,8e-4,0.0022,0.0088,passes under every seed
+states standardized (the declared sensitivity),Valley & Ridge,Rheophily,118,3,0.015400239150832946,11,0,0.7431,0.7557,0.8174100000000001,0.8312700000000001,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Size,118,3,0.10240354539472227,11,0,0.0772,0.0815,0.21230000000000002,0.22412500000000002,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Synchro,118,2,9.355699571903373e-4,11,0,0.8646,0.8767,0.8646,0.8767,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Thermal,118,5,0.15607634472933074,11,0,0.0534,0.0579,0.1958,0.2123,does not pass
+states standardized (the declared sensitivity),Valley & Ridge,Voltinism,118,3,0.07234086776430482,11,0,0.1939,0.1999,0.3554833333333333,0.3664833333333333,does not pass

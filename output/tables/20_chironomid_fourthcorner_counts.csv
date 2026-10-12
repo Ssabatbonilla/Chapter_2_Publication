@@ -1,0 +1,7 @@
+Weighting,Region,passing_all,passing_removed,lost,gained
+Biomass,Coastal Plain,5,6,0,1
+Biomass,Piedmont,7,5,2,0
+Biomass,Valley & Ridge,5,4,1,0
+Density,Coastal Plain,8,2,8,2
+Density,Piedmont,6,5,4,3
+Density,Valley & Ridge,4,5,0,1

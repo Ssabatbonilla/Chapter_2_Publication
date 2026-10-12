@@ -1,0 +1,10 @@
+check,value
+binary Gower Q reproduces published RaoQ_gower (max abs diff),2.22e-16
+fuzzy weighted Gower d^2/2 reproduces published dbFD RaoQ (max abs diff),6.25e-17
+fuzzy-pool dbFD FRic reproduces published FRic_den_fuzPool (max abs diff),4.97e-15
+"Spearman, FR_RD_den binary vs fuzzy",0.907
+"Spearman, FR_RD_bio binary vs fuzzy",0.683
+"Spearman, FR_DB_RD binary vs fuzzy",0.891
+taxa in trait matrix,215
+trait states,41
+group weights (unique),0.125 0.167 0.2 0.25 0.333 0.5

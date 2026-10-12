@@ -1,0 +1,6 @@
+modality,Region,cwm_rho,fc_stat,fc_p_model2,fc_p_model4,agreement
+Feed_SH,Piedmont,0.5078976640711902,0.21428294453479915,0.0144,0.0151,"corroborated, both models"
+Feed_CF,Piedmont,0.3268075639599555,0.04660232361279615,0.4569,0.563,not corroborated
+Flying_Strong,Coastal Plain,-0.19154616240266964,-0.05269520312286439,0.6422,0.6797,not corroborated
+Flying_Weak,Coastal Plain,0.19154616240266964,0.05269520312286438,0.6422,0.6797,not corroborated
+Emerge_Winter,Coastal Plain,-0.728587319243604,-0.20134819913282193,0.0117,0.1012,corroborated under site permutation only

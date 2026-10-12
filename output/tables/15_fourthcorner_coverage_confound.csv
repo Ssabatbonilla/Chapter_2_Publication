@@ -1,0 +1,19 @@
+Region,block,modality,density_coverage,r_cwm_coverage,rho,rho_partial,pct_lost,verdict
+Valley & Ridge,Flying,Flying_Strong,100,NA,-0.6315906562847609,NA,NA,complete coverage -- no confound possible
+Valley & Ridge,Flying,Flying_Weak,100,NA,0.6315906562847609,NA,NA,complete coverage -- no confound possible
+Valley & Ridge,Respiration,Respiration_Gills,100,NA,0.7481646273637376,NA,NA,complete coverage -- no confound possible
+Valley & Ridge,Respiration,Respiration_Tegument,100,NA,-0.7397107897664071,NA,NA,complete coverage -- no confound possible
+Piedmont,Disperse,Disperse_High,100,NA,-0.6293659621802002,NA,NA,complete coverage -- no confound possible
+Piedmont,Disperse,Disperse_Low,100,NA,0.6293659621802002,NA,NA,complete coverage -- no confound possible
+Piedmont,Respiration,Respiration_Gills,100,NA,0.6413793103448275,NA,NA,complete coverage -- no confound possible
+Piedmont,Respiration,Respiration_Tegument,100,NA,-0.6373748609566184,NA,NA,complete coverage -- no confound possible
+Piedmont,Rheophily,Rheophily_Depositional,100,NA,-0.4745272525027808,NA,NA,complete coverage -- no confound possible
+Piedmont,Rheophily,Rheophily_Erosional,100,NA,0.5167964404894326,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Flying,Flying_Strong,99.9843034639847,-0.1815565240467091,-0.611123470522803,-0.5964126500123458,2.4071764905171267,survives -- real trait signal
+Coastal Plain,Flying,Flying_Weak,99.9843034639847,0.1815565240467091,0.611123470522803,0.5964126500123458,2.4071764905171267,survives -- real trait signal
+Coastal Plain,Emerge,Emerge_Winter,99.12310356646825,-0.4354122966977046,-0.7499443826473859,-0.7541556972038118,-0.5615502501078007,survives -- real trait signal
+Coastal Plain,Disperse,Disperse_High,99.9843034639847,-0.20470112342943406,-0.5270300333704115,-0.5065626712984973,3.8835285991242974,survives -- real trait signal
+Coastal Plain,Disperse,Disperse_Low,99.9843034639847,0.20470112342943406,0.5270300333704115,0.5065626712984973,3.8835285991242974,survives -- real trait signal
+Coastal Plain,Habit,Habit_Crawler,100,NA,0.27360749634139137,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Respiration,Respiration_Gills,100,NA,0.3419354838709677,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Respiration,Respiration_Tegument,100,NA,-0.3543937708565072,NA,NA,complete coverage -- no confound possible

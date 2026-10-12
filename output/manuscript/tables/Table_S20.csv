@@ -1,0 +1,124 @@
+Region,block,term,n_taxa,n_carriers,stat_den,stat_bio,diff,keep,boot_mean,lo95_min,lo95_max,hi95_min,hi95_max,share_opposite_sign_min,share_opposite_sign_max,p_boot_min,p_boot_max,p_fdr_min,p_fdr_max,n_seeds_pass,share_draws_no_carrier,n_draws_min,interval_excludes_zero_all_seeds,verdict
+Coastal Plain,Disperse,BIBI / Disperse_High,140,56,-0.237,-0.062,0.175,TRUE,0.145,-0.211,-0.203,0.546,0.556,0.227,0.237,0.454,0.474,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Disperse,BIBI / Disperse_Low,140,95,0.237,0.062,-0.175,FALSE,-0.145,-0.556,-0.546,0.203,0.211,0.227,0.237,0.454,0.474,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Coastal Plain,Emerge,BIBI / Emerge_Fall,127,27,-0.033,0.07,0.104,TRUE,0.061,-0.262,-0.257,0.463,0.471,0.414,0.429,0.828,0.857,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Emerge,BIBI / Emerge_Spring,127,108,0.156,0.057,-0.099,TRUE,-0.11,-0.459,-0.448,0.201,0.211,0.261,0.264,0.521,0.528,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Emerge,BIBI / Emerge_Summer,127,99,0.166,0.024,-0.142,TRUE,-0.1,-0.429,-0.414,0.235,0.246,0.266,0.267,0.531,0.534,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Emerge,BIBI / Emerge_Winter,127,51,-0.284,-0.201,0.083,TRUE,0.073,-0.178,-0.169,0.33,0.337,0.284,0.293,0.568,0.586,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Feed,BIBI / Feed_CF,142,21,-0.067,-0.211,-0.144,TRUE,-0.114,-0.315,-0.309,0.121,0.125,0.131,0.134,0.261,0.268,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Feed,BIBI / Feed_CG,142,57,-0.041,-0.084,-0.043,TRUE,-0.043,-0.311,-0.298,0.178,0.183,0.352,0.36,0.703,0.72,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Feed,BIBI / Feed_HB,142,56,0.038,-0.054,-0.092,TRUE,-0.087,-0.269,-0.263,0.093,0.102,0.147,0.155,0.294,0.31,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Feed,BIBI / Feed_PA,142,3,-0.081,-0.119,-0.038,TRUE,-0.019,-0.199,-0.191,0.192,0.201,0.401,0.419,0.721,0.757,0.912,0.931,0,0.08,9999,FALSE,not shown to differ
+Coastal Plain,Feed,BIBI / Feed_PR,142,79,0.124,0.173,0.049,TRUE,0.03,-0.32,-0.311,0.361,0.366,0.416,0.424,0.831,0.848,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Feed,BIBI / Feed_SH,142,30,-0.016,0.102,0.118,TRUE,0.083,-0.22,-0.213,0.428,0.44,0.332,0.352,0.664,0.703,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Flying,BIBI / Flying_Strong,140,68,-0.299,-0.049,0.25,TRUE,0.208,-0.157,-0.131,0.563,0.568,0.117,0.127,0.234,0.254,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Flying,BIBI / Flying_Weak,140,97,0.299,0.049,-0.25,FALSE,-0.208,-0.568,-0.563,0.131,0.157,0.117,0.127,0.234,0.254,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Coastal Plain,Habit,BIBI / Habit_Burrower,142,35,-0.249,-0.209,0.04,TRUE,0.003,-0.279,-0.265,0.231,0.237,0.455,0.466,0.911,0.931,0.962,0.983,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Habit,BIBI / Habit_Climber,142,32,0,0.147,0.146,TRUE,0.143,-0.156,-0.142,0.478,0.485,0.174,0.185,0.349,0.371,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Habit,BIBI / Habit_Clinger,142,85,0.052,-0.181,-0.234,TRUE,-0.206,-0.499,-0.494,0.095,0.113,0.087,0.095,0.174,0.19,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Habit,BIBI / Habit_Crawler,142,1,0.377,0.094,-0.282,TRUE,-0.148,-0.455,-0.451,0,0,0.37,0.382,0.375,0.386,0.912,0.931,0,0.372,9999,FALSE,not shown to differ
+Coastal Plain,Habit,BIBI / Habit_Planktonic,142,1,0.015,0.023,0.007,TRUE,0.004,-0.003,-0.003,0.026,0.027,0.643,0.654,0.695,0.71,0.912,0.931,0,0.599,9999,FALSE,not shown to differ
+Coastal Plain,Habit,BIBI / Habit_Skater,142,3,0.026,-0.012,-0.038,TRUE,-0.027,-0.189,-0.179,0.144,0.151,0.298,0.314,0.532,0.559,0.912,0.931,0,0.066,9999,FALSE,not shown to differ
+Coastal Plain,Habit,BIBI / Habit_Sprawler,142,49,0.048,0.016,-0.032,TRUE,-0.031,-0.444,-0.428,0.442,0.456,0.392,0.399,0.785,0.797,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Habit,BIBI / Habit_Swimmer,142,36,0.089,0.285,0.197,TRUE,0.115,-0.206,-0.195,0.454,0.463,0.295,0.31,0.59,0.62,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Respiration,BIBI / Respiration_Gills,142,88,0.272,-0.097,-0.369,TRUE,-0.307,-0.755,-0.743,0.12,0.133,0.088,0.101,0.177,0.201,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Respiration,BIBI / Respiration_Plastron,142,16,0.06,0.26,0.2,TRUE,0.139,-0.155,-0.151,0.477,0.486,0.328,0.338,0.655,0.676,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Respiration,BIBI / Respiration_Tegument,142,79,-0.278,0.015,0.293,TRUE,0.234,-0.144,-0.134,0.652,0.671,0.12,0.14,0.239,0.28,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Rheophily,BIBI / Rheophily_Both,142,88,0.002,0.026,0.024,TRUE,-0.003,-0.37,-0.362,0.357,0.367,0.503,0.514,0.972,0.994,0.972,0.994,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Rheophily,BIBI / Rheophily_Depositional,142,85,0.193,0.307,0.114,TRUE,0.112,-0.422,-0.409,0.609,0.626,0.332,0.344,0.665,0.687,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Rheophily,BIBI / Rheophily_Erosional,142,87,-0.117,-0.289,-0.172,TRUE,-0.132,-0.485,-0.47,0.246,0.26,0.231,0.238,0.462,0.477,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Size,BIBI / Size_Large,142,53,0.102,0.127,0.025,TRUE,0.021,-0.323,-0.318,0.399,0.407,0.469,0.479,0.938,0.959,0.963,0.985,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Size,BIBI / Size_Medium,142,83,0.087,-0.141,-0.228,TRUE,-0.209,-0.494,-0.486,0.073,0.083,0.074,0.076,0.148,0.152,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Size,BIBI / Size_Small,142,87,-0.124,-0.032,0.092,TRUE,0.086,-0.256,-0.241,0.464,0.478,0.327,0.336,0.654,0.673,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Synchro,BIBI / Synchro_Poorly,140,56,-0.036,0.152,0.188,TRUE,0.162,-0.194,-0.186,0.563,0.57,0.216,0.234,0.432,0.467,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Synchro,BIBI / Synchro_Well,140,101,0.036,-0.152,-0.188,FALSE,-0.162,-0.57,-0.563,0.186,0.194,0.216,0.234,0.432,0.467,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Coastal Plain,Thermal,BIBI / Thermal_ColdEury,142,62,0.015,-0.06,-0.076,TRUE,-0.082,-0.372,-0.368,0.262,0.281,0.27,0.285,0.54,0.57,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Thermal,BIBI / Thermal_ColdSteno,142,18,0.012,0.225,0.213,TRUE,0.158,-0.182,-0.174,0.562,0.568,0.279,0.285,0.558,0.57,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Thermal,BIBI / Thermal_CoolEury,142,112,0.064,-0.254,-0.318,TRUE,-0.285,-0.7,-0.684,0.112,0.124,0.077,0.081,0.155,0.163,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Thermal,BIBI / Thermal_HotEury,142,6,0.032,0.224,0.192,TRUE,0.118,-0.17,-0.16,0.545,0.559,0.408,0.418,0.809,0.83,0.912,0.931,0,0.007,9999,FALSE,not shown to differ
+Coastal Plain,Thermal,BIBI / Thermal_WarmEury,142,97,-0.085,0.229,0.314,TRUE,0.283,-0.033,-0.028,0.563,0.572,0.035,0.042,0.071,0.084,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Voltinism,BIBI / Voltinism_Multivoltine,142,57,-0.014,0.052,0.066,TRUE,0.063,-0.386,-0.376,0.495,0.507,0.396,0.411,0.792,0.822,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Voltinism,BIBI / Voltinism_Semivoltine,142,54,-0.107,-0.195,-0.088,TRUE,-0.106,-0.439,-0.427,0.21,0.218,0.259,0.275,0.519,0.55,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Coastal Plain,Voltinism,BIBI / Voltinism_Univoltine,142,118,0.099,0.159,0.061,TRUE,0.049,-0.318,-0.3,0.425,0.44,0.405,0.42,0.81,0.84,0.912,0.931,0,0,9999,FALSE,not shown to differ
+Piedmont,Disperse,BIBI / Disperse_High,152,51,-0.214,-0.193,0.02,TRUE,0.026,-0.193,-0.188,0.246,0.254,0.398,0.415,0.796,0.83,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Disperse,BIBI / Disperse_Low,152,115,0.214,0.193,-0.02,FALSE,-0.026,-0.254,-0.246,0.188,0.193,0.398,0.415,0.796,0.83,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Piedmont,Emerge,BIBI / Emerge_Fall,137,34,-0.079,0.054,0.133,TRUE,0.091,-0.152,-0.143,0.305,0.31,0.208,0.213,0.416,0.427,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Emerge,BIBI / Emerge_Spring,137,116,0.105,0.018,-0.087,TRUE,-0.08,-0.366,-0.361,0.167,0.173,0.269,0.283,0.539,0.565,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Emerge,BIBI / Emerge_Summer,137,106,-0.037,-0.064,-0.027,TRUE,-0.017,-0.245,-0.234,0.231,0.241,0.419,0.434,0.838,0.867,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Emerge,BIBI / Emerge_Winter,137,58,-0.059,0.022,0.08,TRUE,0.047,-0.162,-0.155,0.232,0.238,0.294,0.303,0.587,0.607,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Feed,BIBI / Feed_CF,152,25,0.15,0.047,-0.103,TRUE,-0.086,-0.291,-0.285,0.112,0.121,0.193,0.197,0.386,0.394,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Feed,BIBI / Feed_CG,152,63,-0.15,-0.143,0.007,TRUE,0.01,-0.209,-0.201,0.206,0.214,0.446,0.455,0.891,0.91,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Feed,BIBI / Feed_HB,152,62,-0.041,-0.092,-0.051,TRUE,-0.047,-0.236,-0.226,0.159,0.169,0.304,0.305,0.607,0.611,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Feed,BIBI / Feed_PA,152,3,0.018,-0.05,-0.068,TRUE,-0.05,-0.183,-0.177,0.09,0.096,0.259,0.262,0.465,0.474,0.993,1,0,0.051,9999,FALSE,not shown to differ
+Piedmont,Feed,BIBI / Feed_PR,152,74,-0.033,-0.041,-0.008,TRUE,-0.018,-0.314,-0.304,0.26,0.268,0.451,0.458,0.901,0.916,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Feed,BIBI / Feed_SH,152,43,0.172,0.214,0.042,TRUE,0.034,-0.175,-0.172,0.264,0.267,0.397,0.407,0.794,0.813,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Flying,BIBI / Flying_Strong,152,61,-0.139,-0.192,-0.053,TRUE,-0.05,-0.27,-0.265,0.162,0.168,0.318,0.331,0.637,0.663,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Flying,BIBI / Flying_Weak,152,118,0.139,0.192,0.053,FALSE,0.05,-0.168,-0.162,0.265,0.27,0.318,0.331,0.637,0.663,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Piedmont,Habit,BIBI / Habit_Burrower,152,36,-0.156,0.108,0.264,TRUE,0.208,-0.079,-0.073,0.463,0.474,0.088,0.094,0.176,0.188,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Habit,BIBI / Habit_Climber,152,23,-0.108,-0.064,0.044,TRUE,0.029,-0.146,-0.141,0.216,0.22,0.378,0.384,0.756,0.768,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Habit,BIBI / Habit_Clinger,152,96,0.122,-0.036,-0.158,TRUE,-0.124,-0.398,-0.389,0.17,0.18,0.184,0.191,0.367,0.382,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Habit,BIBI / Habit_Crawler,152,2,-0.033,-0.031,0.001,TRUE,0.003,-0.015,-0.014,0.025,0.026,0.521,0.527,0.823,0.835,0.993,1,0,0.218,9999,FALSE,not shown to differ
+Piedmont,Habit,BIBI / Habit_Planktonic,152,0,0,0,0,TRUE,0,0,0,0,0,1,1,1,1,1,1,0,1,9999,FALSE,not shown to differ
+Piedmont,Habit,BIBI / Habit_Skater,152,4,-0.073,-0.102,-0.029,TRUE,-0.01,-0.122,-0.118,0.072,0.076,0.479,0.493,0.929,0.96,0.993,1,0,0.029,9999,FALSE,not shown to differ
+Piedmont,Habit,BIBI / Habit_Sprawler,152,56,-0.058,0.04,0.097,TRUE,0.063,-0.181,-0.174,0.317,0.325,0.297,0.314,0.594,0.627,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Habit,BIBI / Habit_Swimmer,152,40,0.066,-0.035,-0.101,TRUE,-0.115,-0.453,-0.443,0.126,0.135,0.208,0.216,0.417,0.433,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Respiration,BIBI / Respiration_Gills,152,98,0.192,0.102,-0.09,TRUE,-0.078,-0.304,-0.292,0.169,0.174,0.237,0.25,0.475,0.5,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Respiration,BIBI / Respiration_Plastron,152,17,-0.044,0.11,0.154,TRUE,0.124,-0.044,-0.042,0.341,0.348,0.116,0.126,0.231,0.252,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Respiration,BIBI / Respiration_Tegument,152,85,-0.186,-0.122,0.064,TRUE,0.053,-0.209,-0.201,0.278,0.287,0.309,0.323,0.619,0.646,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Rheophily,BIBI / Rheophily_Both,152,101,-0.04,0.128,0.168,TRUE,0.157,-0.073,-0.062,0.383,0.397,0.081,0.089,0.161,0.179,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Rheophily,BIBI / Rheophily_Depositional,152,72,-0.207,-0.229,-0.022,TRUE,-0.012,-0.301,-0.288,0.211,0.217,0.492,0.505,0.984,0.997,1,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Rheophily,BIBI / Rheophily_Erosional,152,107,0.15,0.035,-0.115,TRUE,-0.099,-0.349,-0.342,0.164,0.168,0.212,0.225,0.424,0.451,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Size,BIBI / Size_Large,152,52,0.149,0.125,-0.024,TRUE,-0.031,-0.25,-0.242,0.171,0.179,0.39,0.398,0.78,0.795,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Size,BIBI / Size_Medium,152,89,0.107,0.031,-0.076,TRUE,-0.069,-0.287,-0.28,0.132,0.137,0.242,0.262,0.483,0.524,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Size,BIBI / Size_Small,152,103,-0.155,-0.147,0.009,TRUE,0.012,-0.191,-0.188,0.233,0.243,0.462,0.474,0.924,0.948,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Synchro,BIBI / Synchro_Poorly,152,68,-0.1,0.02,0.121,TRUE,0.092,-0.16,-0.153,0.325,0.332,0.224,0.231,0.449,0.462,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Synchro,BIBI / Synchro_Well,152,110,0.1,-0.02,-0.121,FALSE,-0.092,-0.332,-0.325,0.153,0.16,0.224,0.231,0.449,0.462,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Piedmont,Thermal,BIBI / Thermal_ColdEury,152,78,-0.037,-0.096,-0.059,TRUE,-0.052,-0.292,-0.283,0.171,0.179,0.324,0.341,0.649,0.682,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Thermal,BIBI / Thermal_ColdSteno,152,27,-0.051,-0.155,-0.104,TRUE,-0.095,-0.409,-0.397,0.083,0.091,0.213,0.227,0.426,0.454,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Thermal,BIBI / Thermal_CoolEury,152,122,0.157,0.225,0.068,TRUE,0.065,-0.136,-0.126,0.298,0.304,0.278,0.289,0.557,0.579,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Thermal,BIBI / Thermal_HotEury,152,5,0.012,0.015,0.003,TRUE,0.007,-0.095,-0.093,0.155,0.159,0.538,0.545,0.919,0.936,0.993,1,0,0.01,9999,FALSE,not shown to differ
+Piedmont,Thermal,BIBI / Thermal_WarmEury,152,108,-0.116,-0.115,0,TRUE,0.011,-0.256,-0.249,0.264,0.274,0.453,0.465,0.906,0.93,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Voltinism,BIBI / Voltinism_Multivoltine,152,63,-0.061,-0.025,0.036,TRUE,0.039,-0.202,-0.198,0.293,0.298,0.376,0.392,0.752,0.785,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Voltinism,BIBI / Voltinism_Semivoltine,152,58,-0.1,-0.048,0.052,TRUE,0.052,-0.176,-0.165,0.275,0.278,0.316,0.333,0.632,0.666,0.993,1,0,0,9999,FALSE,not shown to differ
+Piedmont,Voltinism,BIBI / Voltinism_Univoltine,152,128,0.157,0.071,-0.087,TRUE,-0.081,-0.286,-0.278,0.117,0.122,0.212,0.215,0.425,0.429,0.993,1,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Disperse,BIBI / Disperse_High,118,42,-0.148,-0.188,-0.04,TRUE,-0.024,-0.26,-0.251,0.203,0.216,0.406,0.414,0.812,0.829,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Disperse,BIBI / Disperse_Low,118,90,0.148,0.188,0.04,FALSE,0.024,-0.216,-0.203,0.251,0.26,0.406,0.414,0.812,0.829,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Valley & Ridge,Emerge,BIBI / Emerge_Fall,105,25,-0.013,0.014,0.026,TRUE,0.009,-0.179,-0.175,0.21,0.218,0.467,0.479,0.935,0.959,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Emerge,BIBI / Emerge_Spring,105,83,0.104,0.057,-0.047,TRUE,-0.048,-0.33,-0.32,0.243,0.254,0.346,0.354,0.692,0.707,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Emerge,BIBI / Emerge_Summer,105,90,0.079,0.014,-0.065,TRUE,-0.055,-0.265,-0.262,0.16,0.17,0.283,0.293,0.567,0.585,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Emerge,BIBI / Emerge_Winter,105,45,-0.184,-0.144,0.041,TRUE,0.041,-0.258,-0.237,0.265,0.27,0.329,0.337,0.658,0.674,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Feed,BIBI / Feed_CF,118,22,-0.126,-0.116,0.01,TRUE,-0.001,-0.208,-0.2,0.23,0.24,0.524,0.533,0.935,0.952,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Feed,BIBI / Feed_CG,118,47,-0.021,0.061,0.082,TRUE,0.076,-0.164,-0.157,0.276,0.29,0.239,0.252,0.478,0.504,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Feed,BIBI / Feed_HB,118,50,0.14,-0.023,-0.163,TRUE,-0.145,-0.339,-0.331,0.025,0.028,0.044,0.048,0.088,0.095,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Feed,BIBI / Feed_PA,118,5,-0.269,-0.211,0.058,TRUE,0.048,-0.087,-0.081,0.191,0.195,0.233,0.244,0.44,0.462,0.943,0.959,0,0.027,9999,FALSE,not shown to differ
+Valley & Ridge,Feed,BIBI / Feed_PR,118,58,0,0.159,0.158,TRUE,0.146,-0.008,-0.002,0.306,0.311,0.027,0.033,0.054,0.067,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Feed,BIBI / Feed_SH,118,25,0.138,-0.028,-0.166,TRUE,-0.137,-0.405,-0.394,0.08,0.086,0.109,0.117,0.218,0.235,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Flying,BIBI / Flying_Strong,118,48,-0.321,-0.199,0.123,TRUE,0.112,-0.063,-0.057,0.297,0.309,0.097,0.101,0.194,0.203,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Flying,BIBI / Flying_Weak,118,93,0.321,0.199,-0.123,FALSE,-0.112,-0.309,-0.297,0.057,0.063,0.097,0.101,0.194,0.203,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Valley & Ridge,Habit,BIBI / Habit_Burrower,118,32,-0.154,-0.1,0.054,TRUE,0.044,-0.168,-0.167,0.231,0.237,0.322,0.326,0.643,0.653,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Habit,BIBI / Habit_Climber,118,16,-0.072,-0.019,0.053,TRUE,0.058,-0.075,-0.069,0.23,0.232,0.212,0.217,0.425,0.434,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Habit,BIBI / Habit_Clinger,118,75,0.038,-0.017,-0.056,TRUE,-0.059,-0.301,-0.295,0.195,0.203,0.305,0.315,0.61,0.629,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Habit,BIBI / Habit_Crawler,118,1,0.035,0.003,-0.033,TRUE,-0.024,-0.079,-0.078,0,0,0.367,0.389,0.377,0.397,0.943,0.959,0,0.366,9999,FALSE,not shown to differ
+Valley & Ridge,Habit,BIBI / Habit_Planktonic,118,2,-0.004,-0.007,-0.003,TRUE,-0.001,-0.008,-0.008,0.001,0.002,0.482,0.494,0.622,0.635,0.943,0.959,0,0.347,9999,FALSE,not shown to differ
+Valley & Ridge,Habit,BIBI / Habit_Skater,118,4,-0.001,0.036,0.037,TRUE,0.027,-0.016,-0.015,0.124,0.127,0.328,0.341,0.627,0.65,0.943,0.959,0,0.032,9999,FALSE,not shown to differ
+Valley & Ridge,Habit,BIBI / Habit_Sprawler,118,43,-0.022,0.065,0.087,TRUE,0.064,-0.167,-0.16,0.321,0.329,0.306,0.313,0.611,0.627,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Habit,BIBI / Habit_Swimmer,118,31,0.13,0.118,-0.011,TRUE,-0.007,-0.163,-0.157,0.164,0.168,0.436,0.451,0.873,0.903,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Respiration,BIBI / Respiration_Gills,118,72,0.325,0.132,-0.193,TRUE,-0.173,-0.393,-0.383,0.031,0.036,0.047,0.052,0.095,0.103,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Respiration,BIBI / Respiration_Plastron,118,17,-0.015,0.075,0.089,TRUE,0.049,-0.21,-0.203,0.353,0.362,0.461,0.467,0.923,0.935,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Respiration,BIBI / Respiration_Tegument,118,68,-0.324,-0.145,0.179,TRUE,0.158,-0.057,-0.049,0.367,0.371,0.067,0.073,0.134,0.146,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Rheophily,BIBI / Rheophily_Both,118,77,0.095,0.126,0.031,TRUE,0.035,-0.222,-0.208,0.273,0.28,0.377,0.386,0.755,0.773,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Rheophily,BIBI / Rheophily_Depositional,118,61,-0.071,0.024,0.095,TRUE,0.089,-0.119,-0.115,0.282,0.291,0.192,0.201,0.385,0.402,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Rheophily,BIBI / Rheophily_Erosional,118,88,-0.036,-0.129,-0.093,TRUE,-0.096,-0.349,-0.34,0.16,0.169,0.221,0.227,0.442,0.454,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Size,BIBI / Size_Large,118,39,0.09,0.165,0.075,TRUE,0.062,-0.133,-0.125,0.231,0.239,0.227,0.241,0.453,0.483,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Size,BIBI / Size_Medium,118,75,0.212,0.102,-0.11,TRUE,-0.083,-0.306,-0.298,0.114,0.123,0.206,0.218,0.412,0.436,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Size,BIBI / Size_Small,118,80,-0.222,-0.21,0.012,TRUE,-0.004,-0.212,-0.208,0.216,0.224,0.521,0.531,0.938,0.959,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Synchro,BIBI / Synchro_Poorly,118,55,0.022,-0.043,-0.065,TRUE,-0.051,-0.281,-0.278,0.172,0.184,0.311,0.322,0.622,0.644,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Synchro,BIBI / Synchro_Well,118,86,-0.022,0.043,0.065,FALSE,0.051,-0.184,-0.172,0.278,0.281,0.311,0.322,0.622,0.644,NA,NA,0,0,9999,FALSE,mirror of the first state of its group; not counted
+Valley & Ridge,Thermal,BIBI / Thermal_ColdEury,118,59,0.122,0.075,-0.046,TRUE,-0.031,-0.252,-0.246,0.186,0.197,0.377,0.387,0.755,0.773,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Thermal,BIBI / Thermal_ColdSteno,118,18,-0.08,-0.057,0.023,TRUE,0.019,-0.164,-0.159,0.206,0.213,0.421,0.434,0.843,0.867,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Thermal,BIBI / Thermal_CoolEury,118,95,0.228,0.202,-0.026,TRUE,-0.016,-0.176,-0.171,0.151,0.155,0.4,0.411,0.8,0.823,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Thermal,BIBI / Thermal_HotEury,118,7,0.008,-0.046,-0.054,TRUE,-0.038,-0.199,-0.191,0.034,0.036,0.299,0.31,0.595,0.614,0.943,0.959,0,0.005,9999,FALSE,not shown to differ
+Valley & Ridge,Thermal,BIBI / Thermal_WarmEury,118,89,-0.288,-0.247,0.041,TRUE,0.022,-0.161,-0.153,0.193,0.198,0.394,0.402,0.789,0.804,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Voltinism,BIBI / Voltinism_Multivoltine,118,52,-0.19,-0.154,0.036,TRUE,0.028,-0.162,-0.159,0.23,0.243,0.39,0.394,0.78,0.789,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Voltinism,BIBI / Voltinism_Semivoltine,118,46,0.03,0.057,0.027,TRUE,0.042,-0.14,-0.134,0.273,0.28,0.357,0.376,0.714,0.753,0.943,0.959,0,0,9999,FALSE,not shown to differ
+Valley & Ridge,Voltinism,BIBI / Voltinism_Univoltine,118,99,0.188,0.085,-0.103,TRUE,-0.092,-0.332,-0.321,0.111,0.118,0.198,0.206,0.396,0.412,0.943,0.959,0,0,9999,FALSE,not shown to differ

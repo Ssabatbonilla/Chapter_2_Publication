@@ -1,0 +1,496 @@
+[18:01:01] config loaded | data folder: data/ beside R/ (repository layout)
+[18:01:01] === Chapter 2 pipeline v2 | steps: 01 02 03 03b 04 07 09 09b 10 11 12 13 14 15 15b 06 16 17 19 20 20b 18 18b 21 ===
+[18:01:01] === B-IBI basis: RAREFIED MEDIAN  (matches the manuscript) ===
+[18:01:01] === Redundancy geometry: FUZZY group-weighted Gower  (matches the manuscript since 18 September 2026) ===
+[18:01:01] === Step 15 weightings: density AND biomass  (both written) ===
+[18:01:01] === Parent rows: resolved by DPAC before any metric (R/00c; 301 parent-site cases)  (matches the manuscript since 24 September 2026) ===
+[18:01:01] STEP 01 -- load and verify canonical inputs
+[18:01:02]   B-IBI provenance gate passed: all 90 sites equal the ICPRB median_score (tolerance 1e-6)
+[18:01:02]   B-IBI range 0.3-88.6, n=90
+[18:01:02]   loaded 90 sites x 19 metrics; matrices 90 x 215
+[18:01:02]   RUNNING ON MEDIAN B-IBI: 22 of 22 reference values differ, as expected.
+[18:01:02]   The reference values were computed on chessie_bibi. Guard not enforced.
+[18:01:02] STEP 01 complete
+[18:01:02] STEP 02 -- concentration metrics
+[18:01:02]   computed 5 concentration metrics for 90 sites
+[18:01:02]   Gini_den range 0.645-0.927 | Gini_bio range 0.643-0.918
+[18:01:02] STEP 02 complete
+[18:01:02] STEP 03 -- screen metrics against B-IBI
+[18:01:02]   reference FDR values were computed on the observed index; on the rarefied-median basis they are not enforced
+[18:01:02]   strong metrics by region (BH_SCOPE = within_region): Valley & Ridge=12  Piedmont=12  Coastal Plain=9
+[18:01:02]   BH scope sensitivity: no result changes tier under 'across_regions'
+[18:01:02] STEP 03 complete
+[18:01:02] STEP 03b -- leave-few-out leverage audit of the responsive screen associations
+[18:01:09]   33 responsive associations audited: 31 stable, 1 flagged with one site dropped, 1 flagged only with two
+[18:01:09]     Richness_alpha     Piedmont        strong       rho +0.394 -> +0.258 (GROF+LBVR): falls below |rho| 0.30 with two sites dropped
+[18:01:09]     N50_den            Coastal Plain   strong       rho +0.348 -> +0.278 (UNIC): falls below |rho| 0.30 with one site dropped
+[18:01:09] STEP 03b complete
+[18:01:09] STEP 04 -- within-region and cross-region multivariate tests
+[18:01:25]   cross-region model (D ~ Region * B-IBI), primary transform 'sqrt':
+[18:01:25]     Density  BIBI           F =   6.14  R2 = 0.049  p = 0.001
+[18:01:25]     Density  Region         F =  14.99  R2 = 0.238  p = 0.001
+[18:01:25]     Density  Region:BIBI    F =   2.97  R2 = 0.047  p = 0.001
+[18:01:25]     Density  BETADISPER     F =   1.35              p = 0.251
+[18:01:25]     Biomass  BIBI           F =   5.00  R2 = 0.043  p = 0.001
+[18:01:25]     Biomass  Region         F =  10.77  R2 = 0.187  p = 0.001
+[18:01:25]     Biomass  Region:BIBI    F =   2.43  R2 = 0.042  p = 0.001
+[18:01:25]     Biomass  BETADISPER     F =   7.49              p = 0.001   <<< dispersion heterogeneous: read Region as spread AND centroid
+[18:01:25]   ANOSIM | primary = 'sqrt' (as Methods 2.5 describes) | untransformed = 'none' | v1 reference
+[18:01:25]     Coastal Plain   Biomass  sqrt R=0.351 (p=0.002) | none R=0.356 (p=0.001) | v1 0.263  
+[18:01:25]     Piedmont        Biomass  sqrt R=0.319 (p=0.005) | none R=0.213 (p=0.036) | v1 0.301  
+[18:01:25]     Valley & Ridge  Biomass  sqrt R=0.013 (p=0.416) | none R=-0.045 (p=0.618) | v1 0.101  
+[18:01:25]     Coastal Plain   Density  sqrt R=0.398 (p=0.000) | none R=0.368 (p=0.002) | v1 0.235  
+[18:01:25]     Piedmont        Density  sqrt R=0.321 (p=0.003) | none R=0.138 (p=0.109) | v1 0.137     <<< significance differs between transformations
+[18:01:25]     Valley & Ridge  Density  sqrt R=0.025 (p=0.383) | none R=0.010 (p=0.437) | v1 0.068  
+[18:01:25]   v1 reference values were computed on the observed index and its classes; not applicable on the published basis
+[18:01:25]   significance at 0.05 differs between the transformations for: Piedmont Density
+[18:01:25] STEP 04 complete
+[18:01:25] STEP 07 -- manuscript tables
+[18:01:25]   T2 responsive metrics: 33 rows (the source of Table 2, via steps 18 and 18b)
+[18:01:25]   S1 full screen: 24 metrics x 3 regions = 72 rows (trait-mean screen deliberately excluded)
+[18:01:25]   S2 regional distributions: 72 rows
+[18:01:25]   S4 combined from step 04 (76 rows: 16 cross-region, 60 within-region)
+[18:01:25] STEP 07 complete
+[18:01:25] STEP 09 -- taxon-level responses and the biomass null
+[18:01:25]   responding taxa (FDR <= 0.10), of 262 taxon x region x currency tests:
+[18:01:25]     Coastal Plain   Biomass  decreaser  3
+[18:01:25]     Coastal Plain   Biomass  increaser  2
+[18:01:25]     Coastal Plain   Density  decreaser  3
+[18:01:25]     Piedmont        Biomass  decreaser  3
+[18:01:25]     Piedmont        Biomass  increaser  18
+[18:01:25]     Piedmont        Density  decreaser  3
+[18:01:25]     Piedmont        Density  increaser  16
+[18:01:25]     Valley & Ridge  Biomass  increaser  13
+[18:01:25]     Valley & Ridge  Density  increaser  14
+[18:01:25]   the biomass null, decomposed:
+[18:01:25]     Valley & Ridge  total rho=+0.311 | 13 increasers, 0 decreasers of 44 taxa | responders carry 18% of biomass
+[18:01:25]                      increaser pool rho=+0.808  decreaser pool rho=NA
+[18:01:25]     Piedmont        total rho=+0.679 | 18 increasers, 3 decreasers of 56 taxa | responders carry 49% of biomass
+[18:01:25]                      increaser pool rho=+0.680  decreaser pool rho=-0.436
+[18:01:25]     Coastal Plain   total rho=+0.153 | 2 increasers, 3 decreasers of 31 taxa | responders carry 11% of biomass
+[18:01:25]                      increaser pool rho=+0.546  decreaser pool rho=-0.634
+[18:01:25]   offset test -- do the gainer and loser pools cancel in the sum?
+[18:01:25]     Piedmont        Density  increasers(16) rho=+0.796 | decreasers(3) rho=-0.544 | their SUM rho=+0.326 | whole assemblage rho=+0.087
+[18:01:25]                      offset ratio 0.41  (near 0 = the pools cancel; near 1 = no cancellation)
+[18:01:25]     Piedmont        Biomass  increasers(20) rho=+0.685 | decreasers(3) rho=-0.436 | their SUM rho=+0.696 | whole assemblage rho=+0.679
+[18:01:25]                      offset ratio 1.02  (near 0 = the pools cancel; near 1 = no cancellation)
+[18:01:25]     Coastal Plain   Density  increasers(2) rho=+0.420 | decreasers(5) rho=-0.677 | their SUM rho=-0.677 | whole assemblage rho=-0.486
+[18:01:25]                      offset ratio 1.00  (near 0 = the pools cancel; near 1 = no cancellation)
+[18:01:25]     Coastal Plain   Biomass  increasers(2) rho=+0.546 | decreasers(6) rho=-0.509 | their SUM rho=-0.069 | whole assemblage rho=+0.153
+[18:01:25]                      offset ratio 0.13  (near 0 = the pools cancel; near 1 = no cancellation)
+[18:01:26]   traits enriched in responders vs the tested background (FDR <= 0.10):
+[18:01:26]     Coastal Plain   Density  Habit_Burrower                             responders 0.35 vs 0.04  (diff +0.31, FDR 0.017)
+[18:01:26]     Piedmont        Biomass  Emerge_Summer                              responders 0.20 vs 0.49  (diff -0.29, FDR 0.036)
+[18:01:26]     Piedmont        Biomass  Emerge_Spring                              responders 0.64 vs 0.37  (diff +0.28, FDR 0.036)
+[18:01:26]   responding taxa written to 09_responding_taxa.csv (75 rows)
+[18:01:26] STEP 09 complete
+[18:01:26] STEP 09b -- tolerance values of the taxa that respond to condition
+[18:01:26]   tolerance values: 290 taxa in H1_HBI_taxon_contributions.csv, 66 without a value
+[18:01:26]   responders by tolerance class (sensitive TV < 3, tolerant TV > 7):
+[18:01:26]     Valley & Ridge  Density  increasers 14 (sens 5, int 6, tol 0, none 3) | decreasers 0 | median TV 3.0 vs background 5.0 (Wilcoxon p 0.000)
+[18:01:26]     Valley & Ridge  Biomass  increasers 13 (sens 4, int 6, tol 0, none 3) | decreasers 0 | median TV 3.0 vs background 5.0 (Wilcoxon p 0.002)
+[18:01:26]     Piedmont        Density  increasers 16 (sens 7, int 7, tol 0, none 2) | decreasers 3 | median TV 2.5 vs background 5.0 (Wilcoxon p 0.001)
+[18:01:26]     Piedmont        Biomass  increasers 18 (sens 6, int 9, tol 0, none 3) | decreasers 3 | median TV 3.0 vs background 5.0 (Wilcoxon p 0.006)
+[18:01:26]     Coastal Plain   Density  increasers  0 (sens 0, int 0, tol 0, none 0) | decreasers 3 | median TV NA vs background 5.0 (Wilcoxon p n/a)
+[18:01:26]     Coastal Plain   Biomass  increasers  2 (sens 0, int 1, tol 1, none 0) | decreasers 3 | median TV 6.0 vs background 5.0 (Wilcoxon p n/a)
+[18:01:26] STEP 09b complete
+[18:01:26] STEP 10 -- taxon-set accounting and trait coverage
+[18:01:26]   trait coverage by region (share of community carried by the 215 analyzed taxa):
+[18:01:26]     Valley & Ridge  density 95.4% median (min 18.9%) | biomass 93.8% median (min 18.7%) | 8 of 30 sites below 80%
+[18:01:26]     Piedmont        density 94.6% median (min 33.2%) | biomass 97.5% median (min 32.3%) | 3 of 30 sites below 80%
+[18:01:26]     Coastal Plain   density 87.7% median (min 22.6%) | biomass 86.8% median (min 28.8%) | 12 of 30 sites below 80%
+[18:01:26]   coverage is the share of site density or biomass carried by the trait-eligible taxa
+[18:01:26]   excluded component, share of the regional total:
+[18:01:26]     Valley & Ridge  12.9% of density, 30.7% of biomass, across 29 taxa
+[18:01:26]     Piedmont        8.2% of density, 6.0% of biomass, across 39 taxa
+[18:01:26]     Coastal Plain   17.5% of density, 17.6% of biomass, across 45 taxa
+[18:01:26]   the excluded share is stated by region because the paper is a regional comparison.
+[18:01:26]   standing-stock totals under the two taxon sets (trait set, 215 taxa; every taxon, 282):
+[18:01:26]     Valley & Ridge  density  trait set +0.045   all taxa -0.180
+[18:01:26]                     biomass  trait set +0.311   all taxa +0.139
+[18:01:26]     Piedmont        density  trait set +0.087   all taxa -0.196
+[18:01:26]                     biomass  trait set +0.679   all taxa +0.446
+[18:01:26]     Coastal Plain   density  trait set -0.486   all taxa -0.282
+[18:01:26]                     biomass  trait set +0.153   all taxa +0.089
+[18:01:26]   80%-rule sensitivity: 67 of 90 sites retained
+[18:01:26]   metrics shifting by more than 0.15 when low-coverage sites are dropped:
+[18:01:26]     Shannon        Coastal Plain   all sites +0.639 (n=30) -> >=80% coverage +0.822 (n=18)
+[18:01:26]     Gini_bio       Coastal Plain   all sites +0.504 (n=30) -> >=80% coverage +0.290 (n=18)
+[18:01:26]     Gini_den       Coastal Plain   all sites -0.458 (n=30) -> >=80% coverage -0.719 (n=18)
+[18:01:26]     N50_den        Coastal Plain   all sites +0.348 (n=30) -> >=80% coverage +0.659 (n=18)
+[18:01:26]     FRic_den       Valley & Ridge  all sites +0.581 (n=30) -> >=80% coverage +0.414 (n=22)
+[18:01:26]     FR_DB_RD       Valley & Ridge  all sites +0.600 (n=30) -> >=80% coverage +0.839 (n=22)
+[18:01:26]     FR_RD_den      Valley & Ridge  all sites -0.477 (n=30) -> >=80% coverage -0.721 (n=22)
+[18:01:26]     FR_SF_den_log10 Valley & Ridge  all sites -0.519 (n=30) -> >=80% coverage -0.325 (n=22)
+[18:01:26]     Total_Biomass  Piedmont        all sites +0.446 (n=30) -> >=80% coverage +0.648 (n=27)
+[18:01:26]   largest family share of density, Valley & Ridge: CHIRONOMIDAE (32.2% of density; largest in 14 of 30 streams)
+[18:01:26]   largest family share of density, Piedmont: CHIRONOMIDAE (39.6% of density; largest in 21 of 30 streams)
+[18:01:26]   largest family share of density, Coastal Plain: CHIRONOMIDAE (55.3% of density; largest in 27 of 30 streams)
+[18:01:26] STEP 10 complete
+[18:01:26] STEP 11 -- taxon convention and trait-space quality
+[18:01:26]   collected 282 taxa | terrestrial excluded 5 (0.05% of biomass) | COMMUNITY SET 277 | TRAIT SET 215
+[18:01:26]   in the community set but without trait data: 62 taxa, 12.5% of density, 20.2% of biomass
+[18:01:26]   standing stock on the COMMUNITY set (every taxon except terrestrial incidentals):
+[18:01:26]     Total_Density_community   Valley & Ridge  rho=-0.176  FDR=0.7046  
+[18:01:26]     Total_Density_community   Piedmont        rho=-0.182  FDR=0.3352  
+[18:01:26]     Total_Density_community   Coastal Plain   rho=-0.334  FDR=0.1418  
+[18:01:26]     Total_Biomass_community   Valley & Ridge  rho=-0.063  FDR=0.7428  
+[18:01:26]     Total_Biomass_community   Piedmont        rho=+0.554  FDR=0.0030  STRONG
+[18:01:26]     Total_Biomass_community   Coastal Plain   rho=+0.190  FDR=0.3140  
+[18:01:26]   trait-space ordination written for step 06: 215 taxa, axes 1 and 2 carry 8.2% and 6.4% of the variance
+[18:01:26]   female dispersal against adult flying strength: high vs strong r = 0.490 over 213 taxa (141 identical codes)
+[18:01:26]   parent rows: 301 parent-site cases resolved by DPAC at 87 sites; 64 rows above genus rank remain where no child was present
+[18:01:26]   Valley & Ridge  FRic vs richness rho = 0.899 (vs trait-set richness 0.916); FR_SF vs richness rho = -0.869 (vs trait-set richness -0.866)
+[18:01:26]   Piedmont        FRic vs richness rho = 0.899 (vs trait-set richness 0.886); FR_SF vs richness rho = -0.870 (vs trait-set richness -0.849)
+[18:01:26]   Coastal Plain   FRic vs richness rho = 0.931 (vs trait-set richness 0.952); FR_SF vs richness rho = -0.925 (vs trait-set richness -0.947)
+[18:01:26]   trait-space fidelity (Maire et al. 2015): how well k axes reproduce Gower distance
+[18:01:26]      2 axes: 14.6% variance | mSD 0.0460 (Maire) | mAD 0.0969 (32% of mean distance) | r = 0.691
+[18:01:26]      3 axes: 19.8% variance | mSD 0.0296 (Maire) | mAD 0.0651 (22% of mean distance) | r = 0.756
+[18:01:26]      4 axes: 24.5% variance | mSD 0.0145 (Maire) | mAD 0.0475 (16% of mean distance) | r = 0.818
+[18:01:26]      5 axes: 28.0% variance | mSD 0.0089 (Maire) | mAD 0.0394 (13% of mean distance) | r = 0.846
+[18:01:26]      6 axes: 31.2% variance | mSD 0.0057 (Maire) | mAD 0.0322 (11% of mean distance) | r = 0.875
+[18:01:26]      8 axes: 35.9% variance | mSD 0.0045 (Maire) | mAD 0.0244 (8% of mean distance) | r = 0.914
+[18:01:26]     10 axes: 39.7% variance | mSD 0.0064 (Maire) | mAD 0.0207 (7% of mean distance) | r = 0.939
+[18:01:26]     15 axes: 46.8% variance | mSD 0.0078 (Maire) | mAD 0.0209 (7% of mean distance) | r = 0.957
+[18:01:26]     20 axes: 51.7% variance | mSD 0.0110 (Maire) | mAD 0.0224 (8% of mean distance) | r = 0.964
+[18:01:26]   two axes reproduce trait dissimilarity at r = 0.69;
+[18:01:26]   ten axes at r = 0.94. The METRICS are unaffected -- dbFD computes
+[18:01:26]   them from the Gower distance or up to ten corrected axes, not from the two plotted axes,
+[18:01:26]   so a two-axis ordination is a low-dimensional aid, not evidence.
+[18:01:26] STEP 11 complete
+[18:01:27] STEP 12 -- evidence sufficiency: trait coverage partialled out of every responsive association
+[18:01:27]   trait coverage vs condition, by region (the reason the confound matters):
+[18:01:27]     Valley & Ridge  density coverage rho = +0.388 | biomass coverage rho = +0.465
+[18:01:27]     Piedmont        density coverage rho = +0.621 | biomass coverage rho = +0.684
+[18:01:27]     Coastal Plain   density coverage rho = -0.641 | biomass coverage rho = -0.071
+[18:01:27]   33 responsive associations: 30 keep |rho| >= 0.30 with coverage held constant, 3 fall below it
+[18:01:27]     Richness_alpha     Piedmont        strong       rho +0.394 -> +0.255 partial
+[18:01:27]     FR_RD_bio          Piedmont        strong       rho +0.422 -> +0.271 partial
+[18:01:27]     Total_Biomass      Piedmont        strong       rho +0.446 -> +0.248 partial
+[18:01:27] STEP 12 complete
+[18:01:27] STEP 13 -- FD metric provenance: derive the canonical metrics from raw inputs
+[18:01:27]   trait matrices rebuilt: 215 taxa x 41 modalities | weights from trait_blocks.rds
+[18:06:10]     RaoQ_den  corr=cailliez n=90  max abs diff = 8.67e-18  REPRODUCED
+[18:06:10]     FDis_den  corr=cailliez n=90  max abs diff = 2.78e-17  REPRODUCED
+[18:06:10]     FDiv_den  corr=cailliez n=90  max abs diff = 1.11e-16  REPRODUCED
+[18:06:10]     FEve_den  corr=cailliez n=90  max abs diff = 5.55e-17  REPRODUCED
+[18:06:10]     RaoQ_bio  corr=cailliez n=90  max abs diff = 6.94e-18  REPRODUCED
+[18:06:10]     FDis_bio  corr=cailliez n=90  max abs diff = 2.78e-17  REPRODUCED
+[18:06:10]     FDiv_bio  corr=cailliez n=90  max abs diff = 1.11e-16  REPRODUCED
+[18:06:10]     FEve_bio  corr=cailliez n=90  max abs diff = 5.55e-17  REPRODUCED
+[18:06:10]   VERIFIED: all 8 canonical FD metrics reproduced from raw trait and
+[18:06:10]   community matrices, to machine precision.
+[18:06:10]     FR_RD_den        fuzzy weighted Gower                   n=90  max abs diff = 3.33e-16  REPRODUCED
+[18:06:10]     FR_RD_bio        fuzzy weighted Gower                   n=90  max abs diff = 3.33e-16  REPRODUCED
+[18:06:10]     FR_DB_RD         fuzzy weighted Gower                   n=90  max abs diff = 3.40e-16  REPRODUCED
+[18:06:10]     FRic_den         fuzzy pool dbFD, cailliez              n=90  max abs diff = 9.54e-18  REPRODUCED
+[18:06:10]     FR_SF_den_log10  Richness_FD / FRic_den, log10(x + 1)   n=90  max abs diff = 2.66e-15  REPRODUCED
+[18:06:10]   correction sensitivity not run: the sqrt correction fails when empty trait groups are NA
+[18:06:10] STEP 13 complete
+[18:06:10] STEP 14 -- minimum detectable effect and achieved power
+[18:06:10]   minimum detectable |rho| at n = 30:
+[18:06:10]     alpha 0.05, power 0.80 : |rho| >= 0.492
+[18:06:10]     alpha 0.05, power 0.90 : |rho| >= 0.554
+[18:06:10]     alpha 0.10, power 0.80 : |rho| >= 0.445
+[18:06:10]     alpha 0.10, power 0.90 : |rho| >= 0.510
+[18:06:10] 
+[18:06:10]   Valley & Ridge (24 metric x weighting tests):
+[18:06:10]     largest |rho| observed        : 0.855 (HBI_rel_abund)
+[18:06:10]     achieved power at that value  : 1.00
+[18:06:10]     tests reaching |rho| >= 0.49   : 11
+[18:06:10]     => the design excludes |rho| >= 0.49 in Valley & Ridge with 80% power.
+[18:06:10]        It cannot exclude moderate effects near 0.3.
+[18:06:10] 
+[18:06:10]   biomass-weighted FDiv, FDis, RaoQ and FEve (12 tests):
+[18:06:10]     largest |rho| observed : 0.309
+[18:06:10]     all below the 0.49 detection bound : TRUE
+[18:06:10] 
+[18:06:10]   THE INTERNAL COMPARISON across regions (same n, design and metrics):
+[18:06:10]     Valley & Ridge  largest |rho| = 0.855 | tests at 'strong' = 12 of 24
+[18:06:10]     Piedmont        largest |rho| = 0.778 | tests at 'strong' = 12 of 24
+[18:06:10]     Coastal Plain   largest |rho| = 0.687 | tests at 'strong' = 9 of 24
+[18:06:10] STEP 14 complete
+[18:06:10] STEP 15 -- RLQ and fourth-corner: constrained trait-environment analysis
+[18:06:10]   permutations: 9999 per test (N_PERM_FC), seed 20260825
+[18:06:10]   currency: biomass (90 sites x 215 taxa)
+[18:06:10]   taxa with >= 1 unresolved trait block: 28 of 215 (1.2% of biomass)
+[18:07:37] 
+[18:07:37]   RLQ global test (models 2 and 4 combined):
+[18:07:37]     Valley & Ridge  L = 30 x 105 (70% zeros) | axis 1 = 100.0% | p = 0.160 n.s.
+[18:07:37]     Piedmont        L = 30 x 137 (71% zeros) | axis 1 = 100.0% | p = 0.258 n.s.
+[18:07:37]     Coastal Plain   L = 30 x 125 (80% zeros) | axis 1 = 100.0% | p = 0.233 n.s.
+[18:07:37] 
+[18:07:37]   fourth-corner, tests at raw p <= 0.05 (chance expectation in brackets):
+[18:07:37]     Coastal Plain   model2  13 of 41 [2.1] | surviving FDR: 9
+[18:07:37]     Coastal Plain   model4   5 of 41 [2.1] | surviving FDR: 0
+[18:07:37]     Coastal Plain   model6   4 of 41 [2.1] | surviving FDR: 0
+[18:07:37]     Piedmont        model2  12 of 41 [2.1] | surviving FDR: 10
+[18:07:37]     Piedmont        model4   7 of 41 [2.1] | surviving FDR: 0
+[18:07:37]     Piedmont        model6   7 of 41 [2.1] | surviving FDR: 0
+[18:07:37]     Valley & Ridge  model2   9 of 41 [2.1] | surviving FDR: 0
+[18:07:37]     Valley & Ridge  model4   8 of 41 [2.1] | surviving FDR: 2
+[18:07:37]     Valley & Ridge  model6   6 of 41 [2.1] | surviving FDR: 0
+[18:08:38]   per-block fourth-corner under 5 seeds: 17 states pass under every seed, 1 borderline
+[18:08:38]   region-wide correction (all states of a region, 5 seeds): 0 states pass under every seed
+[18:08:49]   one test per trait group, fuzzy correspondence analysis (the rule fixed first): 0 groups pass under every seed ()
+[18:08:49]   one test per trait group, states standardized (the declared sensitivity): 0 groups pass under every seed ()
+[18:09:19]   leave-one-taxon-out on 17 passing states: 11 pass without their most influential taxon, 6 fail, 0 have one carrier
+[18:09:19] 
+[18:09:19]   per-block analysis keeps more taxa. biomass coverage by block:
+[18:09:19]     Emerge       worst-region biomass coverage 97.9%
+[18:09:19]     Disperse     worst-region biomass coverage 99.9%
+[18:09:19]     Flying       worst-region biomass coverage 99.9%
+[18:09:19]     Synchro      worst-region biomass coverage 99.9%
+[18:09:19]     Feed         worst-region biomass coverage 100.0%
+[18:09:19]   cwm_rho (biomass): H1_site_summary_macro_metrics_fuzzyRD.csv vs BIBI from H1_BIBI_site_with_classes_MEDIAN.csv
+[18:09:19] 
+[18:09:19]   the five named trait-state CWMs, against the fourth-corner:
+[18:09:19]     Feed_SH                      Piedmont       CWM +0.51 | 4C +0.214 p2=0.014 p4=0.015 -> corroborated, both models
+[18:09:19]     Feed_CF                      Piedmont       CWM +0.33 | 4C +0.047 p2=0.457 p4=0.563 -> not corroborated
+[18:09:19]     Flying_Strong                Coastal Plain  CWM -0.19 | 4C -0.053 p2=0.642 p4=0.680 -> not corroborated
+[18:09:19]     Flying_Weak                  Coastal Plain  CWM +0.19 | 4C +0.053 p2=0.642 p4=0.680 -> not corroborated
+[18:09:19]     Emerge_Winter                Coastal Plain  CWM -0.73 | 4C -0.201 p2=0.012 p4=0.101 -> corroborated under site permutation only
+[18:09:20] 
+[18:09:20]   coverage confound test on every per-block FDR survivor:
+[18:09:20]     Valley & Ridge Flying_Strong              cov 100% | r(cwm,cov)=NA | rho -0.531 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Valley & Ridge Flying_Weak                cov 100% | r(cwm,cov)=NA | rho +0.531 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Valley & Ridge Disperse_High              cov 100% | r(cwm,cov)=NA | rho -0.452 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Valley & Ridge Disperse_Low               cov 100% | r(cwm,cov)=NA | rho +0.452 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Valley & Ridge Size_Small                 cov 100% | r(cwm,cov)=NA | rho -0.440 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Piedmont       Flying_Strong              cov 100% | r(cwm,cov)=NA | rho -0.491 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Piedmont       Flying_Weak                cov 100% | r(cwm,cov)=NA | rho +0.491 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Piedmont       Feed_SH                    cov 100% | r(cwm,cov)=NA | rho +0.508 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Piedmont       Disperse_High              cov 100% | r(cwm,cov)=NA | rho -0.462 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Piedmont       Disperse_Low               cov 100% | r(cwm,cov)=NA | rho +0.462 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Piedmont       Rheophily_Depositional     cov 100% | r(cwm,cov)=NA | rho -0.567 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Piedmont       Thermal_CoolEury           cov 100% | r(cwm,cov)=NA | rho +0.622 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Coastal Plain  Rheophily_Depositional     cov 100% | r(cwm,cov)=NA | rho +0.094 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Coastal Plain  Rheophily_Erosional        cov 100% | r(cwm,cov)=NA | rho -0.377 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Coastal Plain  Thermal_ColdSteno          cov 100% | r(cwm,cov)=NA | rho -0.184 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Coastal Plain  Thermal_CoolEury           cov 100% | r(cwm,cov)=NA | rho -0.250 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20]     Coastal Plain  Thermal_HotEury            cov 100% | r(cwm,cov)=NA | rho +0.210 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:09:20] 
+[18:09:20]   VERDICT -- currency = biomass
+[18:09:20]     complete-case: 21 of 369 state tests survive FDR
+[18:09:20]     per-block    : 17 modalities pass FDR under every seed, 17 coverage-robust (complete coverage or surviving the partial test); 1 borderline
+[18:09:20]     surviving modalities:
+[18:09:20]       Valley & Ridge Flying_Strong                stat -0.199  FDR 0.0265
+[18:09:20]       Valley & Ridge Flying_Weak                  stat +0.199  FDR 0.0265
+[18:09:20]       Valley & Ridge Disperse_High                stat -0.188  FDR 0.0283
+[18:09:20]       Valley & Ridge Disperse_Low                 stat +0.188  FDR 0.0283
+[18:09:20]       Valley & Ridge Size_Small                   stat -0.210  FDR 0.0607
+[18:09:20]       Piedmont       Flying_Strong                stat -0.192  FDR 0.0443
+[18:09:20]       Piedmont       Flying_Weak                  stat +0.192  FDR 0.0443
+[18:09:20]       Piedmont       Feed_SH                      stat +0.214  FDR 0.0888
+[18:09:20]       Piedmont       Disperse_High                stat -0.193  FDR 0.0451
+[18:09:20]       Piedmont       Disperse_Low                 stat +0.193  FDR 0.0451
+[18:09:20]       Piedmont       Rheophily_Depositional       stat -0.229  FDR 0.0333
+[18:09:20]       Piedmont       Thermal_CoolEury             stat +0.225  FDR 0.0735
+[18:09:20]       Coastal Plain  Rheophily_Depositional       stat +0.307  FDR 0.0300
+[18:09:20]       Coastal Plain  Rheophily_Erosional          stat -0.289  FDR 0.0300
+[18:09:20]       Coastal Plain  Thermal_ColdSteno            stat +0.225  FDR 0.0913
+[18:09:20]       Coastal Plain  Thermal_CoolEury             stat -0.254  FDR 0.0913
+[18:09:20]       Coastal Plain  Thermal_HotEury              stat +0.224  FDR 0.0913
+[18:09:20]     CWM agreement (complete-case models 2 and 4):
+[18:09:20]       Feed_SH                      Piedmont       corroborated, both models
+[18:09:20]       Feed_CF                      Piedmont       not corroborated
+[18:09:20]       Flying_Strong                Coastal Plain  not corroborated
+[18:09:20]       Flying_Weak                  Coastal Plain  not corroborated
+[18:09:20]       Emerge_Winter                Coastal Plain  corroborated under site permutation only
+[18:09:20]     Report trait associations as standing-stock composition, not trait filtering.
+[18:09:20] STEP 15 complete
+[18:09:20] STEP 15 -- RLQ and fourth-corner: constrained trait-environment analysis
+[18:09:20]   permutations: 9999 per test (N_PERM_FC), seed 20260825
+[18:09:20]   currency: density (90 sites x 215 taxa)
+[18:09:20]   taxa with >= 1 unresolved trait block: 28 of 215 (0.8% of density)
+[18:10:51] 
+[18:10:51]   RLQ global test (models 2 and 4 combined):
+[18:10:51]     Valley & Ridge  L = 30 x 105 (70% zeros) | axis 1 = 100.0% | p = 0.490 n.s.
+[18:10:51]     Piedmont        L = 30 x 137 (71% zeros) | axis 1 = 100.0% | p = 0.334 n.s.
+[18:10:51]     Coastal Plain   L = 30 x 125 (80% zeros) | axis 1 = 100.0% | p = 0.935 n.s.
+[18:10:51] 
+[18:10:51]   fourth-corner, tests at raw p <= 0.05 (chance expectation in brackets):
+[18:10:51]     Coastal Plain   model2  18 of 41 [2.1] | surviving FDR: 17
+[18:10:51]     Coastal Plain   model4   7 of 41 [2.1] | surviving FDR: 0
+[18:10:51]     Coastal Plain   model6   7 of 41 [2.1] | surviving FDR: 0
+[18:10:51]     Piedmont        model2  21 of 41 [2.1] | surviving FDR: 21
+[18:10:51]     Piedmont        model4  11 of 41 [2.1] | surviving FDR: 3
+[18:10:51]     Piedmont        model6  10 of 41 [2.1] | surviving FDR: 3
+[18:10:51]     Valley & Ridge  model2  11 of 41 [2.1] | surviving FDR: 9
+[18:10:51]     Valley & Ridge  model4   6 of 41 [2.1] | surviving FDR: 6
+[18:10:51]     Valley & Ridge  model6   4 of 41 [2.1] | surviving FDR: 4
+[18:11:52]   per-block fourth-corner under 5 seeds: 18 states pass under every seed, 5 borderline
+[18:11:52]   region-wide correction (all states of a region, 5 seeds): 6 states pass under every seed
+[18:12:02]   one test per trait group, fuzzy correspondence analysis (the rule fixed first): 0 groups pass under every seed ()
+[18:12:02]   one test per trait group, states standardized (the declared sensitivity): 7 groups pass under every seed (Piedmont Disperse; Piedmont Feed; Piedmont Respiration; Piedmont Rheophily; Piedmont Size; Valley & Ridge Flying; Valley & Ridge Respiration)
+[18:12:25]   leave-one-taxon-out on 18 passing states: 12 pass without their most influential taxon, 5 fail, 1 have one carrier
+[18:12:25] 
+[18:12:25]   per-block analysis keeps more taxa. density coverage by block:
+[18:12:25]     Emerge       worst-region density coverage 99.1%
+[18:12:25]     Disperse     worst-region density coverage 100.0%
+[18:12:25]     Flying       worst-region density coverage 100.0%
+[18:12:25]     Synchro      worst-region density coverage 100.0%
+[18:12:25]     Feed         worst-region density coverage 100.0%
+[18:12:25]   cwm_rho (density): H1_site_summary_macro_metrics_fuzzyRD.csv vs BIBI from H1_BIBI_site_with_classes_MEDIAN.csv
+[18:12:25] 
+[18:12:25]   the five named trait-state CWMs, against the fourth-corner:
+[18:12:25]     Feed_SH                      Piedmont       CWM +0.57 | 4C +0.174 p2=0.000 p4=0.022 -> corroborated, both models
+[18:12:25]     Feed_CF                      Piedmont       CWM +0.72 | 4C +0.151 p2=0.001 p4=0.048 -> corroborated, both models
+[18:12:25]     Flying_Strong                Coastal Plain  CWM -0.61 | 4C -0.304 p2=0.000 p4=0.018 -> corroborated, both models
+[18:12:25]     Flying_Weak                  Coastal Plain  CWM +0.61 | 4C +0.304 p2=0.000 p4=0.018 -> corroborated, both models
+[18:12:25]     Emerge_Winter                Coastal Plain  CWM -0.75 | 4C -0.284 p2=0.000 p4=0.022 -> corroborated, both models
+[18:12:25] 
+[18:12:25]   coverage confound test on every per-block FDR survivor:
+[18:12:25]     Valley & Ridge Flying_Strong              cov 100% | r(cwm,cov)=NA | rho -0.632 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Valley & Ridge Flying_Weak                cov 100% | r(cwm,cov)=NA | rho +0.632 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Valley & Ridge Respiration_Gills          cov 100% | r(cwm,cov)=NA | rho +0.748 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Valley & Ridge Respiration_Tegument       cov 100% | r(cwm,cov)=NA | rho -0.740 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Piedmont       Disperse_High              cov 100% | r(cwm,cov)=NA | rho -0.629 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Piedmont       Disperse_Low               cov 100% | r(cwm,cov)=NA | rho +0.629 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Piedmont       Respiration_Gills          cov 100% | r(cwm,cov)=NA | rho +0.641 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Piedmont       Respiration_Tegument       cov 100% | r(cwm,cov)=NA | rho -0.637 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Piedmont       Rheophily_Depositional     cov 100% | r(cwm,cov)=NA | rho -0.475 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Piedmont       Rheophily_Erosional        cov 100% | r(cwm,cov)=NA | rho +0.517 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Coastal Plain  Flying_Strong              cov 100% | r(cwm,cov)=-0.18 | rho -0.611 -> -0.596 partial (2% lost)  survives -- real trait signal
+[18:12:25]     Coastal Plain  Flying_Weak                cov 100% | r(cwm,cov)=+0.18 | rho +0.611 -> +0.596 partial (2% lost)  survives -- real trait signal
+[18:12:25]     Coastal Plain  Emerge_Winter              cov 99% | r(cwm,cov)=-0.44 | rho -0.750 -> -0.754 partial (-1% lost)  survives -- real trait signal
+[18:12:25]     Coastal Plain  Disperse_High              cov 100% | r(cwm,cov)=-0.20 | rho -0.527 -> -0.507 partial (4% lost)  survives -- real trait signal
+[18:12:25]     Coastal Plain  Disperse_Low               cov 100% | r(cwm,cov)=+0.20 | rho +0.527 -> +0.507 partial (4% lost)  survives -- real trait signal
+[18:12:25]     Coastal Plain  Habit_Crawler              cov 100% | r(cwm,cov)=NA | rho +0.274 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Coastal Plain  Respiration_Gills          cov 100% | r(cwm,cov)=NA | rho +0.342 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25]     Coastal Plain  Respiration_Tegument       cov 100% | r(cwm,cov)=NA | rho -0.354 -> NA partial (NA% lost)  complete coverage -- no confound possible
+[18:12:25] 
+[18:12:25]   VERDICT -- currency = density
+[18:12:25]     complete-case: 63 of 369 state tests survive FDR
+[18:12:25]     per-block    : 18 modalities pass FDR under every seed, 18 coverage-robust (complete coverage or surviving the partial test); 5 borderline
+[18:12:25]     surviving modalities:
+[18:12:25]       Valley & Ridge Flying_Strong                stat -0.321  FDR 0.0017
+[18:12:25]       Valley & Ridge Flying_Weak                  stat +0.321  FDR 0.0017
+[18:12:25]       Valley & Ridge Respiration_Gills            stat +0.325  FDR 0.0014
+[18:12:25]       Valley & Ridge Respiration_Tegument         stat -0.324  FDR 0.0014
+[18:12:25]       Piedmont       Disperse_High                stat -0.214  FDR 0.0028
+[18:12:25]       Piedmont       Disperse_Low                 stat +0.214  FDR 0.0028
+[18:12:25]       Piedmont       Respiration_Gills            stat +0.192  FDR 0.0258
+[18:12:25]       Piedmont       Respiration_Tegument         stat -0.186  FDR 0.0258
+[18:12:25]       Piedmont       Rheophily_Depositional       stat -0.207  FDR 0.0116
+[18:12:25]       Piedmont       Rheophily_Erosional          stat +0.150  FDR 0.0890
+[18:12:25]       Coastal Plain  Flying_Strong                stat -0.299  FDR 0.0189
+[18:12:25]       Coastal Plain  Flying_Weak                  stat +0.299  FDR 0.0189
+[18:12:25]       Coastal Plain  Emerge_Winter                stat -0.284  FDR 0.0928
+[18:12:25]       Coastal Plain  Disperse_High                stat -0.237  FDR 0.0737
+[18:12:25]       Coastal Plain  Disperse_Low                 stat +0.237  FDR 0.0737
+[18:12:25]       Coastal Plain  Habit_Crawler                stat +0.377  FDR 0.0588
+[18:12:25]       Coastal Plain  Respiration_Gills            stat +0.272  FDR 0.0636
+[18:12:25]       Coastal Plain  Respiration_Tegument         stat -0.278  FDR 0.0636
+[18:12:25]     CWM agreement (complete-case models 2 and 4):
+[18:12:25]       Feed_SH                      Piedmont       corroborated, both models
+[18:12:25]       Feed_CF                      Piedmont       corroborated, both models
+[18:12:25]       Flying_Strong                Coastal Plain  corroborated, both models
+[18:12:25]       Flying_Weak                  Coastal Plain  corroborated, both models
+[18:12:25]       Emerge_Winter                Coastal Plain  corroborated, both models
+[18:12:25]     Report trait associations as standing-stock composition, not trait filtering.
+[18:12:25] STEP 15 complete
+[18:12:25] STEP 15b -- density-against-biomass difference of each trait state's fourth-corner statistic (pigeonhole bootstrap)
+[18:12:25]   observed statistics reproduce step 15's per-block tables for 123 region-by-state rows
+[18:13:40]   9999 resamples x 5 seeds in 1.3 min
+[18:13:40]   contrasts counted: 114; differ under every seed: 0; borderline: 0; largest |difference| Coastal Plain BIBI / Respiration_Gills (-0.369, interval -0.755 to 0.133)
+[18:13:40] STEP 15b complete
+[18:13:40] STEP 06 -- figures
+[18:13:40]   Poor | Fair thresholds drawn: Coastal Plain 45.43; Piedmont 62.59; Valley & Ridge 59.86
+[18:13:42]   wrote fig4_traitspace_binned (6.8 x 5.4 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:42]   trait-state difference (figS4_traitstate_difference): 114 contrasts, 0 differ under every seed
+[18:13:43]   wrote fig5_effect_sizes_by_region (6.8 x 5.0 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:47]   wrote figS4_traitstate_difference (6.8 x 6.6 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:47]   Figures 3 and 4 rows: 6 + 7; every responsive metric drawn (Rao's Q omitted as the duplicate of FDis)
+[18:13:49]   wrote fig3_hyp12_responsive (6.8 x 8.6 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:52]   wrote fig4_hyp3_responsive (6.8 x 8.6 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:52]   trait-state figure (legacy Figure 6): 27 trait states drawn in 13 rows (8 mirrored states of two-state groups shown once); 35 passing rows of the per-block fourth-corner tables
+[18:13:53]   wrote fig_traitstate_tiers (6.8 x 3.5 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:55]   wrote figS3_structure_scatters (6.8 x 6.3 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:57]   wrote figS4_function_scatters (6.8 x 7.0 in)  png/svg/pdf [pdf via cairosvg]
+[18:13:57] STEP 06 complete
+[18:13:57] STEP 16 -- beta diversity partitioned into turnover and nestedness
+[18:13:57]   trait space: 215 taxa x 3 axes (cailliez, weighted Gower -- step 13 recipe)
+[18:14:03] 
+[18:14:03]   cross-region POOL comparison (regional presence-absence, 215 taxa):
+[18:14:03]     taxa recorded in all three regions: 67 of 215
+[18:14:03]     Valley & Ridge  vs Piedmont        turnover 0.195 | nestedness 0.101 | turnover exceeds nestedness
+[18:14:03]     Valley & Ridge  vs Coastal Plain   turnover 0.339 | nestedness 0.061 | turnover exceeds nestedness
+[18:14:03]     Piedmont        vs Coastal Plain   turnover 0.359 | nestedness 0.022 | turnover exceeds nestedness
+[18:14:03] 
+[18:14:03]   share of total dissimilarity that is NESTEDNESS (role loss rather than
+[18:14:03]   role replacement), averaged over all site pairs:
+[18:14:03]     Valley & Ridge  taxonomic  23.1% | functional  60.0%
+[18:14:03]     Piedmont        taxonomic  27.1% | functional  68.7%
+[18:14:03]     Coastal Plain   taxonomic  22.0% | functional  54.1%
+[18:14:03] 
+[18:14:03]   does each component track the condition gradient? (Mantel vs |delta B-IBI|)
+[18:14:03]     Valley & Ridge  turnover r=-0.062 p=0.726 | nestedness r=+0.193 p=0.024 | total r=+0.197 p=0.028
+[18:14:03]     Piedmont        turnover r=+0.216 p=0.009 | nestedness r=+0.207 p=0.013 | total r=+0.248 p=0.010
+[18:14:03]     Coastal Plain   turnover r=+0.175 p=0.034 | nestedness r=-0.047 p=0.669 | total r=+0.173 p=0.056
+[18:14:03] 
+[18:14:03]   mean pairwise beta, bottom vs top third of the within-region gradient:
+[18:14:03]     Valley & Ridge  bottom third  functional: turnover 0.083 | nestedness 0.105 | total 0.188
+[18:14:03]     Valley & Ridge  top third     functional: turnover 0.051 | nestedness 0.059 | total 0.110
+[18:14:03]     Piedmont        bottom third  functional: turnover 0.067 | nestedness 0.183 | total 0.250
+[18:14:03]     Piedmont        top third     functional: turnover 0.039 | nestedness 0.043 | total 0.082
+[18:14:03]     Coastal Plain   bottom third  functional: turnover 0.153 | nestedness 0.120 | total 0.273
+[18:14:03]     Coastal Plain   top third     functional: turnover 0.153 | nestedness 0.102 | total 0.255
+[18:14:03] STEP 16 complete
+[18:14:03] STEP 17 -- null-model SES: is the geometry response a trait signal or evenness?
+[18:14:06]   analytic vs dbFD: RaoQ max diff = 5.55e-17 | FDis max diff = 1.79e-15
+[18:14:37]     ... 250 of 999 permutations
+[18:15:08]     ... 500 of 999 permutations
+[18:15:39]     ... 750 of 999 permutations
+[18:16:11] 
+[18:16:11]   raw rho vs SES rho (trait-label shuffle, 999 permutations):
+[18:16:11]     Valley & Ridge  RaoQ_den  raw +0.672 (p 0.000) -> SES +0.297 (p 0.110) |  44% retained | PARTLY evenness-driven
+[18:16:11]     Valley & Ridge  FDis_den  raw +0.670 (p 0.000) -> SES +0.338 (p 0.068) |  50% retained | PARTLY evenness-driven
+[18:16:11]     Piedmont        RaoQ_den  raw +0.548 (p 0.002) -> SES +0.023 (p 0.904) |   4% retained | COLLAPSES -- evenness, not traits
+[18:16:11]     Piedmont        FDis_den  raw +0.552 (p 0.002) -> SES +0.075 (p 0.692) |  14% retained | COLLAPSES -- evenness, not traits
+[18:16:11]     Coastal Plain   RaoQ_den  raw +0.638 (p 0.000) -> SES +0.590 (p 0.001) |  92% retained | trait signal survives
+[18:16:11]     Coastal Plain   FDis_den  raw +0.687 (p 0.000) -> SES +0.661 (p 0.000) |  96% retained | trait signal survives
+[18:16:11] 
+[18:16:11]   cross-check -- how strongly does raw geometry track numerical evenness?
+[18:16:11]     Valley & Ridge  rho(RaoQ, N50_den) = +0.694 | rho(FDis, N50_den) = +0.707
+[18:16:11]     Piedmont        rho(RaoQ, N50_den) = +0.669 | rho(FDis, N50_den) = +0.688
+[18:16:11]     Coastal Plain   rho(RaoQ, N50_den) = +0.488 | rho(FDis, N50_den) = +0.575
+[18:16:11] STEP 17 complete
+[18:16:11] STEP 19 -- study area map (Figure 2)
+[18:16:12]   90 sites across 3 regions
+[18:16:14]   wrote fig1_study_area (6.8 x 4.1 in)  png/svg/pdf [pdf via cairosvg]
+[18:16:14] STEP 19 complete
+[18:16:14] STEP 20 -- sensitivity of the density-weighted trait results to the Chironomidae
+[18:16:14]   chironomid share of trait-set density: Valley & Ridge 36.9%; Piedmont 43.2%; Coastal Plain 67.0%
+[18:16:57]   density-weighted RaoQ, FDis, FR_RD meeting the criterion: 8 of 9 with every taxon, 1 of 9 with the four groups removed
+[18:21:01]   fourth-corner control: 246 state-tests reproduce step 15 (pass counts, p values, statistics)
+[18:21:01]   fourth-corner states passing under all five seeds, density: 18 with every taxon; 12 lost and 6 gained with the four groups removed
+[18:21:01]   fourth-corner states passing under all five seeds, biomass: 17 with every taxon; 3 lost and 1 gained with the four groups removed
+[18:21:29]   genus-level simulation: 5 scenarios x 1000 draws x 3 regions
+[18:21:30]   wrote figS5_chironomid_removal (6.8 x 3.2 in)  png/svg/pdf [pdf via cairosvg]
+[18:21:30] STEP 20 complete
+[18:21:30] STEP 20b -- Figure S1 from the step 20 record
+[18:21:30]   site-level shares reproduce all 6 coefficients of 20_chironomid_share.csv
+[18:21:33]   wrote figS5_chironomid_removal (6.8 x 6.6 in)  png/svg/pdf [pdf via cairosvg]
+[18:21:33] STEP 20b complete
+[18:21:33] STEP 18 -- assemble manuscript-ready figures and tables
+[18:21:33]   Table S1 cut-points: Valley & Ridge SGV (29); Piedmont UNP (30); Coastal Plain MAC (30)
+[18:21:33]   repository tables: 7 written to output/manuscript/repository_tables (formerly Table S4, Table S6, Table S8, Table S12, Table S13, Table S22, new, 8 Oct 2026 (Discussion 4.5))
+[18:21:33]   NOTICE: graphical abstract is drawn outside the repository (its copy ships in output/manuscript/figures/); the asset is not written
+[18:21:33]   WARNING: 1 orphaned figure file(s) in figures: Figure_S1
+[18:21:33]   WARNING: 1 figure(s) the manuscript numbers but this set does not hold: Graphical_abstract
+[18:21:33]   table set complete: 22 assets, no orphans, no holes
+[18:21:33]   WARNING: 1 figure(s) not found in output/figures: Graphical_abstract
+[18:21:33]   captions: 7 pipeline captions written to CAPTIONS.md; the authored captions are in the manuscript
+[18:21:33]   main assets       : 6 figures, 2 tables
+[18:21:33]   supplementary     : 2 figures, 19 tables
+[18:21:33]   written to output/manuscript/ with ASSET_MANIFEST.csv and CAPTIONS.md
+[18:21:33] STEP 18 complete
+[18:21:33] STEP 18b -- final supplement numbering from supplement_asset_map.csv
+[18:21:33]   supplement: 8 tables (S1 to S8, parts A to C) and 1 figure(s); 8 assets to trait_state_manuscript/; Table 2 has 29 rows
+[18:21:33] STEP 18b complete
+[18:21:33] STEP 21 -- session record (R version, packages, citations)
+[18:21:34]   R 4.5.1 | 26 packages named; 26 loaded this run; namespaces loaded but not named here (dependencies): 59
+[18:21:34]   wrote session_record_20261012_182133.txt, R_packages_and_versions.csv, R_software_citations.bib and R_software_references_APA.txt
+[18:21:34] STEP 21 complete
+[18:21:34] === done in 549.2 s | outputs in output/ ===

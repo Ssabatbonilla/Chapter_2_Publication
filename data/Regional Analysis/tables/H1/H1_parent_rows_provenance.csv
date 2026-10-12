@@ -1,0 +1,40 @@
+column,reference,max_abs_diff,n_na,tolerance,reproduced,mode,stamp
+Total_Density,upstream,9.094947017729282e-13,0,1e-9,TRUE,gate,2026-10-06
+Total_Biomass,upstream,4.547473508864641e-13,0,1e-9,TRUE,gate,2026-10-06
+Richness_alpha,upstream,0,0,1e-9,TRUE,gate,2026-10-06
+Shannon,upstream,3.9968028886505635e-15,0,1e-9,TRUE,gate,2026-10-06
+Simpson_den,upstream,1.1102230246251565e-16,0,1e-9,TRUE,gate,2026-10-06
+Simpson_bio,upstream,1.1102230246251565e-16,0,1e-9,TRUE,gate,2026-10-06
+Richness_FD,upstream,0,0,1e-9,TRUE,gate,2026-10-06
+HBI_rel_abund,upstream,7.105427357601002e-15,0,1e-9,TRUE,gate,2026-10-06
+HBI_coverage_pct,upstream,1.1368683772161603e-13,0,1e-9,TRUE,gate,2026-10-06
+HBI_taxa_with_TV,upstream,0,0,1e-9,TRUE,gate,2026-10-06
+HBI_taxa_total,upstream,0,0,1e-9,TRUE,gate,2026-10-06
+HBI_den,upstream,7.105427357601002e-15,0,1e-6,TRUE,gate,2026-10-06
+HBI_bio,upstream,5.3290705182007514e-15,0,1e-6,TRUE,gate,2026-10-06
+HBI_density_coverage_pct,upstream,1.1368683772161603e-13,0,1e-6,TRUE,gate,2026-10-06
+HBI_biomass_coverage_pct,upstream,5.684341886080802e-14,0,1e-6,TRUE,gate,2026-10-06
+RaoQ_gower_den,00a,2.7755575615628914e-17,0,1e-12,TRUE,gate,2026-10-06
+RaoQ_gower_bio,00a,2.7755575615628914e-17,0,1e-12,TRUE,gate,2026-10-06
+FRic_den_fuzPool,00a,9.540979117872439e-18,0,1e-8,TRUE,gate,2026-10-06
+FEve_den,00a,5.551115123125783e-17,0,1e-8,TRUE,gate,2026-10-06
+FDiv_den,00a,1.1102230246251565e-16,0,1e-8,TRUE,gate,2026-10-06
+FDis_den,00a,2.7755575615628914e-17,0,1e-8,TRUE,gate,2026-10-06
+RaoQ_den,00a,6.938893903907228e-18,0,1e-8,TRUE,gate,2026-10-06
+FEve_bio,00a,5.551115123125783e-17,0,1e-8,TRUE,gate,2026-10-06
+FDiv_bio,00a,1.1102230246251565e-16,0,1e-8,TRUE,gate,2026-10-06
+FDis_bio,00a,2.7755575615628914e-17,0,1e-8,TRUE,gate,2026-10-06
+RaoQ_bio,00a,8.673617379884035e-18,0,1e-8,TRUE,gate,2026-10-06
+"den_mat_fd (median density, trait set)",upstream,0,0,1e-9,TRUE,gate,2026-10-06
+"bio_mat_fd (median biomass, trait set)",upstream,0,0,1e-9,TRUE,gate,2026-10-06
+parent-site cases resolved,resolution,301,NA,NA,NA,resolution summary,2026-10-06
+parents resolved at least once,resolution,34,NA,NA,NA,resolution summary,2026-10-06
+sites with a resolution,resolution,87,NA,NA,NA,resolution summary,2026-10-06
+taxa in the community table (before),resolution,290,NA,NA,NA,resolution summary,2026-10-06
+taxa in the community table (after),resolution,282,NA,NA,NA,resolution summary,2026-10-06
+taxa in the trait set (before),resolution,221,NA,NA,NA,resolution summary,2026-10-06
+taxa in the trait set (after),resolution,215,NA,NA,NA,resolution summary,2026-10-06
+median taxa per site removed,resolution,3,NA,NA,NA,resolution summary,2026-10-06
+max taxa per site removed,resolution,7,NA,NA,NA,resolution summary,2026-10-06
+density moved (share of total),resolution,0.03965251150609591,NA,NA,NA,resolution summary,2026-10-06
+biomass moved (share of total),resolution,0.021228079803044548,NA,NA,NA,resolution summary,2026-10-06

@@ -1,0 +1,10 @@
+Property,Metric,Weighting,Region,n,Spearman rho,raw p,FDR p,Tier
+Structure and tolerance,HBI (biomass),Biomass,Valley & Ridge,30,-0.846,0,0,strong
+Structure and tolerance,HBI (biomass),Biomass,Piedmont,30,-0.616,0,0,strong
+Structure and tolerance,HBI (relative abundance),Relative abundance,Valley & Ridge,30,-0.855,0,0,strong
+Structure and tolerance,HBI (relative abundance),Relative abundance,Piedmont,30,-0.772,0,0,strong
+Structure and tolerance,Shannon diversity (H'),Density,Valley & Ridge,30,0.598,0,0,strong
+Structure and tolerance,Shannon diversity (H'),Density,Piedmont,30,0.734,0,0,strong
+Structure and tolerance,Shannon diversity (H'),Density,Coastal Plain,30,0.639,0,0.001,strong
+Structure and tolerance,Taxonomic richness,invariant,Valley & Ridge,30,0.755,0,0,strong
+Structure and tolerance,Taxonomic richness,invariant,Piedmont,30,0.394,0.031,0.031,strong

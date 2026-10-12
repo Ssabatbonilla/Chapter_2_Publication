@@ -1,0 +1,73 @@
+Property,Family,Metric,Metric_label,Weighting,Region,n,rho,p_raw,p_FDR,Tier
+Structure and tolerance,alpha,HBI_bio,HBI (biomass),Biomass,Valley & Ridge,30,-0.8460511679644049,3.910105242776447e-9,7.820210485552894e-9,strong
+Structure and tolerance,alpha,HBI_bio,HBI (biomass),Biomass,Piedmont,30,-0.6164627363737486,2.861701088317436e-4,3.8156014510899147e-4,strong
+Structure and tolerance,alpha,HBI_bio,HBI (biomass),Biomass,Coastal Plain,30,0.060289210233592884,0.7516426426954624,0.7516426426954624,not responsive
+Structure and tolerance,alpha,HBI_rel_abund,HBI (relative abundance),Relative abundance,Valley & Ridge,30,-0.8553948832035595,1.7291483629559954e-9,6.9165934518239815e-9,strong
+Structure and tolerance,alpha,HBI_rel_abund,HBI (relative abundance),Relative abundance,Piedmont,30,-0.7721913236929923,5.788387362617376e-7,2.3153549450469504e-6,strong
+Structure and tolerance,alpha,HBI_rel_abund,HBI (relative abundance),Relative abundance,Coastal Plain,30,-0.10368227898177503,0.5855927651782376,0.7516426426954624,not responsive
+Structure and tolerance,alpha,Richness_alpha,Taxonomic richness,invariant,Valley & Ridge,30,0.7549328159309806,1.4317471249895317e-6,1.908996166652709e-6,strong
+Structure and tolerance,alpha,Richness_alpha,Taxonomic richness,invariant,Piedmont,30,0.39412173281343305,0.031157375592135897,0.031157375592135897,strong
+Structure and tolerance,alpha,Richness_alpha,Taxonomic richness,invariant,Coastal Plain,30,0.1470261950425831,0.43815950997471964,0.7516426426954624,not responsive
+Structure and tolerance,alpha,Shannon,Shannon diversity (H'),Density,Valley & Ridge,30,0.5982202447163515,4.800578163847543e-4,4.800578163847543e-4,strong
+Structure and tolerance,alpha,Shannon,Shannon diversity (H'),Density,Piedmont,30,0.7343715239154617,3.843839726522526e-6,7.687679453045052e-6,strong
+Structure and tolerance,alpha,Shannon,Shannon diversity (H'),Density,Coastal Plain,30,0.6387096774193548,1.4559771594433113e-4,5.823908637773245e-4,strong
+Inequality,concentration,Gini_DB_DOM,Concentration divergence,difference,Valley & Ridge,30,0.1657397107897664,0.3814126631130642,0.3814126631130642,not responsive
+Inequality,concentration,Gini_DB_DOM,Concentration divergence,difference,Piedmont,30,0.4460511679644049,0.013488902000711763,0.022481503334519606,strong
+Inequality,concentration,Gini_DB_DOM,Concentration divergence,difference,Coastal Plain,30,0.6578420467185763,7.794584182310074e-5,3.8972920911550373e-4,strong
+Inequality,concentration,Gini_bio,Gini coefficient,Biomass,Valley & Ridge,30,-0.27741935483870966,0.1377469131001397,0.22957818850023284,not responsive
+Inequality,concentration,Gini_bio,Gini coefficient,Biomass,Piedmont,30,0.08075639599555061,0.671405266055858,0.671405266055858,not responsive
+Inequality,concentration,Gini_bio,Gini coefficient,Biomass,Coastal Plain,30,0.5043381535038932,0.004484558915529404,0.011211397288823508,strong
+Inequality,concentration,Gini_den,Gini coefficient,Density,Valley & Ridge,30,-0.24315906562847608,0.19539583425127266,0.24424479281409084,not responsive
+Inequality,concentration,Gini_den,Gini coefficient,Density,Piedmont,30,-0.5937708565072302,5.420805357617058e-4,0.0013552013394042646,strong
+Inequality,concentration,Gini_den,Gini coefficient,Density,Coastal Plain,30,-0.45806451612903226,0.010912052559725683,0.01818675426620947,strong
+Inequality,concentration,N50_bio,Taxa making up half the total,Biomass,Valley & Ridge,30,0.5800305469817347,7.803478851158668e-4,0.003901739425579334,strong
+Inequality,concentration,N50_bio,Taxa making up half the total,Biomass,Piedmont,30,0.31079078553603523,0.09459798467028438,0.11824748083785547,not responsive
+Inequality,concentration,N50_bio,Taxa making up half the total,Biomass,Coastal Plain,30,-0.1325091435898498,0.48515813423486265,0.48515813423486265,not responsive
+Inequality,concentration,N50_den,Taxa making up half the total,Density,Valley & Ridge,30,0.5178186211639952,0.00338034383548154,0.00845085958870385,strong
+Inequality,concentration,N50_den,Taxa making up half the total,Density,Piedmont,30,0.7780972456193012,4.169706188193986e-7,2.084853094096993e-6,strong
+Inequality,concentration,N50_den,Taxa making up half the total,Density,Coastal Plain,30,0.34844795858700894,0.05915251653046052,0.07394064566307565,strong
+Functional diversity,fd,FDis_bio,Functional dispersion (FDis),Biomass,Valley & Ridge,30,0.09098998887652948,0.6325149154939782,0.7438211266734641,not responsive
+Functional diversity,fd,FDis_bio,Functional dispersion (FDis),Biomass,Piedmont,30,-0.035372636262513905,0.852782583849835,0.8950934121826407,not responsive
+Functional diversity,fd,FDis_bio,Functional dispersion (FDis),Biomass,Coastal Plain,30,-0.10700778642936595,0.5735565182059501,0.9655664265522723,not responsive
+Functional diversity,fd,FDis_den,Functional dispersion (FDis),Density,Valley & Ridge,30,0.6698553948832036,5.146640464901705e-5,2.3159882092057673e-4,strong
+Functional diversity,fd,FDis_den,Functional dispersion (FDis),Density,Piedmont,30,0.5523915461624027,0.0015499626772872111,0.0076668313561078765,strong
+Functional diversity,fd,FDis_den,Functional dispersion (FDis),Density,Coastal Plain,30,0.6867630700778643,2.7774980747689165e-5,2.499748267292025e-4,strong
+Functional diversity,fd,FDiv_bio,Functional divergence (FDiv),Biomass,Valley & Ridge,30,-0.3085650723025584,0.09710944858909286,0.21849625932545894,not responsive
+Functional diversity,fd,FDiv_bio,Functional divergence (FDiv),Biomass,Piedmont,30,-0.2827586206896552,0.1300221402899324,0.2925498156523479,not responsive
+Functional diversity,fd,FDiv_bio,Functional divergence (FDiv),Biomass,Coastal Plain,30,-0.004226918798665183,0.9823138806139917,0.9823138806139917,not responsive
+Functional diversity,fd,FDiv_den,Functional divergence (FDiv),Density,Valley & Ridge,30,-0.11902113459399331,0.5310275921265402,0.7438211266734641,not responsive
+Functional diversity,fd,FDiv_den,Functional divergence (FDiv),Density,Piedmont,30,-0.040266963292547274,0.8326804047464449,0.8950934121826407,not responsive
+Functional diversity,fd,FDiv_den,Functional divergence (FDiv),Density,Coastal Plain,30,0.3414905450500556,0.06476054992542239,0.19428164977626716,not responsive
+Functional diversity,fd,FEve_bio,Functional evenness (FEve),Biomass,Valley & Ridge,30,0.14260289210233593,0.4522110901221207,0.7438211266734641,not responsive
+Functional diversity,fd,FEve_bio,Functional evenness (FEve),Biomass,Piedmont,30,-0.2040044493882091,0.2795541796207104,0.5031975233172787,not responsive
+Functional diversity,fd,FEve_bio,Functional evenness (FEve),Biomass,Coastal Plain,30,0.03804226918798665,0.8418057259085627,0.9655664265522723,not responsive
+Functional diversity,fd,FEve_den,Functional evenness (FEve),Density,Valley & Ridge,30,0.01579532814238042,0.9339760412024594,0.9339760412024594,not responsive
+Functional diversity,fd,FEve_den,Functional evenness (FEve),Density,Piedmont,30,-0.02513904338153504,0.8950934121826407,0.8950934121826407,not responsive
+Functional diversity,fd,FEve_den,Functional evenness (FEve),Density,Coastal Plain,30,0.24805339265850948,0.18627431903928546,0.4191172178383923,not responsive
+Functional diversity,fd,FRic_den,Functional richness (FRic),invariant,Valley & Ridge,30,0.5808676307007786,7.635689629508409e-4,0.002290706888852523,strong
+Functional diversity,fd,FRic_den,Functional richness (FRic),invariant,Piedmont,30,0.2836484983314794,0.12876622267316196,0.2925498156523479,not responsive
+Functional diversity,fd,FRic_den,Functional richness (FRic),invariant,Coastal Plain,30,0.034037819799777526,0.8582812680464643,0.9655664265522723,not responsive
+Functional diversity,fd,RaoQ_bio,Rao's quadratic entropy,Biomass,Valley & Ridge,30,0.08342602892102337,0.661174334820857,0.7438211266734641,not responsive
+Functional diversity,fd,RaoQ_bio,Rao's quadratic entropy,Biomass,Piedmont,30,-0.07541713014460512,0.6920391624734632,0.8950934121826407,not responsive
+Functional diversity,fd,RaoQ_bio,Rao's quadratic entropy,Biomass,Coastal Plain,30,-0.054505005561735265,0.7748294473294788,0.9655664265522723,not responsive
+Functional diversity,fd,RaoQ_den,Rao's quadratic entropy,Density,Valley & Ridge,30,0.6720800889877642,4.75609047031578e-5,2.3159882092057673e-4,strong
+Functional diversity,fd,RaoQ_den,Rao's quadratic entropy,Density,Piedmont,30,0.5483870967741935,0.001703740301357306,0.0076668313561078765,strong
+Functional diversity,fd,RaoQ_den,Rao's quadratic entropy,Density,Coastal Plain,30,0.6382647385984427,1.476550860601149e-4,6.644478872705171e-4,strong
+Redundancy,redundancy,FR_DB_RD,Redundancy divergence,difference,Valley & Ridge,30,0.6,4.570552394050766e-4,0.0018282209576203064,strong
+Redundancy,redundancy,FR_DB_RD,Redundancy divergence,difference,Piedmont,30,0.46206896551724136,0.010150844418613402,0.04060337767445361,strong
+Redundancy,redundancy,FR_DB_RD,Redundancy divergence,difference,Coastal Plain,30,0.432258064516129,0.017054947032249808,0.034109894064499616,strong
+Redundancy,redundancy,FR_RD_bio,Overlap redundancy (FR_RD),Biomass,Valley & Ridge,30,0.15150166852057842,0.42418723934489966,0.42418723934489966,not responsive
+Redundancy,redundancy,FR_RD_bio,Overlap redundancy (FR_RD),Biomass,Piedmont,30,0.421579532814238,0.020324132294364583,0.040648264588729166,strong
+Redundancy,redundancy,FR_RD_bio,Overlap redundancy (FR_RD),Biomass,Coastal Plain,30,-0.22180200222469412,0.23880395639710456,0.31840527519613937,not responsive
+Redundancy,redundancy,FR_RD_den,Overlap redundancy (FR_RD),Density,Valley & Ridge,30,-0.47719688542825367,0.007665243970877595,0.010220325294503459,strong
+Redundancy,redundancy,FR_RD_den,Overlap redundancy (FR_RD),Density,Piedmont,30,-0.21245828698553948,0.2596736276130156,0.2596736276130156,not responsive
+Redundancy,redundancy,FR_RD_den,Overlap redundancy (FR_RD),Density,Coastal Plain,30,-0.6614015572858732,6.905714066023948e-5,2.762285626409579e-4,strong
+Redundancy,redundancy,FR_SF_den_log10,Space-filling redundancy (FR_SF),invariant,Valley & Ridge,30,-0.5190211345939933,0.003294338555783673,0.006588677111567346,strong
+Redundancy,redundancy,FR_SF_den_log10,Space-filling redundancy (FR_SF),invariant,Piedmont,30,-0.2538375973303671,0.17588302295377545,0.2345106972717006,not responsive
+Redundancy,redundancy,FR_SF_den_log10,Space-filling redundancy (FR_SF),invariant,Coastal Plain,30,-0.027808676307007788,0.8840238060189678,0.8840238060189678,not responsive
+Totals,structure,Total_Biomass,Total biomass,Biomass,Valley & Ridge,30,0.13904338153503895,0.4636910679305082,0.4636910679305082,not responsive
+Totals,structure,Total_Biomass,Total biomass,Biomass,Piedmont,30,0.4460511679644049,0.013488902000711763,0.026977804001423526,strong
+Totals,structure,Total_Biomass,Total biomass,Biomass,Coastal Plain,30,0.08921023359288098,0.6392134731711174,0.6392134731711174,not responsive
+Totals,structure,Total_Density,Total density,Density,Valley & Ridge,30,-0.1804226918798665,0.3400401726309267,0.4636910679305082,not responsive
+Totals,structure,Total_Density,Total density,Density,Piedmont,30,-0.1964623440792003,0.2980942578914515,0.2980942578914515,not responsive
+Totals,structure,Total_Density,Total density,Density,Coastal Plain,30,-0.28231368186874306,0.13065345801091197,0.26130691602182393,not responsive

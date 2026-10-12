@@ -1,0 +1,26 @@
+old,new,part,action,note
+Table S1,S1,A,keep,environmental and biological context by region with the rating-class cut-points
+Table S2,S1,B,keep,sampling design by region
+Table S3,S2,A,keep,trait groups and their states
+Table S5,S3,A,keep,trait coverage and the responsive associations
+Table S7,S2,B and C,keep,terms (part B) and metric definitions (part C)
+Table S9,S5,,keep,multivariate tests
+Table S10,S4,A,keep,the full screen
+Table S14,S4,B,keep,achieved power of the 72 tests
+Table S15,S6,,keep,the null model
+Table S16,,,delete,fourth-corner results for every trait state; to the trait-state manuscript
+Table S17,,,delete,one fourth-corner test per trait group; to the trait-state manuscript
+Table S18,S3,B,keep,leave-few-out leverage audit
+Table S19,,,delete,leave-one-taxon-out for the trait states; to the trait-state manuscript
+Table S20,,,delete,density-against-biomass difference of each trait state; to the trait-state manuscript
+Table S23,S8,A,keep,taxon-level screen
+Table S24,S8,B,keep,tolerance of the responding taxa
+Table S25,S4,C,keep,functional richness and space-filling redundancy against richness
+Table S26,S7,A,keep,chironomid share of the trait-set total
+Table S27,S7,B,keep,functional metrics without the four chironomid taxa
+Table S28,,,delete,trait states with and without the four; to the trait-state manuscript
+Table S29,S7,C,keep,genus-level split of the four
+Figure S2,,,delete,density-against-biomass difference of each trait state; to the trait-state manuscript
+Figure S3,S1,,keep,functional metrics without the four chironomid taxa (panel b of trait states leaves with the cut)
+Figure 6,,,delete,trait states associated with condition (main-text figure cut in step 1); to the trait-state manuscript
+Table 4,,,delete,the record behind Figure 6; to the trait-state manuscript

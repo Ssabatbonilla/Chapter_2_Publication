@@ -1,0 +1,73 @@
+Family,Metric,Weighting,Region,n,rho,p_raw,p_FDR,Tier,achieved_power,null_status
+alpha,HBI_bio,Biomass,Valley & Ridge,30,-0.846,0,0,strong,1,responsive
+alpha,HBI_bio,Biomass,Piedmont,30,-0.616,0,0,strong,0.962,responsive
+alpha,HBI_bio,Biomass,Coastal Plain,30,0.06,0.752,0.752,not responsive,0.05,"null, bounded: excludes |rho| >= 0.49"
+alpha,HBI_rel_abund,Relative abundance,Valley & Ridge,30,-0.855,0,0,strong,1,responsive
+alpha,HBI_rel_abund,Relative abundance,Piedmont,30,-0.772,0,0,strong,1,responsive
+alpha,HBI_rel_abund,Relative abundance,Coastal Plain,30,-0.104,0.586,0.752,not responsive,0.078,"null, bounded: excludes |rho| >= 0.49"
+alpha,Richness_alpha,invariant,Valley & Ridge,30,0.755,0,0,strong,0.999,responsive
+alpha,Richness_alpha,invariant,Piedmont,30,0.394,0.031,0.031,strong,0.581,responsive
+alpha,Richness_alpha,invariant,Coastal Plain,30,0.147,0.438,0.752,not responsive,0.117,"null, bounded: excludes |rho| >= 0.49"
+alpha,Shannon,Density,Valley & Ridge,30,0.598,0,0,strong,0.948,responsive
+alpha,Shannon,Density,Piedmont,30,0.734,0,0,strong,0.998,responsive
+alpha,Shannon,Density,Coastal Plain,30,0.639,0,0.001,strong,0.975,responsive
+concentration,Gini_DB_DOM,difference,Valley & Ridge,30,0.166,0.381,0.381,not responsive,0.138,"null, bounded: excludes |rho| >= 0.49"
+concentration,Gini_DB_DOM,difference,Piedmont,30,0.446,0.013,0.022,strong,0.703,responsive
+concentration,Gini_DB_DOM,difference,Coastal Plain,30,0.658,0,0,strong,0.984,responsive
+concentration,Gini_bio,Biomass,Valley & Ridge,30,-0.277,0.138,0.23,not responsive,0.316,"null, bounded: excludes |rho| >= 0.49"
+concentration,Gini_bio,Biomass,Piedmont,30,0.081,0.671,0.671,not responsive,0.062,"null, bounded: excludes |rho| >= 0.49"
+concentration,Gini_bio,Biomass,Coastal Plain,30,0.504,0.004,0.011,strong,0.822,responsive
+concentration,Gini_den,Density,Valley & Ridge,30,-0.243,0.195,0.244,not responsive,0.251,"null, bounded: excludes |rho| >= 0.49"
+concentration,Gini_den,Density,Piedmont,30,-0.594,0.001,0.001,strong,0.944,responsive
+concentration,Gini_den,Density,Coastal Plain,30,-0.458,0.011,0.018,strong,0.73,responsive
+concentration,N50_bio,Biomass,Valley & Ridge,30,0.58,0.001,0.004,strong,0.931,responsive
+concentration,N50_bio,Biomass,Piedmont,30,0.311,0.095,0.118,not responsive,0.386,"null, bounded: excludes |rho| >= 0.49"
+concentration,N50_bio,Biomass,Coastal Plain,30,-0.133,0.485,0.485,not responsive,0.103,"null, bounded: excludes |rho| >= 0.49"
+concentration,N50_den,Density,Valley & Ridge,30,0.518,0.003,0.008,strong,0.846,responsive
+concentration,N50_den,Density,Piedmont,30,0.778,0,0,strong,1,responsive
+concentration,N50_den,Density,Coastal Plain,30,0.348,0.059,0.074,strong,0.472,responsive
+fd,FDis_bio,Biomass,Valley & Ridge,30,0.091,0.633,0.744,not responsive,0.069,"null, bounded: excludes |rho| >= 0.49"
+fd,FDis_bio,Biomass,Piedmont,30,-0.035,0.853,0.895,not responsive,0.038,"null, bounded: excludes |rho| >= 0.49"
+fd,FDis_bio,Biomass,Coastal Plain,30,-0.107,0.574,0.966,not responsive,0.08,"null, bounded: excludes |rho| >= 0.49"
+fd,FDis_den,Density,Valley & Ridge,30,0.67,0,0,strong,0.988,responsive
+fd,FDis_den,Density,Piedmont,30,0.552,0.002,0.008,strong,0.898,responsive
+fd,FDis_den,Density,Coastal Plain,30,0.687,0,0,strong,0.992,responsive
+fd,FDiv_bio,Biomass,Valley & Ridge,30,-0.309,0.097,0.218,not responsive,0.381,"null, bounded: excludes |rho| >= 0.49"
+fd,FDiv_bio,Biomass,Piedmont,30,-0.283,0.13,0.293,not responsive,0.327,"null, bounded: excludes |rho| >= 0.49"
+fd,FDiv_bio,Biomass,Coastal Plain,30,-0.004,0.982,0.982,not responsive,0.026,"null, bounded: excludes |rho| >= 0.49"
+fd,FDiv_den,Density,Valley & Ridge,30,-0.119,0.531,0.744,not responsive,0.09,"null, bounded: excludes |rho| >= 0.49"
+fd,FDiv_den,Density,Piedmont,30,-0.04,0.833,0.895,not responsive,0.04,"null, bounded: excludes |rho| >= 0.49"
+fd,FDiv_den,Density,Coastal Plain,30,0.341,0.065,0.194,not responsive,0.456,"null, bounded: excludes |rho| >= 0.49"
+fd,FEve_bio,Biomass,Valley & Ridge,30,0.143,0.452,0.744,not responsive,0.112,"null, bounded: excludes |rho| >= 0.49"
+fd,FEve_bio,Biomass,Piedmont,30,-0.204,0.28,0.503,not responsive,0.188,"null, bounded: excludes |rho| >= 0.49"
+fd,FEve_bio,Biomass,Coastal Plain,30,0.038,0.842,0.966,not responsive,0.039,"null, bounded: excludes |rho| >= 0.49"
+fd,FEve_den,Density,Valley & Ridge,30,0.016,0.934,0.934,not responsive,0.03,"null, bounded: excludes |rho| >= 0.49"
+fd,FEve_den,Density,Piedmont,30,-0.025,0.895,0.895,not responsive,0.034,"null, bounded: excludes |rho| >= 0.49"
+fd,FEve_den,Density,Coastal Plain,30,0.248,0.186,0.419,not responsive,0.26,"null, bounded: excludes |rho| >= 0.49"
+fd,FRic_den,invariant,Valley & Ridge,30,0.581,0.001,0.002,strong,0.932,responsive
+fd,FRic_den,invariant,Piedmont,30,0.284,0.129,0.293,not responsive,0.328,"null, bounded: excludes |rho| >= 0.49"
+fd,FRic_den,invariant,Coastal Plain,30,0.034,0.858,0.966,not responsive,0.037,"null, bounded: excludes |rho| >= 0.49"
+fd,RaoQ_bio,Biomass,Valley & Ridge,30,0.083,0.661,0.744,not responsive,0.064,"null, bounded: excludes |rho| >= 0.49"
+fd,RaoQ_bio,Biomass,Piedmont,30,-0.075,0.692,0.895,not responsive,0.059,"null, bounded: excludes |rho| >= 0.49"
+fd,RaoQ_bio,Biomass,Coastal Plain,30,-0.055,0.775,0.966,not responsive,0.047,"null, bounded: excludes |rho| >= 0.49"
+fd,RaoQ_den,Density,Valley & Ridge,30,0.672,0,0,strong,0.988,responsive
+fd,RaoQ_den,Density,Piedmont,30,0.548,0.002,0.008,strong,0.893,responsive
+fd,RaoQ_den,Density,Coastal Plain,30,0.638,0,0.001,strong,0.975,responsive
+redundancy,FR_DB_RD,difference,Valley & Ridge,30,0.6,0,0.002,strong,0.95,responsive
+redundancy,FR_DB_RD,difference,Piedmont,30,0.462,0.01,0.041,strong,0.738,responsive
+redundancy,FR_DB_RD,difference,Coastal Plain,30,0.432,0.017,0.034,strong,0.672,responsive
+redundancy,FR_RD_bio,Biomass,Valley & Ridge,30,0.152,0.424,0.424,not responsive,0.122,"null, bounded: excludes |rho| >= 0.49"
+redundancy,FR_RD_bio,Biomass,Piedmont,30,0.422,0.02,0.041,strong,0.647,responsive
+redundancy,FR_RD_bio,Biomass,Coastal Plain,30,-0.222,0.239,0.318,not responsive,0.215,"null, bounded: excludes |rho| >= 0.49"
+redundancy,FR_RD_den,Density,Valley & Ridge,30,-0.477,0.008,0.01,strong,0.77,responsive
+redundancy,FR_RD_den,Density,Piedmont,30,-0.212,0.26,0.26,not responsive,0.201,"null, bounded: excludes |rho| >= 0.49"
+redundancy,FR_RD_den,Density,Coastal Plain,30,-0.661,0,0,strong,0.985,responsive
+redundancy,FR_SF_den_log10,invariant,Valley & Ridge,30,-0.519,0.003,0.007,strong,0.848,responsive
+redundancy,FR_SF_den_log10,invariant,Piedmont,30,-0.254,0.176,0.235,not responsive,0.27,"null, bounded: excludes |rho| >= 0.49"
+redundancy,FR_SF_den_log10,invariant,Coastal Plain,30,-0.028,0.884,0.884,not responsive,0.035,"null, bounded: excludes |rho| >= 0.49"
+structure,Total_Biomass,Biomass,Valley & Ridge,30,0.139,0.464,0.464,not responsive,0.109,"null, bounded: excludes |rho| >= 0.49"
+structure,Total_Biomass,Biomass,Piedmont,30,0.446,0.013,0.027,strong,0.703,responsive
+structure,Total_Biomass,Biomass,Coastal Plain,30,0.089,0.639,0.639,not responsive,0.067,"null, bounded: excludes |rho| >= 0.49"
+structure,Total_Density,Density,Valley & Ridge,30,-0.18,0.34,0.464,not responsive,0.156,"null, bounded: excludes |rho| >= 0.49"
+structure,Total_Density,Density,Piedmont,30,-0.196,0.298,0.298,not responsive,0.177,"null, bounded: excludes |rho| >= 0.49"
+structure,Total_Density,Density,Coastal Plain,30,-0.282,0.131,0.261,not responsive,0.326,"null, bounded: excludes |rho| >= 0.49"

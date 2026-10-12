@@ -1,0 +1,18 @@
+Region,block,modality,biomass_coverage,r_cwm_coverage,rho,rho_partial,pct_lost,verdict
+Valley & Ridge,Flying,Flying_Strong,100,NA,-0.5310344827586206,NA,NA,complete coverage -- no confound possible
+Valley & Ridge,Flying,Flying_Weak,100,NA,0.5310344827586206,NA,NA,complete coverage -- no confound possible
+Valley & Ridge,Disperse,Disperse_High,100,NA,-0.4522803114571746,NA,NA,complete coverage -- no confound possible
+Valley & Ridge,Disperse,Disperse_Low,100,NA,0.4522803114571746,NA,NA,complete coverage -- no confound possible
+Valley & Ridge,Size,Size_Small,100,NA,-0.43982202447163515,NA,NA,complete coverage -- no confound possible
+Piedmont,Flying,Flying_Strong,100,NA,-0.49143492769744157,NA,NA,complete coverage -- no confound possible
+Piedmont,Flying,Flying_Weak,100,NA,0.49143492769744157,NA,NA,complete coverage -- no confound possible
+Piedmont,Feed,Feed_SH,100,NA,0.5078976640711902,NA,NA,complete coverage -- no confound possible
+Piedmont,Disperse,Disperse_High,100,NA,-0.46206896551724136,NA,NA,complete coverage -- no confound possible
+Piedmont,Disperse,Disperse_Low,100,NA,0.46206896551724136,NA,NA,complete coverage -- no confound possible
+Piedmont,Rheophily,Rheophily_Depositional,100,NA,-0.5670745272525028,NA,NA,complete coverage -- no confound possible
+Piedmont,Thermal,Thermal_CoolEury,100,NA,0.6222469410456063,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Rheophily,Rheophily_Depositional,100,NA,0.09365962180200223,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Rheophily,Rheophily_Erosional,100,NA,-0.3770856507230256,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Thermal,Thermal_ColdSteno,100,NA,-0.18442714126807563,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Thermal,Thermal_CoolEury,100,NA,-0.2502780867630701,NA,NA,complete coverage -- no confound possible
+Coastal Plain,Thermal,Thermal_HotEury,100,NA,0.2100908477113079,NA,NA,complete coverage -- no confound possible

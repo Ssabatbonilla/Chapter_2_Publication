@@ -1,0 +1,302 @@
+SiteID,Typology,parent,rank,n_children,children,abundance_moved,density_moved,biomass_moved
+BACK,1,Acari,order_or_higher,1,Hydracarina,9.8,39.2,2.078
+RIFE,3,Gastropoda,order_or_higher,1,Physidae,0.4,1.6,0.275
+BLOC,2,Lepidoptera,order_or_higher,1,Petrophila,0.2,0.8,0.017
+CYPR,2,Lepidoptera,order_or_higher,1,Crambidae,0.2,0.8,6.548
+HUNT,2,Lepidoptera,order_or_higher,1,Crambidae,0.2,0.8,0.687
+LION,2,Lepidoptera,order_or_higher,1,Petrophila,0.2,0.8,1.444
+MSTR,2,Lepidoptera,order_or_higher,1,Petrophila,0.6,2.4,0.926
+WWIN,3,Lepidoptera,order_or_higher,1,Petrophila,0.2,0.8,0.435
+JAMS,2,Megaloptera,order_or_higher,2,Chauliodes; Sialis,0.2,0.8,0.508
+MIDD,1,Tipuloidia,superfamily,3,Antocha; Hexatoma; Tipula,0.2,0.8,0.028
+MLRB,1,Tipuloidia,superfamily,4,Antocha; Dicranomyia; Pilaria; Tipula,0.2,0.8,0.028
+WARB,1,Tipuloidia,superfamily,1,Antocha,0.2,0.8,0.408
+BDAM,2,Tipuloidia,superfamily,3,Ormosia; Simplecta; Tipula,0.2,0.8,0.261
+MSTR,2,Tipuloidia,superfamily,3,Epiphragma; Erioptera; Simplecta,0.2,0.8,0.028
+BUTL,2,Aeshnidae,family,1,Boyeria,0.2,0.8,29.971
+CHES,2,Aeshnidae,family,1,Boyeria,0.2,0.8,8.921
+UNIC,2,Aeshnidae,family,1,Boyeria,0.6,2.4,79.396
+DELA,3,Aeshnidae,family,1,Boyeria,0.8,3.2,0.145
+MUDY,3,Aeshnidae,family,1,Boyeria,0.2,0.8,0.046
+SBOT,3,Aeshnidae,family,1,Boyeria,0.4,1.6,0.288
+STEW,3,Aeshnidae,family,1,Boyeria,0.2,0.8,0.046
+BEAV,1,Baetidae,family,1,Heterocloeon,15.2,60.8,11.212
+BULL,1,Baetidae,family,1,Baetis,11.6,46.4,7.155
+CEDR,1,Baetidae,family,2,Baetis; Heterocloeon,370.6,1482.4,378.591
+HARL,1,Baetidae,family,1,Heterocloeon,3.2,12.8,4.701
+HOLM,1,Baetidae,family,1,Heterocloeon,31,124,26.841
+MEAD,1,Baetidae,family,1,Heterocloeon,20,80,21.082
+MIDD,1,Baetidae,family,1,Fallceon,1.6,6.4,1.823
+MLPG,1,Baetidae,family,1,Heterocloeon,44.667,178.667,49.443
+MLRB,1,Baetidae,family,2,Baetis; Heterocloeon,13.6,54.4,18.304
+MLRH,1,Baetidae,family,1,Heterocloeon,23.733,94.933,13.485
+MOSS,1,Baetidae,family,1,Heterocloeon,20.8,83.2,30.802
+MUDD,1,Baetidae,family,1,Heterocloeon,20.8,83.2,28.724
+NPAS,1,Baetidae,family,1,Heterocloeon,51.8,207.2,28.229
+PINE,1,Baetidae,family,1,Heterocloeon,7.4,29.6,5.554
+PISG,1,Baetidae,family,2,Fallceon; Heterocloeon,126.2,504.8,145.319
+POAG,1,Baetidae,family,2,Fallceon; Heterocloeon,281.697,1126.79,202.489
+PUGH,1,Baetidae,family,1,Heterocloeon,7,28,20.559
+SMTH,1,Baetidae,family,1,Heterocloeon,17.6,70.4,12.486
+SPOU,1,Baetidae,family,1,Heterocloeon,13,52,5.666
+THOR,1,Baetidae,family,2,Fallceon; Heterocloeon,273.9,1095.6,301.748
+TOMS,1,Baetidae,family,2,Baetis; Heterocloeon,4.2,16.8,4.759
+WARB,1,Baetidae,family,1,Heterocloeon,9,36,13.036
+WFLN,1,Baetidae,family,2,Fallceon; Heterocloeon,53.2,212.8,68.914
+BLOC,2,Baetidae,family,2,Acerpenna; Heterocloeon,5,20,8.871
+BROD,2,Baetidae,family,3,Baetis; Fallceon; Heterocloeon,1.2,4.8,1.886
+BUTL,2,Baetidae,family,1,Acerpenna,6.6,26.4,4.374
+CHES,2,Baetidae,family,1,Acerpenna,7,28,3.323
+FORG,2,Baetidae,family,4,Acentrella; Baetis; Fallceon; Heterocloeon,9.4,37.6,17.3
+GRAN,2,Baetidae,family,3,Acerpenna; Fallceon; Heterocloeon,16.2,64.8,17.381
+GRAV,2,Baetidae,family,2,Fallceon; Heterocloeon,2.4,9.6,2.232
+HIGH,2,Baetidae,family,3,Acerpenna; Heterocloeon; Iswaeon,1.2,4.8,0.214
+HUNT,2,Baetidae,family,1,Heterocloeon,1.4,5.6,0.076
+JARM,2,Baetidae,family,4,Acentrella; Acerpenna; Heterocloeon; Paracloeodes,2.2,8.8,0.932
+KNGT,2,Baetidae,family,4,Acerpenna; Baetis; Diphetor; Heterocloeon,1.2,4.8,2.03
+LION,2,Baetidae,family,2,Fallceon; Heterocloeon,8.8,35.2,5.768
+NORW,2,Baetidae,family,1,Heterocloeon,13.8,55.2,35.383
+QACP,2,Baetidae,family,1,Heterocloeon,2.6,10.4,2.173
+SEWL,2,Baetidae,family,1,Heterocloeon,0.2,0.8,0.462
+UNIC,2,Baetidae,family,3,Baetis; Fallceon; Heterocloeon,1.8,7.2,4.689
+BEET,3,Baetidae,family,1,Heterocloeon,7.6,30.4,8.028
+BROC,3,Baetidae,family,2,Fallceon; Heterocloeon,1.6,6.4,2.375
+BRUB,3,Baetidae,family,1,Procloeon,1.6,6.4,4.231
+CARO,3,Baetidae,family,2,Baetis; Heterocloeon,2,8,5.909
+CHIQ,3,Baetidae,family,1,Heterocloeon,1.4,5.6,1.073
+CONY,3,Baetidae,family,1,Heterocloeon,11.6,46.4,20.525
+COOP,3,Baetidae,family,1,Heterocloeon,3.4,13.6,5.999
+DEEP,3,Baetidae,family,1,Heterocloeon,4,16,10.454
+DELA,3,Baetidae,family,4,Acentrella; Baetis; Diphetor; Heterocloeon,1.8,7.2,1.574
+DONE,3,Baetidae,family,3,Baetis; Diphetor; Heterocloeon,3,12,101.048
+EPAT,3,Baetidae,family,1,Heterocloeon,7.4,29.6,10.878
+EWIN,3,Baetidae,family,2,Acentrella; Heterocloeon,3.6,14.4,5.748
+KNIT,3,Baetidae,family,4,Acentrella; Baetis; Heterocloeon; Procloeon,5,20,7.806
+LBVR,3,Baetidae,family,1,Baetis,0.4,1.6,0.501
+LCON,3,Baetidae,family,3,Baetis; Diphetor; Heterocloeon,3.6,14.4,4.943
+LFAL,3,Baetidae,family,4,Acentrella; Acerpenna; Baetis; Heterocloeon,3.2,12.8,2.627
+MUDY,3,Baetidae,family,3,Acentrella; Baetis; Heterocloeon,19,76,7.92
+OFFC,3,Baetidae,family,5,Acentrella; Baetis; Callibaetis; Diphetor; Heterocloeon,6.8,27.2,12.131
+ORSN,3,Baetidae,family,4,Acentrella; Baetis; Diphetor; Heterocloeon,11.6,46.4,19.882
+RIFE,3,Baetidae,family,1,Heterocloeon,2.4,9.6,6.045
+RMBO,3,Baetidae,family,1,Heterocloeon,1.6,6.4,2.58
+SBOT,3,Baetidae,family,3,Acentrella; Baetis; Heterocloeon,6.2,24.8,8.029
+STEW,3,Baetidae,family,1,Heterocloeon,1.2,4.8,2.089
+THOM,3,Baetidae,family,3,Baetis; Heterocloeon; Procloeon,9,36,17.178
+WOCT,3,Baetidae,family,2,Baetis; Heterocloeon,8,32,13.76
+WTOM,3,Baetidae,family,4,Baetis; Diphetor; Heterocloeon; Procloeon,17.4,69.6,16.46
+WWIN,3,Baetidae,family,3,Acentrella; Baetis; Heterocloeon,1.4,5.6,2.766
+EIDS,1,Brachycentridae,family,1,Micrasema,0.2,0.8,3.245
+THOR,1,Brachycentridae,family,1,Micrasema,0.2,0.8,0.047
+BEAV,1,Chironomidae,family,5,Chironominae; Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.062
+BULL,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,2.6,10.4,0.131
+CEDR,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1.4,5.6,0.072
+HOLM,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,2.8,11.2,0.156
+LONG,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.03
+MEAD,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.8,3.2,0.084
+MLBK,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,2.6,10.4,0.173
+MLPG,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,3.6,14.4,0.625
+MLRB,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,3.4,13.6,0.413
+MLRH,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1.4,5.6,0.312
+MOSS,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.01
+MUDD,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,3.4,13.6,0.119
+NPAS,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,13,52,4.854
+PISG,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1.4,5.6,0.107
+POAG,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,4.2,16.8,0.605
+PUGH,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.067
+SMTH,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1.6,6.4,0.309
+SPOU,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1.75,7,0.086
+THOR,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,2.2,8.8,0.551
+TOMS,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.067
+TUSC,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,2.8,11.2,0.284
+WARB,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.036
+WEST,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,5.8,23.2,1.011
+WFLN,1,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.003
+ANDR,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,2.2,8.8,2.158
+BDAM,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.4,1.6,0.045
+BLOC,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,50,200,16.478
+BUTL,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1,4,0.343
+CHES,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.283
+CYPR,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.064
+GRAV,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1.4,5.6,0.334
+HIGH,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.4,1.6,0.079
+JAMS,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,1.6,6.4,0.161
+MDOW,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.022
+NASS,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.041
+UNIC,2,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.022
+BEET,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.4,1.6,0.02
+BRUB,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.235
+CARO,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.022
+CHIQ,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.01
+CONY,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.022
+COOP,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.8,3.2,0.096
+DONE,3,Chironomidae,family,3,Chironomini; Orthocladiinae; Tanytarsini,0.8,3.2,0.368
+LBVR,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.105
+LCON,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.003
+LEIB,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.4,1.6,0.013
+LFAL,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.275
+RMBO,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.2,0.8,0.069
+STEW,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.4,1.6,0.11
+WOCT,3,Chironomidae,family,4,Chironomini; Orthocladiinae; Tanypodinae; Tanytarsini,0.6,2.4,0.152
+MIDD,1,Coenagrionidae,family,1,Argia,0.2,0.8,0.817
+CYPR,2,Coenagrionidae,family,2,Argia; Nehalennia,1.8,7.2,8.371
+ISLD,2,Coenagrionidae,family,1,Argia,0.2,0.8,1.232
+QACP,2,Coenagrionidae,family,1,Enallagma,0.4,1.6,0.257
+UNIC,2,Coenagrionidae,family,2,Argia; Enallagma,0.4,1.6,7.299
+BROC,3,Coenagrionidae,family,2,Argia; Enallagma,0.6,2.4,6.189
+LCON,3,Coenagrionidae,family,3,Amphiagrion; Argia; Enallagma,1.4,5.6,16.266
+LGUN,3,Coenagrionidae,family,1,Argia,2.8,11.2,47.484
+OFFC,3,Coenagrionidae,family,2,Argia; Enallagma,1,4,7.434
+JAMS,2,Corixidae,family,1,Palmacorixa,0.2,0.8,0.451
+MONI,2,Corixidae,family,1,Corixini,0.4,1.6,0.405
+KNGT,2,Crambidae,family,1,Petrophila,0.4,1.6,1.706
+BULL,1,Dytiscidae,family,1,Agabus,0.2,0.8,0.082
+COOP,3,Dytiscidae,family,1,Hoperius,0.2,0.8,12.47
+DELA,3,Elmidae,family,7,Dubiraphia; Gonielmis; Macronychus; Microcylloepus; Optioservus; Oulimnius; Stenelmis,0.4,1.6,0.417
+DONE,3,Elmidae,family,4,Macronychus; Optioservus; Oulimnius; Stenelmis,0.8,3.2,1.916
+LCON,3,Elmidae,family,7,Ancyronyx; Dubiraphia; Macronychus; Microcylloepus; Optioservus; Oulimnius; Stenelmis,0.2,0.8,0.05
+SBOT,3,Elmidae,family,7,Ancyronyx; Dubiraphia; Macronychus; Microcylloepus; Optioservus; Oulimnius; Stenelmis,0.2,0.8,0.05
+BULL,1,Empididae,family,2,Chelifera; Hemerodromia,3,12,0.048
+HOLM,1,Empididae,family,1,Hemerodromia,0.8,3.2,0.013
+SOUT,1,Empididae,family,1,Hemerodromia,0.333,1.333,0.099
+THOR,1,Empididae,family,1,Hemerodromia,0.2,0.8,1.862
+TUSC,1,Empididae,family,2,Chelifera; Hemerodromia,0.2,0.8,1.093
+BLOC,2,Empididae,family,1,Hemerodromia,0.2,0.8,0.059
+CHIQ,3,Empididae,family,1,Hemerodromia,0.2,0.8,0.127
+COOP,3,Empididae,family,1,Hemerodromia,0.2,0.8,4.243
+LONG,1,Ephemerellidae,family,1,Ephemerella,0.2,0.8,0.414
+MLBK,1,Ephemerellidae,family,2,Drunella; Ephemerella,0.2,0.8,2.096
+MLRB,1,Ephemerellidae,family,2,Ephemerella; Eurylophella,0.4,1.6,0.827
+TUSC,1,Ephemerellidae,family,1,Ephemerella,0.4,1.6,0.235
+CHIC,2,Ephemerellidae,family,3,Attenella; Ephemerella; Eurylophella,0.6,2.4,5.769
+GRAV,2,Ephemerellidae,family,1,Eurylophella,0.6,2.4,18.016
+SULL,2,Ephemerellidae,family,1,Attenella,0.2,0.8,0.79
+BEET,3,Ephemerellidae,family,6,Attenella; Dannella; Drunella; Ephemerella; Eurylophella; Serratella,2.6,10.4,7.13
+BROC,3,Ephemerellidae,family,3,Attenella; Ephemerella; Eurylophella,0.4,1.6,2.131
+CHIQ,3,Ephemerellidae,family,2,Ephemerella; Teloganopsis,0.8,3.2,3.16
+DEEP,3,Ephemerellidae,family,2,Ephemerella; Eurylophella,2.8,11.2,20.237
+DELA,3,Ephemerellidae,family,5,Attenella; Ephemerella; Eurylophella; Serratella; Teloganopsis,4.6,18.4,26.184
+EPAT,3,Ephemerellidae,family,2,Ephemerella; Eurylophella,0.4,1.6,1.58
+LCON,3,Ephemerellidae,family,2,Ephemerella; Serratella,0.2,0.8,0.055
+LEIB,3,Ephemerellidae,family,4,Attenella; Ephemerella; Eurylophella; Teloganopsis,3,12,66.616
+LFAL,3,Ephemerellidae,family,4,Attenella; Drunella; Ephemerella; Serratella,1,4,2.169
+LGUN,3,Ephemerellidae,family,2,Attenella; Eurylophella,3.8,15.2,22.377
+MUDY,3,Ephemerellidae,family,4,Attenella; Ephemerella; Serratella; Teloganopsis,1.4,5.6,1.977
+OFFC,3,Ephemerellidae,family,4,Attenella; Ephemerella; Eurylophella; Teloganopsis,0.6,2.4,4.022
+ORSN,3,Ephemerellidae,family,5,Attenella; Drunella; Ephemerella; Eurylophella; Teloganopsis,1.8,7.2,25.251
+RMBO,3,Ephemerellidae,family,4,Drunella; Ephemerella; Eurylophella; Teloganopsis,0.6,2.4,1.149
+SBOT,3,Ephemerellidae,family,7,Attenella; Dannella; Ephemerella; Eurylophella; Penelomax; Serratella; Teloganopsis,0.2,0.8,0.18
+THOM,3,Ephemerellidae,family,3,Ephemerella; Serratella; Teloganopsis,0.25,1,0.069
+WOCT,3,Ephemerellidae,family,3,Attenella; Ephemerella; Eurylophella,3,12,0.916
+LCON,3,Ephydridae,family,1,Hydrellia,0.4,1.6,0.093
+LGUN,3,Glossosomatidae,family,1,Glossosoma,0.2,0.8,0.768
+ORSN,3,Glossosomatidae,family,1,Glossosoma,0.2,0.8,1.301
+STEW,3,Glossosomatidae,family,1,Glossosoma,0.2,0.8,1.301
+HOLM,1,Gomphidae,family,1,Hagenius,0.2,0.8,0.109
+POAG,1,Gomphidae,family,1,Stylogomphus,0.2,0.8,0.031
+CEDR,1,Heptageniidae,family,3,Epeorus; Stenacron; Stenonema,1,4,1.178
+EIDS,1,Heptageniidae,family,1,Stenacron,0.6,2.4,15.274
+HOLM,1,Heptageniidae,family,2,Stenacron; Stenonema,0.2,0.8,0.063
+MLBK,1,Heptageniidae,family,2,Stenacron; Stenonema,0.2,0.8,0.181
+MLRB,1,Heptageniidae,family,1,Stenonema,0.8,3.2,6.136
+MLRH,1,Heptageniidae,family,1,Stenacron,4,16,23.883
+MUDD,1,Heptageniidae,family,2,Stenacron; Stenonema,6,24,71.082
+NPAS,1,Heptageniidae,family,2,Stenacron; Stenonema,0.6,2.4,0.425
+PISG,1,Heptageniidae,family,1,Stenacron,1.2,4.8,1.597
+POAG,1,Heptageniidae,family,2,Stenacron; Stenonema,0.6,2.4,0.425
+PUGH,1,Heptageniidae,family,2,Stenacron; Stenonema,0.2,0.8,0.181
+SMTH,1,Heptageniidae,family,2,Stenacron; Stenonema,2.6,10.4,6.13
+THOR,1,Heptageniidae,family,2,Epeorus; Stenacron,0.4,1.6,0.363
+TOMS,1,Heptageniidae,family,2,Stenacron; Stenonema,0.6,2.4,1.185
+WEST,1,Heptageniidae,family,2,Stenacron; Stenonema,4.2,16.8,20.196
+BDAM,2,Heptageniidae,family,1,Stenonema,4,16,16.554
+BUTL,2,Heptageniidae,family,1,Stenonema,0.2,0.8,0.181
+CHIC,2,Heptageniidae,family,1,Stenonema,0.2,0.8,0.181
+GRAN,2,Heptageniidae,family,1,Stenonema,0.2,0.8,1.664
+HUNT,2,Heptageniidae,family,1,Stenonema,0.4,1.6,0.244
+LION,2,Heptageniidae,family,2,Stenacron; Stenonema,0.4,1.6,0.192
+UNIC,2,Heptageniidae,family,2,Stenacron; Stenonema,0.6,2.4,3.465
+BEET,3,Heptageniidae,family,3,Epeorus; Stenacron; Stenonema,5.2,20.8,38.631
+BROC,3,Heptageniidae,family,1,Stenacron,2.8,11.2,31.516
+BRUB,3,Heptageniidae,family,1,Stenonema,2.4,9.6,22.854
+CONY,3,Heptageniidae,family,2,Epeorus; Stenonema,1.8,7.2,48.829
+COOP,3,Heptageniidae,family,2,Epeorus; Stenonema,0.2,0.8,1.664
+DEEP,3,Heptageniidae,family,2,Epeorus; Stenonema,3,12,32.798
+EPAT,3,Heptageniidae,family,2,Epeorus; Stenonema,2,8,2.712
+KNIT,3,Heptageniidae,family,2,Epeorus; Stenonema,2.25,9,11.433
+LEIB,3,Heptageniidae,family,1,Stenonema,0.6,2.4,9.8
+LFAL,3,Heptageniidae,family,1,Stenonema,3.2,12.8,15.998
+LGUN,3,Heptageniidae,family,2,Stenacron; Stenonema,6.6,26.4,53.91
+MUDY,3,Heptageniidae,family,3,Epeorus; Stenacron; Stenonema,0.6,2.4,0.51
+OFFC,3,Heptageniidae,family,2,Epeorus; Stenonema,1,4,11.296
+ORSN,3,Heptageniidae,family,2,Epeorus; Stenonema,0.2,0.8,0.181
+RMBO,3,Heptageniidae,family,3,Epeorus; Stenacron; Stenonema,0.2,0.8,4.23
+SBOT,3,Heptageniidae,family,2,Epeorus; Stenonema,1.6,6.4,14.873
+STEW,3,Heptageniidae,family,2,Epeorus; Stenonema,1.6,6.4,24.065
+THOM,3,Heptageniidae,family,2,Epeorus; Stenonema,1.75,7,15.221
+WOCT,3,Heptageniidae,family,2,Epeorus; Stenonema,2,8,16.327
+WTOM,3,Heptageniidae,family,1,Epeorus,0.6,2.4,1.983
+WWIN,3,Heptageniidae,family,2,Epeorus; Stenonema,2.4,9.6,27.116
+MEAD,1,Hydrophilidae,family,1,Crenitulus,0.2,0.8,0.066
+NPAS,1,Hydrophilidae,family,1,Paracymus,0.2,0.8,0.022
+THOM,3,Hydrophilidae,family,1,Berosus,0.25,1,0.027
+BEAV,1,Hydropsychidae,family,2,Cheumatopsyche; Hydropsyche,0.2,0.8,0.266
+BULL,1,Hydropsychidae,family,2,Cheumatopsyche; Hydropsyche,0.8,3.2,0.142
+MLPG,1,Hydropsychidae,family,2,Cheumatopsyche; Hydropsyche,40.6,162.4,11.902
+TOMS,1,Hydropsychidae,family,2,Cheumatopsyche; Hydropsyche,6,24,2.243
+GRAN,2,Hydropsychidae,family,2,Cheumatopsyche; Hydropsyche,0.2,0.8,0.642
+SEWL,2,Hydroptilidae,family,1,Hydroptila,0.2,0.8,0.076
+BDAM,2,Leptoceridae,family,3,Ceraclea; Nectopsyche; Oecetis,0.6,2.4,0.529
+QACP,2,Leptoceridae,family,2,Nectopsyche; Oecetis,0.6,2.4,0.211
+SEWL,2,Leptoceridae,family,2,Nectopsyche; Oecetis,0.2,0.8,0.025
+LEIB,3,Leptoceridae,family,1,Oecetis,0.8,3.2,1.552
+SMTH,1,Leptophlebiidae,family,1,Paraleptophlebia,4.6,18.4,12.765
+SMTH,1,Leuctridae,family,1,Leuctra,5.6,22.4,1.469
+MUDY,3,Leuctridae,family,1,Leuctra,1.6,6.4,1.938
+WWIN,3,Leuctridae,family,1,Leuctra,0.4,1.6,0.201
+CEDR,1,Limoniidae,family,1,Antocha,0.2,0.8,0.031
+PISG,1,Limoniidae,family,3,Antocha; Hexatoma; Pilaria,0.4,1.6,1.421
+CYPR,2,Limoniidae,family,1,Hexatoma,0.2,0.8,0.237
+CARO,3,Limoniidae,family,2,Antocha; Eloeophila,0.4,1.6,0.082
+CONY,3,Limoniidae,family,1,Antocha,0.8,3.2,1.198
+DONE,3,Limoniidae,family,1,Antocha,0.2,0.8,0.01
+LGUN,3,Limoniidae,family,1,Antocha,0.8,3.2,1.011
+LEIB,3,Nemouridae,family,1,Amphinemura,0.8,3.2,0.013
+LFAL,3,Nemouridae,family,2,Amphinemura; Zapada,0.2,0.8,0.198
+STEW,3,Nemouridae,family,1,Amphinemura,0.4,1.6,0.859
+BACK,1,Perlidae,family,1,Agnetina,0.4,1.6,0.519
+CEDR,1,Perlidae,family,2,Agnetina; Hansonoperla,0.4,1.6,0.167
+MLRH,1,Perlidae,family,2,Agnetina; Perlesta,0.2,0.8,2.913
+NPAS,1,Perlidae,family,1,Agnetina,0.4,1.6,0.167
+PINE,1,Perlidae,family,1,Agnetina,0.4,1.6,0.872
+PISG,1,Perlidae,family,2,Agnetina; Neoperla,0.4,1.6,0.106
+POAG,1,Perlidae,family,1,Agnetina,0.2,0.8,0.084
+PUGH,1,Perlidae,family,1,Agnetina,0.2,0.8,1.991
+SMTH,1,Perlidae,family,1,Agnetina,0.4,1.6,22.836
+THOR,1,Perlidae,family,1,Agnetina,2.4,9.6,7.294
+TOMS,1,Perlidae,family,1,Agnetina,0.8,3.2,23.131
+BRIT,2,Perlidae,family,1,Perlinella,1,4,0.424
+BEET,3,Perlidae,family,5,Acroneuria; Agnetina; Hansonoperla; Perlesta; Perlinella,4.2,16.8,2.424
+BROC,3,Perlidae,family,1,Perlesta,0.4,1.6,0.648
+CARO,3,Perlidae,family,3,Acroneuria; Eccoptura; Perlesta,0.8,3.2,0.212
+CHIQ,3,Perlidae,family,1,Perlesta,2,8,1.862
+CONY,3,Perlidae,family,1,Perlesta,0.2,0.8,0.436
+DEEP,3,Perlidae,family,5,Acroneuria; Agnetina; Hansonoperla; Neoperla; Perlesta,1.4,5.6,0.72
+KNIT,3,Perlidae,family,1,Perlesta,0.25,1,0.003
+LEIB,3,Perlidae,family,2,Acroneuria; Perlesta,1.2,4.8,0.135
+LFAL,3,Perlidae,family,6,Acroneuria; Agnetina; Hansonoperla; Neoperla; Perlesta; Perlinella,1.6,6.4,0.364
+LGUN,3,Perlidae,family,4,Agnetina; Neoperla; Perlesta; Perlinella,0.4,1.6,0.458
+ORSN,3,Perlidae,family,6,Agnetina; Eccoptura; Hansonoperla; Paragnetina; Perlesta; Perlinella,2.6,10.4,3.332
+RMBO,3,Perlidae,family,7,Acroneuria; Agnetina; Eccoptura; Neoperla; Paragnetina; Perlesta; Perlinella,3.8,15.2,5.624
+SBOT,3,Perlidae,family,4,Agnetina; Hansonoperla; Perlesta; Perlinella,0.2,0.8,0.084
+STEW,3,Perlidae,family,3,Hansonoperla; Perlesta; Perlinella,0.2,0.8,0.023
+THOM,3,Perlidae,family,3,Paragnetina; Perlesta; Perlinella,0.25,1,0.028
+WTOM,3,Perlidae,family,2,Paragnetina; Perlesta,0.6,2.4,2.162
+THOM,3,Perlodidae,family,1,Isoperla,0.25,1,0.063
+MIDD,1,Polycentropodidae,family,1,Polycentropus,0.2,0.8,4.521
+SPOU,1,Polycentropodidae,family,1,Polycentropus,0.25,1,0.007
+CHIC,2,Polycentropodidae,family,1,Cernotina,1,4,5.864
+BRUB,3,Scirtidae,family,1,Cyphon,4.2,16.8,3.378
+CONY,3,Scirtidae,family,1,Cyphon,0.6,2.4,0.756
+CARO,3,Ceraptogoninae,subfamily,1,Bezzia,0.2,0.8,0.277
+BEAV,1,Chironominae,subfamily,2,Chironomini; Tanytarsini,0.204,0.816,0.139

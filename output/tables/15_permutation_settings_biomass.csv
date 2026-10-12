@@ -1,0 +1,14 @@
+setting,value
+permutations per test,9999
+seed,20260825
+per-block seeds,20260825 to 20260829
+per-block pass rule,FDR <= 0.10 under all 5 seeds
+fourth-corner model (per block),6 (models 2 and 4 combined)
+FDR adjustment (per block),"ade4 model 6: models 2 (sites permuted) and 4 (taxa permuted) each Benjamini-Hochberg adjusted within the region-by-trait-group block, the larger adjusted p reported (Dray et al. 2014)"
+RLQ trait ordination,dudi.fca on prep.fuzzy.var
+ade4 version,1.7.24
+R version,4.5.1
+weighting,biomass
+primary family (L37),within each region-by-trait-group block (the tier of hypothesis 3's state-by-state predictions)
+sensitivity tiers (L37),"across all states of a region (Benjamini-Hochberg on the model-6 p, per seed, pass under every seed); one multivariate test per trait group (fuzzy correspondence analysis, and states standardized), BH across the region's groups"
+leave-one-taxon-out (FL1),every carrier of each passing state removed in turn; the most influential removal rerun under model 6 at N_PERM_FC (pipeline seed)

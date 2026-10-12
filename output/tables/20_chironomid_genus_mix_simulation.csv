@@ -1,0 +1,37 @@
+Region,Scenario,Metric,rho_median,rho_p05,rho_p95,share_in_baseline_direction_abs_ge_030,Weighting
+Valley & Ridge,Profiles of the four taxa (as analyzed),Overlap redundancy,-0.4794215795328142,NA,NA,NA,Density
+Valley & Ridge,Fixed genus mix at every stream,Overlap redundancy,-0.5061179087875417,-0.528364849833148,-0.49228031145717466,1,Density
+Valley & Ridge,Genus mix varies randomly among streams,Overlap redundancy,-0.5083426028921023,-0.539043381535039,-0.48609566184649605,1,Density
+Valley & Ridge,"Genus mix tracks condition, moderate",Overlap redundancy,-0.5021134593993326,-0.5697886540600668,-0.41443826473859846,0.996,Density
+Valley & Ridge,"Genus mix tracks condition, strong",Overlap redundancy,-0.4938820912124583,-0.5830923248053392,-0.34812013348164633,0.97,Density
+Valley & Ridge,Genera take the profile of a random other taxon,Overlap redundancy,0.5268075639599554,0.3632703003337041,0.6369521690767519,0,Density
+Valley & Ridge,Profiles of the four taxa (as analyzed),Rao's quadratic entropy,0.6760845383759733,NA,NA,NA,Density
+Valley & Ridge,Fixed genus mix at every stream,Rao's quadratic entropy,0.6598442714126806,0.6288987764182425,0.6823136818687431,1,Density
+Valley & Ridge,Genus mix varies randomly among streams,Rao's quadratic entropy,0.6556173526140155,0.6284760845383759,0.6814238042269188,1,Density
+Valley & Ridge,"Genus mix tracks condition, moderate",Rao's quadratic entropy,0.6600667408231368,0.5861846496106785,0.7108120133481646,1,Density
+Valley & Ridge,"Genus mix tracks condition, strong",Rao's quadratic entropy,0.6649610678531702,0.5755061179087876,0.733503893214683,1,Density
+Valley & Ridge,Genera take the profile of a random other taxon,Rao's quadratic entropy,-0.32591768631813123,-0.41225806451612906,-0.21145717463848734,0,Density
+Piedmont,Profiles of the four taxa (as analyzed),Overlap redundancy,-0.19911012235817577,NA,NA,NA,Density
+Piedmont,Fixed genus mix at every stream,Overlap redundancy,-0.3103448275862069,-0.33172413793103445,-0.2716129032258065,0.699,Density
+Piedmont,Genus mix varies randomly among streams,Overlap redundancy,-0.3076751946607342,-0.3508342602892102,-0.2649610678531702,0.637,Density
+Piedmont,"Genus mix tracks condition, moderate",Overlap redundancy,-0.3121245828698554,-0.43279199110122357,-0.19686318131256955,0.558,Density
+Piedmont,"Genus mix tracks condition, strong",Overlap redundancy,-0.3121245828698554,-0.4924137931034483,-0.1363737486095662,0.549,Density
+Piedmont,Genera take the profile of a random other taxon,Overlap redundancy,0.41268075639599555,0.13543937708565074,0.6191323692992214,0,Density
+Piedmont,Profiles of the four taxa (as analyzed),Rao's quadratic entropy,0.5617352614015573,NA,NA,NA,Density
+Piedmont,Fixed genus mix at every stream,Rao's quadratic entropy,0.5862068965517241,0.5537041156840935,0.6213570634037819,1,Density
+Piedmont,Genus mix varies randomly among streams,Rao's quadratic entropy,0.5826473859844271,0.5345939933259176,0.6311679644048943,1,Density
+Piedmont,"Genus mix tracks condition, moderate",Rao's quadratic entropy,0.5835372636262514,0.4375305895439377,0.6943270300333704,0.999,Density
+Piedmont,"Genus mix tracks condition, strong",Rao's quadratic entropy,0.5670745272525028,0.35697441601779756,0.7210678531701891,0.979,Density
+Piedmont,Genera take the profile of a random other taxon,Rao's quadratic entropy,-0.210678531701891,-0.3953503893214683,0.058998887652947675,0,Density
+Coastal Plain,Profiles of the four taxa (as analyzed),Overlap redundancy,-0.6614015572858732,NA,NA,NA,Density
+Coastal Plain,Fixed genus mix at every stream,Overlap redundancy,-0.7121245828698554,-0.7241379310344828,-0.6952169076751947,1,Density
+Coastal Plain,Genus mix varies randomly among streams,Overlap redundancy,-0.7054505005561735,-0.7281423804226919,-0.6805339265850945,1,Density
+Coastal Plain,"Genus mix tracks condition, moderate",Overlap redundancy,-0.7005561735261402,-0.7330367074527252,-0.6507007786429366,1,Density
+Coastal Plain,"Genus mix tracks condition, strong",Overlap redundancy,-0.6769744160177975,-0.7330367074527252,-0.5763959955506118,1,Density
+Coastal Plain,Genera take the profile of a random other taxon,Overlap redundancy,0.2832035595105673,-0.05993325917686318,0.6029143492769742,0.001,Density
+Coastal Plain,Profiles of the four taxa (as analyzed),Rao's quadratic entropy,0.6382647385984427,NA,NA,NA,Density
+Coastal Plain,Fixed genus mix at every stream,Rao's quadratic entropy,0.5977753058954394,0.5688542825361512,0.6222469410456063,1,Density
+Coastal Plain,Genus mix varies randomly among streams,Rao's quadratic entropy,0.5975528364849834,0.5719688542825362,0.6213793103448275,1,Density
+Coastal Plain,"Genus mix tracks condition, moderate",Rao's quadratic entropy,0.6024471635150166,0.5443604004449388,0.6387096774193548,1,Density
+Coastal Plain,"Genus mix tracks condition, strong",Rao's quadratic entropy,0.6084538375973304,0.5287875417130146,0.6573971078976641,1,Density
+Coastal Plain,Genera take the profile of a random other taxon,Rao's quadratic entropy,-0.3739710789766407,-0.6436484983314794,-0.059332591768631884,0,Density

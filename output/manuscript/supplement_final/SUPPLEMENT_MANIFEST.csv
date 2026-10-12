@@ -1,0 +1,26 @@
+Final,Old,Part,Action,File,Rows,Cols,Note
+Table_S1A,Table S1,A,renumbered,supplement_final/Table_S1A.csv,3,23,environmental and biological context by region with the rating-class cut-points
+Table_S1B,Table S2,B,authored in the supplement; no pipeline source,NA,NA,NA,sampling design by region
+Table_S2A,Table S3,A,authored in the supplement; no pipeline source,NA,NA,NA,trait groups and their states
+Table_S3A,Table S5,A,renumbered,supplement_final/Table_S3A.csv,33,17,trait coverage and the responsive associations
+Table_S2C,Table S7,B and C,renumbered,supplement_final/Table_S2C.csv,24,8,terms (part B) and metric definitions (part C)
+Table_S5,Table S9,NA,renumbered,supplement_final/Table_S5.csv,40,13,multivariate tests
+Table_S4A,Table S10,A,renumbered,supplement_final/Table_S4A.csv,72,11,the full screen
+Table_S4B,Table S14,B,renumbered,supplement_final/Table_S4B.csv,72,11,achieved power of the 72 tests
+Table_S6,Table S15,NA,renumbered,supplement_final/Table_S6.csv,6,8,the null model
+NA,Table S16,NA,to the trait-state manuscript,trait_state_manuscript/Table_S16.csv,NA,NA,fourth-corner results for every trait state; to the trait-state manuscript
+NA,Table S17,NA,to the trait-state manuscript,trait_state_manuscript/Table_S17.csv,NA,NA,one fourth-corner test per trait group; to the trait-state manuscript
+Table_S3B,Table S18,B,renumbered,supplement_final/Table_S3B.csv,33,20,leave-few-out leverage audit
+NA,Table S19,NA,to the trait-state manuscript,trait_state_manuscript/Table_S19.csv,NA,NA,leave-one-taxon-out for the trait states; to the trait-state manuscript
+NA,Table S20,NA,to the trait-state manuscript,trait_state_manuscript/Table_S20.csv,NA,NA,density-against-biomass difference of each trait state; to the trait-state manuscript
+Table_S8A,Table S23,A,renumbered,supplement_final/Table_S8A.csv,262,9,taxon-level screen
+Table_S8B,Table S24,B,renumbered,supplement_final/Table_S8B.csv,75,9,tolerance of the responding taxa
+Table_S4C,Table S25,C,renumbered,supplement_final/Table_S4C.csv,3,6,functional richness and space-filling redundancy against richness
+Table_S7A,Table S26,A,renumbered,supplement_final/Table_S7A.csv,6,8,chironomid share of the trait-set total
+Table_S7B,Table S27,B,renumbered,supplement_final/Table_S7B.csv,21,14,functional metrics without the four chironomid taxa
+NA,Table S28,NA,to the trait-state manuscript,trait_state_manuscript/Table_S28.csv,NA,NA,trait states with and without the four; to the trait-state manuscript
+Table_S7C,Table S29,C,renumbered,supplement_final/Table_S7C.csv,36,7,genus-level split of the four
+NA,Figure S2,NA,to the trait-state manuscript,trait_state_manuscript/Figure_S2.*,NA,NA,density-against-biomass difference of each trait state; to the trait-state manuscript
+Figure_S1,Figure S3,NA,renumbered,supplement_final/Figure_S1.*,NA,NA,functional metrics without the four chironomid taxa (panel b of trait states leaves with the cut)
+NA,Figure 6,NA,to the trait-state manuscript,trait_state_manuscript/Figure_6.*,NA,NA,trait states associated with condition (main-text figure cut in step 1); to the trait-state manuscript
+NA,Table 4,NA,to the trait-state manuscript,trait_state_manuscript/Table_4.csv,NA,NA,the record behind Figure 6; to the trait-state manuscript

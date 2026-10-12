@@ -1,0 +1,17 @@
+Typology,Label,Score,Bioregion,n_sites
+Valley & Ridge,VeryPoor–Poor,29.93,sgv,29
+Valley & Ridge,Poor–Fair,59.86,sgv,29
+Valley & Ridge,Fair–Good,66.02,sgv,29
+Valley & Ridge,Good–Excellent,76.48,sgv,29
+Valley & Ridge,VeryPoor–Poor,21.58,srv,1
+Valley & Ridge,Poor–Fair,43.16,srv,1
+Valley & Ridge,Fair–Good,57.97,srv,1
+Valley & Ridge,Good–Excellent,71.93,srv,1
+Piedmont,VeryPoor–Poor,31.3,unp,30
+Piedmont,Poor–Fair,62.59,unp,30
+Piedmont,Fair–Good,69.85,unp,30
+Piedmont,Good–Excellent,80.52,unp,30
+Coastal Plain,VeryPoor–Poor,22.72,mac,30
+Coastal Plain,Poor–Fair,45.43,mac,30
+Coastal Plain,Fair–Good,63.18,mac,30
+Coastal Plain,Good–Excellent,76.85,mac,30

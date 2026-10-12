@@ -1,0 +1,14 @@
+Metric,Currency,fd_name,corr,n_compared,max_abs_diff,status
+RaoQ_den,den,RaoQ,cailliez,90,0,REPRODUCED
+FDis_den,den,FDis,cailliez,90,0,REPRODUCED
+FDiv_den,den,FDiv,cailliez,90,0,REPRODUCED
+FEve_den,den,FEve,cailliez,90,0,REPRODUCED
+RaoQ_bio,bio,RaoQ,cailliez,90,0,REPRODUCED
+FDis_bio,bio,FDis,cailliez,90,0,REPRODUCED
+FDiv_bio,bio,FDiv,cailliez,90,0,REPRODUCED
+FEve_bio,bio,FEve,cailliez,90,0,REPRODUCED
+FR_RD_den,den,FR_RD_den,fuzzy weighted Gower,90,0,REPRODUCED
+FR_RD_bio,bio,FR_RD_bio,fuzzy weighted Gower,90,0,REPRODUCED
+FR_DB_RD,den,FR_DB_RD,fuzzy weighted Gower,90,0,REPRODUCED
+FRic_den,den,FRic_den,"fuzzy pool dbFD, cailliez",90,0,REPRODUCED
+FR_SF_den_log10,den,FR_SF_den_log10,"Richness_FD / FRic_den, log10(x + 1)",90,0,REPRODUCED

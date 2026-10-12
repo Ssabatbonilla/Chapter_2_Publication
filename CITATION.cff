@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or these data, please cite the paper and this repository."
+type: software
+title: "Stream macroinvertebrate structure and traits along a biological condition gradient, weighted by density and by biomass: analysis pipeline and data"
+authors:
+  - family-names: Sabat-Bonilla
+    given-names: Sergio A.
+    affiliation: "Department of Entomology, Virginia Polytechnic Institute and State University, Blacksburg, Virginia, USA"
+license: MIT
+version: 1.1.0
+date-released: 2026-10-12
+repository-code: "https://github.com/Ssabatbonilla/Chapter_2_Publication"
+abstract: "R pipeline and data reproducing every analysis, table and figure of a study of 90 wadeable streams in three physiographic regions of the Chesapeake Bay watershed, in which community structure, functional traits, redundancy and inequality were screened against a within-region gradient of biological condition (Chessie B-IBI), each metric weighted by areal density and by biomass."
+keywords:
+  - stream macroinvertebrates
+  - functional traits
+  - functional redundancy
+  - biomass
+  - biological condition
+  - Chesapeake Bay watershed

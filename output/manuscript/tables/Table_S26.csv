@@ -1,0 +1,7 @@
+Weighting,Region,"Chironomidae, share of the trait-set total (%)",Taxa to reach half the total,"Of those, chironomid taxa",rho with B-IBI,raw p,FDR p
+Density,Valley & Ridge,36.899,4,2,-0.489,0.006,0.009
+Density,Piedmont,43.183,4,3,-0.45,0.013,0.013
+Density,Coastal Plain,67.021,2,2,-0.675,0,0
+Biomass,Valley & Ridge,4.789,6,0,-0.466,0.01,0.01
+Biomass,Piedmont,2.602,6,0,-0.612,0,0
+Biomass,Coastal Plain,7.326,7,1,-0.697,0,0

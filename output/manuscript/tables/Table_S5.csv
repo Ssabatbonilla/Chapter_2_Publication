@@ -1,0 +1,34 @@
+Metric,Region,n_all,rho_all,n_80,rho_80,shift,sign_change,Metric_family,Tier,coverage_used,r_metric_with_coverage,rho_marginal,rho_partial,pct_lost,keeps_criterion_coefficient,verdict
+HBI_bio,Valley & Ridge,30,-0.846,22,-0.854,-0.008,FALSE,alpha,strong,biomass,-0.587,-0.846,-0.8,5.48,TRUE,keeps |rho| >= 0.30 with coverage held constant
+HBI_bio,Piedmont,30,-0.616,27,-0.578,0.038,FALSE,alpha,strong,biomass,-0.656,-0.616,-0.305,50.531,TRUE,keeps |rho| >= 0.30 with coverage held constant
+HBI_rel_abund,Valley & Ridge,30,-0.855,22,-0.888,-0.033,FALSE,alpha,strong,density,-0.336,-0.855,-0.835,2.362,TRUE,keeps |rho| >= 0.30 with coverage held constant
+HBI_rel_abund,Piedmont,30,-0.772,27,-0.839,-0.067,FALSE,alpha,strong,density,-0.435,-0.772,-0.711,7.897,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Richness_alpha,Valley & Ridge,30,0.755,22,0.671,-0.084,FALSE,alpha,strong,density,0.278,0.755,0.731,3.178,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Richness_alpha,Piedmont,30,0.394,27,0.261,-0.133,FALSE,alpha,strong,density,0.331,0.394,0.255,35.306,FALSE,falls below |rho| 0.30 with coverage held constant
+Shannon,Valley & Ridge,30,0.598,22,0.488,-0.11,FALSE,alpha,strong,density,0.044,0.598,0.631,-5.496,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Shannon,Piedmont,30,0.734,27,0.689,-0.046,FALSE,alpha,strong,density,0.294,0.734,0.737,-0.323,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Shannon,Coastal Plain,30,0.639,18,0.822,0.184,FALSE,alpha,strong,density,-0.329,0.639,0.59,7.579,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Gini_DB_DOM,Piedmont,30,0.446,27,0.576,0.13,FALSE,concentration,strong,density,-0.003,0.446,0.572,-28.222,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Gini_DB_DOM,Coastal Plain,30,0.658,18,0.723,0.066,FALSE,concentration,strong,density,-0.284,0.658,0.647,1.667,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Gini_bio,Coastal Plain,30,0.504,18,0.29,-0.214,FALSE,concentration,strong,biomass,0.221,0.504,0.535,-6.005,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Gini_den,Piedmont,30,-0.594,27,-0.59,0.003,FALSE,concentration,strong,density,-0.2,-0.594,-0.611,-2.946,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Gini_den,Coastal Plain,30,-0.458,18,-0.719,-0.261,FALSE,concentration,strong,density,0.196,-0.458,-0.442,3.559,TRUE,keeps |rho| >= 0.30 with coverage held constant
+N50_bio,Valley & Ridge,30,0.58,22,0.558,-0.022,FALSE,concentration,strong,biomass,0.359,0.58,0.5,13.831,TRUE,keeps |rho| >= 0.30 with coverage held constant
+N50_den,Valley & Ridge,30,0.518,22,0.458,-0.059,FALSE,concentration,strong,density,-0.161,0.518,0.638,-23.248,TRUE,keeps |rho| >= 0.30 with coverage held constant
+N50_den,Piedmont,30,0.778,27,0.771,-0.007,FALSE,concentration,strong,density,0.412,0.778,0.731,6.037,TRUE,keeps |rho| >= 0.30 with coverage held constant
+N50_den,Coastal Plain,30,0.348,18,0.659,0.31,FALSE,concentration,strong,density,0.073,0.348,0.517,-48.304,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FDis_den,Valley & Ridge,30,0.67,22,0.739,0.069,FALSE,fd,strong,density,0.027,0.67,0.716,-6.83,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FDis_den,Piedmont,30,0.552,27,0.56,0.008,FALSE,fd,strong,density,0.084,0.552,0.64,-15.936,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FDis_den,Coastal Plain,30,0.687,18,0.723,0.037,FALSE,fd,strong,density,-0.194,0.687,0.747,-8.77,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FRic_den,Valley & Ridge,30,0.581,22,0.414,-0.167,FALSE,fd,strong,density,0.389,0.581,0.506,12.839,TRUE,keeps |rho| >= 0.30 with coverage held constant
+RaoQ_den,Valley & Ridge,30,0.672,22,0.733,0.061,FALSE,fd,strong,density,0.072,0.672,0.701,-4.276,TRUE,keeps |rho| >= 0.30 with coverage held constant
+RaoQ_den,Piedmont,30,0.548,27,0.567,0.018,FALSE,fd,strong,density,0.043,0.548,0.666,-21.469,TRUE,keeps |rho| >= 0.30 with coverage held constant
+RaoQ_den,Coastal Plain,30,0.638,18,0.624,-0.014,FALSE,fd,strong,density,-0.24,0.638,0.651,-1.927,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FR_DB_RD,Valley & Ridge,30,0.6,22,0.839,0.239,FALSE,redundancy,strong,density,-0.059,0.6,0.677,-12.88,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FR_DB_RD,Piedmont,30,0.462,27,0.452,-0.01,FALSE,redundancy,strong,density,-0.065,0.462,0.643,-39.111,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FR_DB_RD,Coastal Plain,30,0.432,18,0.501,0.068,FALSE,redundancy,strong,density,-0.085,0.432,0.494,-14.359,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FR_RD_bio,Piedmont,30,0.422,27,0.464,0.042,FALSE,redundancy,strong,biomass,0.345,0.422,0.271,35.716,FALSE,falls below |rho| 0.30 with coverage held constant
+FR_RD_den,Valley & Ridge,30,-0.477,22,-0.721,-0.244,FALSE,redundancy,strong,density,0.056,-0.477,-0.542,-13.659,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FR_RD_den,Coastal Plain,30,-0.661,18,-0.525,0.136,FALSE,redundancy,strong,density,0.283,-0.661,-0.652,1.374,TRUE,keeps |rho| >= 0.30 with coverage held constant
+FR_SF_den_log10,Valley & Ridge,30,-0.519,22,-0.325,0.194,FALSE,redundancy,strong,density,-0.37,-0.519,-0.438,15.523,TRUE,keeps |rho| >= 0.30 with coverage held constant
+Total_Biomass,Piedmont,30,0.446,27,0.648,0.202,FALSE,structure,strong,biomass,0.41,0.446,0.248,44.296,FALSE,falls below |rho| 0.30 with coverage held constant

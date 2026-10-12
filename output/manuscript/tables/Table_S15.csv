@@ -1,0 +1,7 @@
+Region,Metric,rho_raw,p_raw,rho_SES,p_SES,pct_retained,verdict
+Valley & Ridge,RaoQ_den,0.672,0,0.297,0.11,44.257,PARTLY evenness-driven
+Valley & Ridge,FDis_den,0.67,0,0.338,0.068,50.448,PARTLY evenness-driven
+Piedmont,RaoQ_den,0.548,0.002,0.023,0.904,4.178,"COLLAPSES -- evenness, not traits"
+Piedmont,FDis_den,0.552,0.002,0.075,0.692,13.653,"COLLAPSES -- evenness, not traits"
+Coastal Plain,RaoQ_den,0.638,0,0.59,0.001,92.471,trait signal survives
+Coastal Plain,FDis_den,0.687,0,0.661,0,96.307,trait signal survives

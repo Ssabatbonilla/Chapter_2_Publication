@@ -1,0 +1,22 @@
+Region,FunctionalGroup,n_taxa,n_sites,pct_regional_density,pct_regional_biomass
+Valley & Ridge,Isopoda (detritivore/shredder),2,24,9.658215394825097,21.87278235955025
+Valley & Ridge,Gastropoda (scraper/grazer),6,16,0.8650661511300473,6.908037552936151
+Valley & Ridge,Bivalvia (filter-feeder),2,12,0.050394339510261135,0.7964389369802756
+Valley & Ridge,Amphipoda (detritivore/shredder),1,13,0.485898260428693,0.4726329635034371
+Valley & Ridge,Acari (predator/parasite),1,30,1.647278726650511,0.44467699640650205
+Valley & Ridge,Other (no trait record),15,26,0.15404622454820202,0.1676637125181442
+Valley & Ridge,Terrestrial/incidental,2,7,0.007922254246119996,0.00250636974759462
+Piedmont,Gastropoda (scraper/grazer),5,18,1.8856375707471096,2.2934049188121493
+Piedmont,Amphipoda (detritivore/shredder),1,22,3.140008895671718,1.3030016742350312
+Piedmont,Isopoda (detritivore/shredder),1,22,0.7475628715881208,1.2265866977587447
+Piedmont,Other (no trait record),25,30,1.101863707835084,0.6755742713018161
+Piedmont,Bivalvia (filter-feeder),2,11,0.16975226778420205,0.2751989629541267
+Piedmont,Acari (predator/parasite),1,29,1.0931882821968204,0.15360321602591542
+Piedmont,Terrestrial/incidental,4,9,0.05712816704276032,0.09647241087425815
+Coastal Plain,Amphipoda (detritivore/shredder),1,29,3.8952583988790614,4.842302393781072
+Coastal Plain,Isopoda (detritivore/shredder),2,26,8.440138204800096,4.486160275867077
+Coastal Plain,Gastropoda (scraper/grazer),7,26,1.0349481731961492,3.616721168427348
+Coastal Plain,Bivalvia (filter-feeder),2,25,0.5112989781661165,2.2332112920316436
+Coastal Plain,Other (no trait record),30,30,2.345776219627867,1.7392356734888184
+Coastal Plain,Terrestrial/incidental,2,28,0.21242373005935275,0.5302852068658713
+Coastal Plain,Acari (predator/parasite),1,26,1.0645886936695468,0.200533479327984

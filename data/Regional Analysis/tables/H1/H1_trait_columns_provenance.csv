@@ -1,0 +1,16 @@
+column,max_abs_diff_from_upstream,spearman_with_upstream,n_nonfinite,mode,note
+RaoQ_den,8.67e-18,1,0,rebuild,NA
+FDis_den,2.78e-17,1,0,rebuild,NA
+FDiv_den,1.11e-16,1,0,rebuild,NA
+FEve_den,5.55e-17,1,0,rebuild,NA
+RaoQ_bio,6.94e-18,1,0,rebuild,NA
+FDis_bio,2.78e-17,1,0,rebuild,NA
+FDiv_bio,1.11e-16,1,0,rebuild,NA
+FEve_bio,5.55e-17,1,0,rebuild,NA
+FRic_den_fuzPool,9.54e-18,1,0,rebuild,NA
+RaoQ_gower_den,2.78e-17,1,0,rebuild,NA
+RaoQ_gower_bio,2.78e-17,1,0,rebuild,NA
+dropped columns,NA,NA,NA,rebuild,127 stale or legacy-built
+CWM columns written,NA,NA,NA,rebuild,82
+taxa with an NA trait group,NA,NA,NA,rebuild,28
+CWM group sums (all equal 1),NA,NA,NA,rebuild,checked

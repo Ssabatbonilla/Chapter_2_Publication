@@ -1,0 +1,76 @@
+Region,Weighting,Taxon,Family,Response,rho,FDR p,Tolerance value,Tolerance class
+Valley & Ridge,Biomass,Isonychia,ISONYCHIDAE,increaser,0.727,0,NA,no value
+Valley & Ridge,Biomass,Ephemerella,EPHEMERELLIDAE,increaser,0.599,0.01,2,sensitive
+Valley & Ridge,Biomass,Ephemera,EPHEMERIDAE,increaser,0.575,0.01,4,intermediate
+Valley & Ridge,Biomass,Stenonema,HEPTAGENIIDAE,increaser,0.569,0.01,3,intermediate
+Valley & Ridge,Biomass,Antocha,LIMONIIDAE,increaser,0.564,0.01,NA,no value
+Valley & Ridge,Biomass,Stenacron,HEPTAGENIIDAE,increaser,0.542,0.014,3,intermediate
+Valley & Ridge,Biomass,Tricorythodes,LEPTOHYIDAE,increaser,0.527,0.017,NA,no value
+Valley & Ridge,Biomass,Amphinemura,NEMOURIDAE,increaser,0.489,0.034,2,sensitive
+Valley & Ridge,Biomass,Psephenus,PSEPHENIDAE,increaser,0.477,0.037,4,intermediate
+Valley & Ridge,Biomass,Leuctridae,LEUCTRIDAE,increaser,0.466,0.042,1,sensitive
+Valley & Ridge,Biomass,Corydalus,CORYDALIDAE,increaser,0.446,0.053,3,intermediate
+Valley & Ridge,Biomass,Chimarra,PHILOPOTAMIDAE,increaser,0.443,0.053,3,intermediate
+Valley & Ridge,Biomass,Agnetina,PERLIDAE,increaser,0.437,0.053,2,sensitive
+Valley & Ridge,Density,Isonychia,ISONYCHIDAE,increaser,0.664,0.003,NA,no value
+Valley & Ridge,Density,Psephenus,PSEPHENIDAE,increaser,0.606,0.006,4,intermediate
+Valley & Ridge,Density,Stenacron,HEPTAGENIIDAE,increaser,0.604,0.006,3,intermediate
+Valley & Ridge,Density,Ephemerella,EPHEMERELLIDAE,increaser,0.585,0.008,2,sensitive
+Valley & Ridge,Density,Stenonema,HEPTAGENIIDAE,increaser,0.567,0.008,3,intermediate
+Valley & Ridge,Density,Ephemera,EPHEMERIDAE,increaser,0.56,0.008,4,intermediate
+Valley & Ridge,Density,Antocha,LIMONIIDAE,increaser,0.559,0.008,NA,no value
+Valley & Ridge,Density,Tricorythodes,LEPTOHYIDAE,increaser,0.54,0.011,NA,no value
+Valley & Ridge,Density,Corydalus,CORYDALIDAE,increaser,0.526,0.014,3,intermediate
+Valley & Ridge,Density,Amphinemura,NEMOURIDAE,increaser,0.501,0.021,2,sensitive
+Valley & Ridge,Density,Leuctridae,LEUCTRIDAE,increaser,0.467,0.037,1,sensitive
+Valley & Ridge,Density,Glossosoma,GLOSSOSOMATIDAE,increaser,0.442,0.053,0,sensitive
+Valley & Ridge,Density,Chimarra,PHILOPOTAMIDAE,increaser,0.405,0.089,3,intermediate
+Valley & Ridge,Density,Agnetina,PERLIDAE,increaser,0.399,0.091,2,sensitive
+Piedmont,Biomass,Microvelia,VELLIDAE,decreaser,-0.388,0.098,NA,no value
+Piedmont,Biomass,Stenelmis,ELMIDAE,decreaser,-0.435,0.065,5,intermediate
+Piedmont,Biomass,Tanypodinae,CHIRONOMIDAE,decreaser,-0.442,0.062,6,intermediate
+Piedmont,Biomass,Dolophilodes,PHILOPOTAMIDAE,increaser,0.755,0,3,intermediate
+Piedmont,Biomass,Amphinemura,NEMOURIDAE,increaser,0.626,0.006,2,sensitive
+Piedmont,Biomass,Perlinella,PERLIDAE,increaser,0.578,0.015,2,sensitive
+Piedmont,Biomass,Agnetina,PERLIDAE,increaser,0.563,0.015,2,sensitive
+Piedmont,Biomass,Wormaldia,PHILOPOTAMIDAE,increaser,0.559,0.015,3,intermediate
+Piedmont,Biomass,Isonychia,ISONYCHIDAE,increaser,0.532,0.023,NA,no value
+Piedmont,Biomass,Capniidae,CAPNIIDAE,increaser,0.509,0.033,NA,no value
+Piedmont,Biomass,Epeorus,HEPTAGENIIDAE,increaser,0.495,0.038,3,intermediate
+Piedmont,Biomass,Leuctridae,LEUCTRIDAE,increaser,0.471,0.047,1,sensitive
+Piedmont,Biomass,Stenonema,HEPTAGENIIDAE,increaser,0.469,0.047,3,intermediate
+Piedmont,Biomass,Isoperla,PERLODIDAE,increaser,0.467,0.047,2,sensitive
+Piedmont,Biomass,Tipula,TIPULIDAE,increaser,0.445,0.062,4,intermediate
+Piedmont,Biomass,Hansonoperla,PERLIDAE,increaser,0.424,0.072,2,sensitive
+Piedmont,Biomass,Antocha,LIMONIIDAE,increaser,0.41,0.083,NA,no value
+Piedmont,Biomass,Hydropsyche,HYDROPSYCHIDAE,increaser,0.408,0.083,5,intermediate
+Piedmont,Biomass,Nigronia,CORYDALIDAE,increaser,0.398,0.091,3,intermediate
+Piedmont,Biomass,Cheumatopsyche,HYDROPSYCHIDAE,increaser,0.386,0.098,5,intermediate
+Piedmont,Biomass,Hydroptila,HYDROPTILIDAE,increaser,0.382,0.1,4,intermediate
+Piedmont,Density,Microvelia,VELLIDAE,decreaser,-0.417,0.068,NA,no value
+Piedmont,Density,Stenelmis,ELMIDAE,decreaser,-0.427,0.061,5,intermediate
+Piedmont,Density,Tanypodinae,CHIRONOMIDAE,decreaser,-0.457,0.045,6,intermediate
+Piedmont,Density,Dolophilodes,PHILOPOTAMIDAE,increaser,0.794,0,3,intermediate
+Piedmont,Density,Amphinemura,NEMOURIDAE,increaser,0.64,0.004,2,sensitive
+Piedmont,Density,Heterocloeon,BAETIDAE,increaser,0.618,0.005,4,intermediate
+Piedmont,Density,Agnetina,PERLIDAE,increaser,0.601,0.006,2,sensitive
+Piedmont,Density,Wormaldia,PHILOPOTAMIDAE,increaser,0.591,0.007,3,intermediate
+Piedmont,Density,Perlinella,PERLIDAE,increaser,0.559,0.012,2,sensitive
+Piedmont,Density,Isonychia,ISONYCHIDAE,increaser,0.529,0.021,NA,no value
+Piedmont,Density,Capniidae,CAPNIIDAE,increaser,0.515,0.025,NA,no value
+Piedmont,Density,Perlesta,PERLIDAE,increaser,0.506,0.027,2,sensitive
+Piedmont,Density,Isoperla,PERLODIDAE,increaser,0.497,0.029,2,sensitive
+Piedmont,Density,Epeorus,HEPTAGENIIDAE,increaser,0.487,0.03,3,intermediate
+Piedmont,Density,Leuctridae,LEUCTRIDAE,increaser,0.486,0.03,1,sensitive
+Piedmont,Density,Cheumatopsyche,HYDROPSYCHIDAE,increaser,0.469,0.038,5,intermediate
+Piedmont,Density,Stenonema,HEPTAGENIIDAE,increaser,0.445,0.052,3,intermediate
+Piedmont,Density,Nigronia,CORYDALIDAE,increaser,0.431,0.061,3,intermediate
+Piedmont,Density,Hansonoperla,PERLIDAE,increaser,0.406,0.077,2,sensitive
+Coastal Plain,Biomass,Tanytarsini,CHIRONOMIDAE,decreaser,-0.513,0.039,6,intermediate
+Coastal Plain,Biomass,Orthocladiinae,CHIRONOMIDAE,decreaser,-0.58,0.012,6,intermediate
+Coastal Plain,Biomass,Tanypodinae,CHIRONOMIDAE,decreaser,-0.586,0.012,6,intermediate
+Coastal Plain,Biomass,Ironoquia,LIMNEPHILIDAE,increaser,0.461,0.08,4,intermediate
+Coastal Plain,Biomass,Argia,COENAGRIONIDAE,increaser,0.436,0.099,8,tolerant
+Coastal Plain,Density,Orthocladiinae,CHIRONOMIDAE,decreaser,-0.507,0.044,6,intermediate
+Coastal Plain,Density,Chironomini,CHIRONOMIDAE,decreaser,-0.538,0.033,6,intermediate
+Coastal Plain,Density,Tanypodinae,CHIRONOMIDAE,decreaser,-0.564,0.033,6,intermediate

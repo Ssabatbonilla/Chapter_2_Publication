@@ -1,0 +1,4 @@
+Region,n_sites,n_taxa,q_ordination,n_states_in_fca,pct_zeros,rlq_axis1_pct,rlq_p_model6
+Valley & Ridge,30,105,dudi.fca,41,70.12698412698413,100,0.4902
+Piedmont,30,137,dudi.fca,40,71.31386861313868,100,0.3335
+Coastal Plain,30,125,dudi.fca,41,80.45333333333333,100,0.9349

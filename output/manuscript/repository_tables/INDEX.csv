@@ -1,0 +1,8 @@
+File,Title,Formerly,Rows,Cols
+trait_coverage_by_site.csv,Trait coverage by site and region,Table S4,90,9
+traitspace_dimensionality.csv,Trait-space dimensionality (Maire et al. 2015),Table S6,9,7
+fd_metric_provenance.csv,Functional-diversity metric provenance verification,Table S8,13,7
+regional_pools_shared_taxa.csv,Cross-region pool comparison: taxa per region and shared taxa,Table S12,3,5
+regional_metric_distributions.csv,Regional metric distributions,Table S13,72,9
+parent_rows_resolved.csv,"Parent rows resolved before any metric, distributed among child taxa in proportion to their density (DPAC)",Table S22,301,9
+family_density_biomass_shares.csv,"Each family's share of regional density and biomass, every taxon, with the number of streams in which it has the largest share of density","new, 8 Oct 2026 (Discussion 4.5)",261,6

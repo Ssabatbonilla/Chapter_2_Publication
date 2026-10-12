@@ -1,0 +1,9 @@
+setting,value
+resamples per seed,9999
+seeds,20260825 to 20260829
+resampling,"streams and taxa resampled independently, with replacement, on each draw; both statistics on the same resample (Owen, 2007; ter Braak et al., 2017)"
+statistic,"fourth-corner statistic weighted by biomass minus weighted by density, per state"
+family,"Benjamini-Hochberg across a region's contrasts, one state per two-state group"
+pass rule,FDR <= 0.10 under all 5 seeds
+p-value rule,"two-sided percentile bootstrap p = 2 (1 + k) / (B + 1), k the smaller count of resampled differences on either side of zero with exact zeros counted half (Rousselet et al. 2021; Phipson and Smyth 2010)"
+R version,R version 4.5.1 (2025-06-13)

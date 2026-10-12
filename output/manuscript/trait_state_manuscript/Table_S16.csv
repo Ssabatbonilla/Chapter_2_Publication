@@ -1,0 +1,247 @@
+Weighting,Region,block,n_taxa,pct_density_covered,term,stat,p_raw,p_fdr,n_carriers,n_seeds_pass,p_fdr_min,p_fdr_max,seeds,verdict,pct_biomass_covered,n_tests_regionwide,n_seeds_pass_regionwide,p_fdr_regionwide_min,p_fdr_regionwide_max,verdict_regionwide
+Density,Valley & Ridge,Flying,118,100,BIBI / Flying_Strong,-0.321,0.002,0.002,48,5,0.001,0.002,20260825 to 20260829,passes under every seed,NA,41,5,0.011,0.018,passes under every seed
+Density,Valley & Ridge,Flying,118,100,BIBI / Flying_Weak,0.321,0.002,0.002,93,5,0.001,0.002,20260825 to 20260829,passes under every seed,NA,41,5,0.011,0.018,passes under every seed
+Density,Valley & Ridge,Emerge,105,99.089,BIBI / Emerge_Fall,-0.013,0.888,0.888,25,0,0.873,0.888,20260825 to 20260829,does not pass,NA,41,0,0.95,0.966,does not pass
+Density,Valley & Ridge,Emerge,105,99.089,BIBI / Emerge_Spring,0.104,0.423,0.747,83,0,0.707,0.747,20260825 to 20260829,does not pass,NA,41,0,0.679,0.719,does not pass
+Density,Valley & Ridge,Emerge,105,99.089,BIBI / Emerge_Summer,0.079,0.579,0.747,90,0,0.707,0.747,20260825 to 20260829,does not pass,NA,41,0,0.805,0.818,does not pass
+Density,Valley & Ridge,Emerge,105,99.089,BIBI / Emerge_Winter,-0.184,0.085,0.339,45,0,0.33,0.376,20260825 to 20260829,does not pass,NA,41,0,0.376,0.428,does not pass
+Density,Valley & Ridge,Synchro,118,100,BIBI / Synchro_Poorly,0.022,0.901,0.901,55,0,0.897,0.923,20260825 to 20260829,does not pass,NA,41,0,0.95,0.966,does not pass
+Density,Valley & Ridge,Synchro,118,100,BIBI / Synchro_Well,-0.022,0.901,0.901,86,0,0.897,0.923,20260825 to 20260829,does not pass,NA,41,0,0.95,0.966,does not pass
+Density,Valley & Ridge,Feed,118,100,BIBI / Feed_CF,-0.126,0.148,0.446,22,0,0.434,0.464,20260825 to 20260829,does not pass,NA,41,0,0.432,0.456,does not pass
+Density,Valley & Ridge,Feed,118,100,BIBI / Feed_CG,-0.021,0.819,0.978,47,0,0.963,0.983,20260825 to 20260829,does not pass,NA,41,0,0.941,0.956,does not pass
+Density,Valley & Ridge,Feed,118,100,BIBI / Feed_HB,0.14,0.3,0.451,50,0,0.45,0.468,20260825 to 20260829,does not pass,NA,41,0,0.584,0.639,does not pass
+Density,Valley & Ridge,Feed,118,100,BIBI / Feed_PA,-0.269,0.13,0.279,5,0,0.269,0.279,20260825 to 20260829,does not pass,NA,41,0,0.432,0.456,does not pass
+Density,Valley & Ridge,Feed,118,100,BIBI / Feed_PR,0,0.978,0.978,58,0,0.978,1,20260825 to 20260829,does not pass,NA,41,0,0.978,1,does not pass
+Density,Valley & Ridge,Feed,118,100,BIBI / Feed_SH,0.138,0.225,0.449,25,0,0.449,0.464,20260825 to 20260829,does not pass,NA,41,0,0.511,0.56,does not pass
+Density,Valley & Ridge,Disperse,118,100,BIBI / Disperse_High,-0.148,0.214,0.214,42,0,0.202,0.214,20260825 to 20260829,does not pass,NA,41,0,0.511,0.525,does not pass
+Density,Valley & Ridge,Disperse,118,100,BIBI / Disperse_Low,0.148,0.214,0.214,90,0,0.202,0.214,20260825 to 20260829,does not pass,NA,41,0,0.511,0.525,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Burrower,-0.154,0.148,0.631,32,0,0.608,0.631,20260825 to 20260829,does not pass,NA,41,0,0.432,0.456,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Climber,-0.072,0.253,0.631,16,0,0.624,0.631,20260825 to 20260829,does not pass,NA,41,0,0.511,0.7,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Clinger,0.038,0.704,0.876,75,0,0.866,0.895,20260825 to 20260829,does not pass,NA,41,0,0.92,0.95,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Crawler,0.035,0.215,0.631,1,0,0.615,0.631,20260825 to 20260829,does not pass,NA,41,0,0.511,0.619,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Planktonic,-0.004,0.394,0.631,2,0,0.624,0.688,20260825 to 20260829,does not pass,NA,41,0,0.666,0.731,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Skater,-0.001,0.93,0.93,4,0,0.927,0.946,20260825 to 20260829,does not pass,NA,41,0,0.95,0.97,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Sprawler,-0.022,0.766,0.876,43,0,0.866,0.895,20260825 to 20260829,does not pass,NA,41,0,0.924,0.956,does not pass
+Density,Valley & Ridge,Habit,118,100,BIBI / Habit_Swimmer,0.13,0.32,0.631,31,0,0.608,0.631,20260825 to 20260829,does not pass,NA,41,0,0.584,0.639,does not pass
+Density,Valley & Ridge,Size,118,100,BIBI / Size_Large,0.09,0.554,0.554,39,0,0.552,0.57,20260825 to 20260829,does not pass,NA,41,0,0.805,0.813,does not pass
+Density,Valley & Ridge,Size,118,100,BIBI / Size_Medium,0.212,0.087,0.131,75,0,0.117,0.131,20260825 to 20260829,does not pass,NA,41,0,0.376,0.428,does not pass
+Density,Valley & Ridge,Size,118,100,BIBI / Size_Small,-0.222,0.061,0.131,80,0,0.117,0.131,20260825 to 20260829,does not pass,NA,41,0,0.358,0.396,does not pass
+Density,Valley & Ridge,Respiration,118,100,BIBI / Respiration_Gills,0.325,0.001,0.001,72,5,0.001,0.001,20260825 to 20260829,passes under every seed,NA,41,5,0.01,0.017,passes under every seed
+Density,Valley & Ridge,Respiration,118,100,BIBI / Respiration_Plastron,-0.015,0.73,0.73,17,0,0.721,0.747,20260825 to 20260829,does not pass,NA,41,0,0.92,0.956,does not pass
+Density,Valley & Ridge,Respiration,118,100,BIBI / Respiration_Tegument,-0.324,0.001,0.001,68,5,0.001,0.001,20260825 to 20260829,passes under every seed,NA,41,5,0.01,0.017,passes under every seed
+Density,Valley & Ridge,Rheophily,118,100,BIBI / Rheophily_Both,0.095,0.49,0.758,77,0,0.74,0.771,20260825 to 20260829,does not pass,NA,41,0,0.751,0.779,does not pass
+Density,Valley & Ridge,Rheophily,118,100,BIBI / Rheophily_Depositional,-0.071,0.534,0.758,61,0,0.74,0.771,20260825 to 20260829,does not pass,NA,41,0,0.779,0.811,does not pass
+Density,Valley & Ridge,Rheophily,118,100,BIBI / Rheophily_Erosional,-0.036,0.758,0.758,88,0,0.74,0.78,20260825 to 20260829,does not pass,NA,41,0,0.92,0.956,does not pass
+Density,Valley & Ridge,Thermal,118,100,BIBI / Thermal_ColdEury,0.122,0.37,0.463,59,0,0.463,0.477,20260825 to 20260829,does not pass,NA,41,0,0.66,0.697,does not pass
+Density,Valley & Ridge,Thermal,118,100,BIBI / Thermal_ColdSteno,-0.08,0.346,0.433,18,0,0.388,0.434,20260825 to 20260829,does not pass,NA,41,0,0.584,0.678,does not pass
+Density,Valley & Ridge,Thermal,118,100,BIBI / Thermal_CoolEury,0.228,0.057,0.142,95,0,0.128,0.142,20260825 to 20260829,does not pass,NA,41,0,0.358,0.383,does not pass
+Density,Valley & Ridge,Thermal,118,100,BIBI / Thermal_HotEury,0.008,0.751,0.751,7,0,0.722,0.796,20260825 to 20260829,does not pass,NA,41,0,0.92,0.956,does not pass
+Density,Valley & Ridge,Thermal,118,100,BIBI / Thermal_WarmEury,-0.288,0.055,0.138,89,0,0.129,0.146,20260825 to 20260829,does not pass,NA,41,0,0.358,0.383,does not pass
+Density,Valley & Ridge,Voltinism,118,100,BIBI / Voltinism_Multivoltine,-0.19,0.137,0.206,52,0,0.206,0.217,20260825 to 20260829,does not pass,NA,41,0,0.432,0.456,does not pass
+Density,Valley & Ridge,Voltinism,118,100,BIBI / Voltinism_Semivoltine,0.03,0.929,0.929,46,0,0.899,0.929,20260825 to 20260829,does not pass,NA,41,0,0.95,0.966,does not pass
+Density,Valley & Ridge,Voltinism,118,100,BIBI / Voltinism_Univoltine,0.188,0.113,0.169,99,0,0.169,0.189,20260825 to 20260829,does not pass,NA,41,0,0.432,0.456,does not pass
+Density,Piedmont,Flying,152,100,BIBI / Flying_Strong,-0.139,0.126,0.126,61,0,0.115,0.126,20260825 to 20260829,does not pass,NA,41,0,0.276,0.283,does not pass
+Density,Piedmont,Flying,152,100,BIBI / Flying_Weak,0.139,0.126,0.126,118,0,0.115,0.126,20260825 to 20260829,does not pass,NA,41,0,0.276,0.283,does not pass
+Density,Piedmont,Emerge,137,99.281,BIBI / Emerge_Fall,-0.079,0.213,0.426,34,0,0.426,0.453,20260825 to 20260829,does not pass,NA,41,0,0.324,0.344,does not pass
+Density,Piedmont,Emerge,137,99.281,BIBI / Emerge_Spring,0.105,0.189,0.426,116,0,0.426,0.453,20260825 to 20260829,does not pass,NA,41,0,0.323,0.327,does not pass
+Density,Piedmont,Emerge,137,99.281,BIBI / Emerge_Summer,-0.037,0.606,0.606,106,0,0.601,0.611,20260825 to 20260829,does not pass,NA,41,0,0.666,0.682,does not pass
+Density,Piedmont,Emerge,137,99.281,BIBI / Emerge_Winter,-0.059,0.452,0.54,58,0,0.54,0.57,20260825 to 20260829,does not pass,NA,41,0,0.559,0.58,does not pass
+Density,Piedmont,Synchro,152,100,BIBI / Synchro_Poorly,-0.1,0.191,0.191,68,0,0.189,0.199,20260825 to 20260829,does not pass,NA,41,0,0.323,0.327,does not pass
+Density,Piedmont,Synchro,152,100,BIBI / Synchro_Well,0.1,0.191,0.191,110,0,0.189,0.199,20260825 to 20260829,does not pass,NA,41,0,0.323,0.327,does not pass
+Density,Piedmont,Feed,152,100,BIBI / Feed_CF,0.15,0.048,0.095,25,3,0.095,0.112,20260825 to 20260829,"borderline, passes under 3 of 5 seeds",NA,41,0,0.172,0.191,does not pass
+Density,Piedmont,Feed,152,100,BIBI / Feed_CG,-0.15,0.046,0.095,63,3,0.095,0.112,20260825 to 20260829,"borderline, passes under 3 of 5 seeds",NA,41,0,0.172,0.19,does not pass
+Density,Piedmont,Feed,152,100,BIBI / Feed_HB,-0.041,0.546,0.756,62,0,0.756,0.791,20260825 to 20260829,does not pass,NA,41,0,0.658,0.668,does not pass
+Density,Piedmont,Feed,152,100,BIBI / Feed_PA,0.018,0.818,0.818,3,0,0.798,0.867,20260825 to 20260829,does not pass,NA,41,0,0.839,0.911,does not pass
+Density,Piedmont,Feed,152,100,BIBI / Feed_PR,-0.033,0.63,0.756,74,0,0.756,0.791,20260825 to 20260829,does not pass,NA,41,0,0.68,0.711,does not pass
+Density,Piedmont,Feed,152,100,BIBI / Feed_SH,0.172,0.023,0.095,43,3,0.095,0.112,20260825 to 20260829,"borderline, passes under 3 of 5 seeds",NA,41,0,0.134,0.147,does not pass
+Density,Piedmont,Disperse,152,100,BIBI / Disperse_High,-0.214,0.003,0.003,51,5,0.002,0.003,20260825 to 20260829,passes under every seed,NA,41,5,0.043,0.057,passes under every seed
+Density,Piedmont,Disperse,152,100,BIBI / Disperse_Low,0.214,0.003,0.003,115,5,0.002,0.003,20260825 to 20260829,passes under every seed,NA,41,5,0.043,0.057,passes under every seed
+Density,Piedmont,Habit,152,100,BIBI / Habit_Burrower,-0.156,0.014,0.112,36,0,0.101,0.112,20260825 to 20260829,does not pass,NA,41,1,0.092,0.115,"borderline, passes under 1 of 5 seeds"
+Density,Piedmont,Habit,152,100,BIBI / Habit_Climber,-0.108,0.084,0.267,23,0,0.266,0.281,20260825 to 20260829,does not pass,NA,41,0,0.225,0.251,does not pass
+Density,Piedmont,Habit,152,100,BIBI / Habit_Clinger,0.122,0.132,0.267,96,0,0.266,0.281,20260825 to 20260829,does not pass,NA,41,0,0.276,0.288,does not pass
+Density,Piedmont,Habit,152,100,BIBI / Habit_Crawler,-0.033,0.213,0.341,2,0,0.337,0.351,20260825 to 20260829,does not pass,NA,41,0,0.324,0.339,does not pass
+Density,Piedmont,Habit,152,100,BIBI / Habit_Planktonic,0,1,1,0,0,1,1,20260825 to 20260829,does not pass,NA,41,0,1,1,does not pass
+Density,Piedmont,Habit,152,100,BIBI / Habit_Skater,-0.073,0.134,0.267,4,0,0.266,0.281,20260825 to 20260829,does not pass,NA,41,0,0.276,0.288,does not pass
+Density,Piedmont,Habit,152,100,BIBI / Habit_Sprawler,-0.058,0.415,0.554,56,0,0.543,0.565,20260825 to 20260829,does not pass,NA,41,0,0.553,0.568,does not pass
+Density,Piedmont,Habit,152,100,BIBI / Habit_Swimmer,0.066,0.545,0.623,40,0,0.605,0.63,20260825 to 20260829,does not pass,NA,41,0,0.658,0.668,does not pass
+Density,Piedmont,Size,152,100,BIBI / Size_Large,0.149,0.064,0.096,52,1,0.096,0.118,20260825 to 20260829,"borderline, passes under 1 of 5 seeds",NA,41,0,0.187,0.225,does not pass
+Density,Piedmont,Size,152,100,BIBI / Size_Medium,0.107,0.211,0.211,89,0,0.195,0.211,20260825 to 20260829,does not pass,NA,41,0,0.324,0.336,does not pass
+Density,Piedmont,Size,152,100,BIBI / Size_Small,-0.155,0.055,0.096,103,1,0.096,0.118,20260825 to 20260829,"borderline, passes under 1 of 5 seeds",NA,41,0,0.172,0.191,does not pass
+Density,Piedmont,Respiration,152,100,BIBI / Respiration_Gills,0.192,0.014,0.026,98,5,0.02,0.026,20260825 to 20260829,passes under every seed,NA,41,1,0.092,0.115,"borderline, passes under 1 of 5 seeds"
+Density,Piedmont,Respiration,152,100,BIBI / Respiration_Plastron,-0.044,0.432,0.432,17,0,0.413,0.443,20260825 to 20260829,does not pass,NA,41,0,0.553,0.571,does not pass
+Density,Piedmont,Respiration,152,100,BIBI / Respiration_Tegument,-0.186,0.017,0.026,85,5,0.02,0.026,20260825 to 20260829,passes under every seed,NA,41,1,0.092,0.118,"borderline, passes under 1 of 5 seeds"
+Density,Piedmont,Rheophily,152,100,BIBI / Rheophily_Both,-0.04,0.592,0.592,101,0,0.59,0.597,20260825 to 20260829,does not pass,NA,41,0,0.666,0.682,does not pass
+Density,Piedmont,Rheophily,152,100,BIBI / Rheophily_Depositional,-0.207,0.008,0.012,72,5,0.008,0.012,20260825 to 20260829,passes under every seed,NA,41,4,0.072,0.105,"borderline, passes under 4 of 5 seeds"
+Density,Piedmont,Rheophily,152,100,BIBI / Rheophily_Erosional,0.15,0.059,0.089,107,5,0.089,0.098,20260825 to 20260829,passes under every seed,NA,41,0,0.187,0.205,does not pass
+Density,Piedmont,Thermal,152,100,BIBI / Thermal_ColdEury,-0.037,0.602,0.752,78,0,0.731,0.774,20260825 to 20260829,does not pass,NA,41,0,0.666,0.682,does not pass
+Density,Piedmont,Thermal,152,100,BIBI / Thermal_ColdSteno,-0.051,0.332,0.554,27,0,0.538,0.554,20260825 to 20260829,does not pass,NA,41,0,0.473,0.486,does not pass
+Density,Piedmont,Thermal,152,100,BIBI / Thermal_CoolEury,0.157,0.048,0.24,122,0,0.204,0.24,20260825 to 20260829,does not pass,NA,41,0,0.172,0.191,does not pass
+Density,Piedmont,Thermal,152,100,BIBI / Thermal_HotEury,0.012,0.994,0.994,5,0,0.977,0.997,20260825 to 20260829,does not pass,NA,41,0,1,1,does not pass
+Density,Piedmont,Thermal,152,100,BIBI / Thermal_WarmEury,-0.116,0.136,0.34,108,0,0.319,0.34,20260825 to 20260829,does not pass,NA,41,0,0.276,0.288,does not pass
+Density,Piedmont,Voltinism,152,100,BIBI / Voltinism_Multivoltine,-0.061,0.408,0.408,63,0,0.389,0.408,20260825 to 20260829,does not pass,NA,41,0,0.55,0.568,does not pass
+Density,Piedmont,Voltinism,152,100,BIBI / Voltinism_Semivoltine,-0.1,0.159,0.238,58,0,0.236,0.243,20260825 to 20260829,does not pass,NA,41,0,0.307,0.316,does not pass
+Density,Piedmont,Voltinism,152,100,BIBI / Voltinism_Univoltine,0.157,0.042,0.124,128,0,0.124,0.13,20260825 to 20260829,does not pass,NA,41,0,0.172,0.19,does not pass
+Density,Coastal Plain,Flying,140,99.991,BIBI / Flying_Strong,-0.299,0.019,0.019,68,5,0.017,0.022,20260825 to 20260829,passes under every seed,NA,41,0,0.23,0.242,does not pass
+Density,Coastal Plain,Flying,140,99.991,BIBI / Flying_Weak,0.299,0.019,0.019,97,5,0.017,0.022,20260825 to 20260829,passes under every seed,NA,41,0,0.23,0.242,does not pass
+Density,Coastal Plain,Emerge,127,99.512,BIBI / Emerge_Fall,-0.033,0.653,0.653,27,0,0.644,0.674,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Emerge,127,99.512,BIBI / Emerge_Spring,0.156,0.287,0.38,108,0,0.373,0.391,20260825 to 20260829,does not pass,NA,41,0,0.891,0.928,does not pass
+Density,Coastal Plain,Emerge,127,99.512,BIBI / Emerge_Summer,0.166,0.269,0.38,99,0,0.373,0.391,20260825 to 20260829,does not pass,NA,41,0,0.891,0.928,does not pass
+Density,Coastal Plain,Emerge,127,99.512,BIBI / Emerge_Winter,-0.284,0.023,0.093,51,5,0.091,0.098,20260825 to 20260829,passes under every seed,NA,41,0,0.233,0.25,does not pass
+Density,Coastal Plain,Synchro,140,99.991,BIBI / Synchro_Poorly,-0.036,0.679,0.679,56,0,0.679,0.696,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Synchro,140,99.991,BIBI / Synchro_Well,0.036,0.679,0.679,101,0,0.679,0.696,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Feed,142,100,BIBI / Feed_CF,-0.067,0.234,0.671,21,0,0.655,0.679,20260825 to 20260829,does not pass,NA,41,0,0.858,0.928,does not pass
+Density,Coastal Plain,Feed,142,100,BIBI / Feed_CG,-0.041,0.559,0.671,57,0,0.655,0.679,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Feed,142,100,BIBI / Feed_HB,0.038,0.876,0.876,56,0,0.876,0.913,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Feed,142,100,BIBI / Feed_PA,-0.081,0.485,0.657,3,0,0.636,0.659,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Feed,142,100,BIBI / Feed_PR,0.124,0.46,0.671,79,0,0.651,0.679,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Feed,142,100,BIBI / Feed_SH,-0.016,0.519,0.671,30,0,0.655,0.679,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Disperse,140,99.991,BIBI / Disperse_High,-0.237,0.074,0.074,56,5,0.067,0.075,20260825 to 20260829,passes under every seed,NA,41,0,0.303,0.341,does not pass
+Density,Coastal Plain,Disperse,140,99.991,BIBI / Disperse_Low,0.237,0.074,0.074,95,5,0.067,0.075,20260825 to 20260829,passes under every seed,NA,41,0,0.303,0.341,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Burrower,-0.249,0.045,0.181,35,0,0.172,0.201,20260825 to 20260829,does not pass,NA,41,0,0.251,0.295,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Climber,0,0.982,0.982,32,0,0.98,0.997,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Clinger,0.052,0.745,0.949,85,0,0.946,0.964,20260825 to 20260829,does not pass,NA,41,0,0.933,0.954,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Crawler,0.377,0.01,0.059,1,5,0.057,0.061,20260825 to 20260829,passes under every seed,NA,41,0,0.23,0.242,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Planktonic,0.015,0.949,0.949,1,0,0.946,0.964,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Skater,0.026,0.913,0.949,3,0,0.946,0.964,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Sprawler,0.048,0.802,0.949,49,0,0.946,0.964,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Habit,142,100,BIBI / Habit_Swimmer,0.089,0.549,0.949,36,0,0.946,0.964,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Size,142,100,BIBI / Size_Large,0.102,0.494,0.597,53,0,0.589,0.606,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Size,142,100,BIBI / Size_Medium,0.087,0.597,0.597,83,0,0.589,0.606,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Size,142,100,BIBI / Size_Small,-0.124,0.413,0.597,87,0,0.589,0.606,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Respiration,142,100,BIBI / Respiration_Gills,0.272,0.042,0.064,88,5,0.061,0.066,20260825 to 20260829,passes under every seed,NA,41,0,0.251,0.286,does not pass
+Density,Coastal Plain,Respiration,142,100,BIBI / Respiration_Plastron,0.06,0.7,0.7,16,0,0.681,0.729,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Respiration,142,100,BIBI / Respiration_Tegument,-0.278,0.033,0.064,79,5,0.061,0.066,20260825 to 20260829,passes under every seed,NA,41,0,0.251,0.265,does not pass
+Density,Coastal Plain,Rheophily,142,100,BIBI / Rheophily_Both,0.002,0.979,0.979,88,0,0.966,0.982,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Rheophily,142,100,BIBI / Rheophily_Depositional,0.193,0.237,0.584,85,0,0.561,0.584,20260825 to 20260829,does not pass,NA,41,0,0.858,0.928,does not pass
+Density,Coastal Plain,Rheophily,142,100,BIBI / Rheophily_Erosional,-0.117,0.39,0.584,87,0,0.561,0.584,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Thermal,142,100,BIBI / Thermal_ColdEury,0.015,0.957,0.974,62,0,0.961,0.974,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Thermal,142,100,BIBI / Thermal_ColdSteno,0.012,0.709,0.974,18,0,0.961,0.974,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Thermal,142,100,BIBI / Thermal_CoolEury,0.064,0.708,0.974,112,0,0.961,0.974,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Thermal,142,100,BIBI / Thermal_HotEury,0.032,0.974,0.974,6,0,0.961,0.974,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Thermal,142,100,BIBI / Thermal_WarmEury,-0.085,0.553,0.974,97,0,0.961,0.974,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Density,Coastal Plain,Voltinism,142,100,BIBI / Voltinism_Multivoltine,-0.014,0.869,0.869,57,0,0.862,0.874,20260825 to 20260829,does not pass,NA,41,0,0.98,0.997,does not pass
+Density,Coastal Plain,Voltinism,142,100,BIBI / Voltinism_Semivoltine,-0.107,0.314,0.742,54,0,0.711,0.742,20260825 to 20260829,does not pass,NA,41,0,0.92,0.928,does not pass
+Density,Coastal Plain,Voltinism,142,100,BIBI / Voltinism_Univoltine,0.099,0.497,0.742,118,0,0.711,0.742,20260825 to 20260829,does not pass,NA,41,0,0.928,0.944,does not pass
+Biomass,Valley & Ridge,Flying,118,NA,BIBI / Flying_Strong,-0.199,0.026,0.026,48,5,0.026,0.028,20260825 to 20260829,passes under every seed,100,41,0,0.212,0.227,does not pass
+Biomass,Valley & Ridge,Flying,118,NA,BIBI / Flying_Weak,0.199,0.026,0.026,93,5,0.026,0.028,20260825 to 20260829,passes under every seed,100,41,0,0.212,0.227,does not pass
+Biomass,Valley & Ridge,Emerge,105,NA,BIBI / Emerge_Fall,0.014,0.951,0.951,25,0,0.951,0.965,20260825 to 20260829,does not pass,97.905,41,0,0.951,0.965,does not pass
+Biomass,Valley & Ridge,Emerge,105,NA,BIBI / Emerge_Spring,0.057,0.552,0.951,83,0,0.951,0.965,20260825 to 20260829,does not pass,97.905,41,0,0.767,0.776,does not pass
+Biomass,Valley & Ridge,Emerge,105,NA,BIBI / Emerge_Summer,0.014,0.899,0.951,90,0,0.951,0.965,20260825 to 20260829,does not pass,97.905,41,0,0.919,0.938,does not pass
+Biomass,Valley & Ridge,Emerge,105,NA,BIBI / Emerge_Winter,-0.144,0.126,0.506,45,0,0.468,0.528,20260825 to 20260829,does not pass,97.905,41,0,0.479,0.506,does not pass
+Biomass,Valley & Ridge,Synchro,118,NA,BIBI / Synchro_Poorly,-0.043,0.649,0.649,55,0,0.629,0.649,20260825 to 20260829,does not pass,100,41,0,0.78,0.792,does not pass
+Biomass,Valley & Ridge,Synchro,118,NA,BIBI / Synchro_Well,0.043,0.649,0.649,86,0,0.629,0.649,20260825 to 20260829,does not pass,100,41,0,0.78,0.792,does not pass
+Biomass,Valley & Ridge,Feed,118,NA,BIBI / Feed_CF,-0.116,0.155,0.336,22,0,0.336,0.348,20260825 to 20260829,does not pass,100,41,0,0.479,0.507,does not pass
+Biomass,Valley & Ridge,Feed,118,NA,BIBI / Feed_CG,0.061,0.539,0.756,47,0,0.753,0.772,20260825 to 20260829,does not pass,100,41,0,0.767,0.776,does not pass
+Biomass,Valley & Ridge,Feed,118,NA,BIBI / Feed_HB,-0.023,0.791,0.791,50,0,0.784,0.799,20260825 to 20260829,does not pass,100,41,0,0.893,0.906,does not pass
+Biomass,Valley & Ridge,Feed,118,NA,BIBI / Feed_PA,-0.211,0.221,0.336,5,0,0.336,0.348,20260825 to 20260829,does not pass,100,41,0,0.498,0.51,does not pass
+Biomass,Valley & Ridge,Feed,118,NA,BIBI / Feed_PR,0.159,0.044,0.265,58,0,0.247,0.265,20260825 to 20260829,does not pass,100,41,0,0.241,0.397,does not pass
+Biomass,Valley & Ridge,Feed,118,NA,BIBI / Feed_SH,-0.028,0.656,0.756,25,0,0.753,0.772,20260825 to 20260829,does not pass,100,41,0,0.78,0.796,does not pass
+Biomass,Valley & Ridge,Disperse,118,NA,BIBI / Disperse_High,-0.188,0.028,0.028,42,5,0.026,0.032,20260825 to 20260829,passes under every seed,100,41,0,0.212,0.227,does not pass
+Biomass,Valley & Ridge,Disperse,118,NA,BIBI / Disperse_Low,0.188,0.028,0.028,90,5,0.026,0.032,20260825 to 20260829,passes under every seed,100,41,0,0.212,0.227,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Burrower,-0.1,0.231,0.858,32,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.498,0.51,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Climber,-0.019,0.696,0.858,16,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.787,0.821,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Clinger,-0.017,0.844,0.858,75,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.899,0.917,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Crawler,0.003,0.858,0.858,1,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.899,0.919,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Planktonic,-0.007,0.545,0.858,2,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.767,0.776,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Skater,0.036,0.547,0.858,4,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.767,0.776,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Sprawler,0.065,0.515,0.858,43,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.767,0.776,does not pass
+Biomass,Valley & Ridge,Habit,118,NA,BIBI / Habit_Swimmer,0.118,0.222,0.858,31,0,0.855,0.877,20260825 to 20260829,does not pass,100,41,0,0.498,0.51,does not pass
+Biomass,Valley & Ridge,Size,118,NA,BIBI / Size_Large,0.165,0.082,0.123,39,0,0.123,0.131,20260825 to 20260829,does not pass,100,41,0,0.373,0.397,does not pass
+Biomass,Valley & Ridge,Size,118,NA,BIBI / Size_Medium,0.102,0.297,0.297,75,0,0.27,0.297,20260825 to 20260829,does not pass,100,41,0,0.527,0.58,does not pass
+Biomass,Valley & Ridge,Size,118,NA,BIBI / Size_Small,-0.21,0.025,0.061,80,5,0.06,0.065,20260825 to 20260829,passes under every seed,100,41,0,0.212,0.227,does not pass
+Biomass,Valley & Ridge,Respiration,118,NA,BIBI / Respiration_Gills,0.132,0.178,0.236,72,0,0.236,0.25,20260825 to 20260829,does not pass,100,41,0,0.489,0.507,does not pass
+Biomass,Valley & Ridge,Respiration,118,NA,BIBI / Respiration_Plastron,0.075,0.435,0.435,17,0,0.42,0.437,20260825 to 20260829,does not pass,100,41,0,0.717,0.76,does not pass
+Biomass,Valley & Ridge,Respiration,118,NA,BIBI / Respiration_Tegument,-0.145,0.143,0.236,68,0,0.236,0.25,20260825 to 20260829,does not pass,100,41,0,0.479,0.507,does not pass
+Biomass,Valley & Ridge,Rheophily,118,NA,BIBI / Rheophily_Both,0.126,0.18,0.27,77,0,0.265,0.27,20260825 to 20260829,does not pass,100,41,0,0.489,0.507,does not pass
+Biomass,Valley & Ridge,Rheophily,118,NA,BIBI / Rheophily_Depositional,0.024,0.832,0.832,61,0,0.828,0.846,20260825 to 20260829,does not pass,100,41,0,0.899,0.917,does not pass
+Biomass,Valley & Ridge,Rheophily,118,NA,BIBI / Rheophily_Erosional,-0.129,0.149,0.27,88,0,0.265,0.27,20260825 to 20260829,does not pass,100,41,0,0.479,0.507,does not pass
+Biomass,Valley & Ridge,Thermal,118,NA,BIBI / Thermal_ColdEury,0.075,0.431,0.431,59,0,0.429,0.445,20260825 to 20260829,does not pass,100,41,0,0.644,0.76,does not pass
+Biomass,Valley & Ridge,Thermal,118,NA,BIBI / Thermal_ColdSteno,-0.057,0.278,0.428,18,0,0.422,0.429,20260825 to 20260829,does not pass,100,41,0,0.527,0.67,does not pass
+Biomass,Valley & Ridge,Thermal,118,NA,BIBI / Thermal_CoolEury,0.202,0.032,0.138,95,0,0.135,0.147,20260825 to 20260829,does not pass,100,41,0,0.217,0.238,does not pass
+Biomass,Valley & Ridge,Thermal,118,NA,BIBI / Thermal_HotEury,-0.046,0.576,0.576,7,0,0.572,0.591,20260825 to 20260829,does not pass,100,41,0,0.767,0.781,does not pass
+Biomass,Valley & Ridge,Thermal,118,NA,BIBI / Thermal_WarmEury,-0.247,0.055,0.138,89,0,0.135,0.147,20260825 to 20260829,does not pass,100,41,0,0.284,0.331,does not pass
+Biomass,Valley & Ridge,Voltinism,118,NA,BIBI / Voltinism_Multivoltine,-0.154,0.221,0.357,52,0,0.357,0.372,20260825 to 20260829,does not pass,100,41,0,0.498,0.51,does not pass
+Biomass,Valley & Ridge,Voltinism,118,NA,BIBI / Voltinism_Semivoltine,0.057,0.583,0.583,46,0,0.559,0.583,20260825 to 20260829,does not pass,100,41,0,0.767,0.776,does not pass
+Biomass,Valley & Ridge,Voltinism,118,NA,BIBI / Voltinism_Univoltine,0.085,0.349,0.523,99,0,0.523,0.559,20260825 to 20260829,does not pass,100,41,0,0.644,0.695,does not pass
+Biomass,Piedmont,Flying,152,NA,BIBI / Flying_Strong,-0.192,0.044,0.044,61,5,0.041,0.046,20260825 to 20260829,passes under every seed,100,41,0,0.254,0.281,does not pass
+Biomass,Piedmont,Flying,152,NA,BIBI / Flying_Weak,0.192,0.044,0.044,118,5,0.041,0.046,20260825 to 20260829,passes under every seed,100,41,0,0.254,0.281,does not pass
+Biomass,Piedmont,Emerge,137,NA,BIBI / Emerge_Fall,0.054,0.553,0.858,34,0,0.853,0.868,20260825 to 20260829,does not pass,99.476,41,0,0.847,0.87,does not pass
+Biomass,Piedmont,Emerge,137,NA,BIBI / Emerge_Spring,0.018,0.858,0.858,116,0,0.853,0.868,20260825 to 20260829,does not pass,99.476,41,0,0.874,0.89,does not pass
+Biomass,Piedmont,Emerge,137,NA,BIBI / Emerge_Summer,-0.064,0.54,0.858,106,0,0.853,0.868,20260825 to 20260829,does not pass,99.476,41,0,0.847,0.87,does not pass
+Biomass,Piedmont,Emerge,137,NA,BIBI / Emerge_Winter,0.022,0.813,0.858,58,0,0.853,0.868,20260825 to 20260829,does not pass,99.476,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Synchro,152,NA,BIBI / Synchro_Poorly,0.02,0.853,0.853,68,0,0.837,0.853,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Synchro,152,NA,BIBI / Synchro_Well,-0.02,0.853,0.853,110,0,0.837,0.853,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Feed,152,NA,BIBI / Feed_CF,0.047,0.558,0.669,25,0,0.669,0.688,20260825 to 20260829,does not pass,100,41,0,0.847,0.87,does not pass
+Biomass,Piedmont,Feed,152,NA,BIBI / Feed_CG,-0.143,0.154,0.461,63,0,0.437,0.465,20260825 to 20260829,does not pass,100,41,0,0.543,0.577,does not pass
+Biomass,Piedmont,Feed,152,NA,BIBI / Feed_HB,-0.092,0.365,0.547,62,0,0.547,0.574,20260825 to 20260829,does not pass,100,41,0,0.712,0.717,does not pass
+Biomass,Piedmont,Feed,152,NA,BIBI / Feed_PA,-0.05,0.314,0.547,3,0,0.547,0.574,20260825 to 20260829,does not pass,100,41,0,0.688,0.701,does not pass
+Biomass,Piedmont,Feed,152,NA,BIBI / Feed_PR,-0.041,0.695,0.695,74,0,0.687,0.713,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Feed,152,NA,BIBI / Feed_SH,0.214,0.015,0.089,43,5,0.074,0.089,20260825 to 20260829,passes under every seed,100,41,0,0.201,0.236,does not pass
+Biomass,Piedmont,Disperse,152,NA,BIBI / Disperse_High,-0.193,0.045,0.045,51,5,0.041,0.049,20260825 to 20260829,passes under every seed,100,41,0,0.254,0.281,does not pass
+Biomass,Piedmont,Disperse,152,NA,BIBI / Disperse_Low,0.193,0.045,0.045,115,5,0.041,0.049,20260825 to 20260829,passes under every seed,100,41,0,0.254,0.281,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Burrower,0.108,0.268,0.839,36,0,0.839,0.857,20260825 to 20260829,does not pass,100,41,0,0.618,0.645,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Climber,-0.064,0.527,0.839,23,0,0.839,0.857,20260825 to 20260829,does not pass,100,41,0,0.847,0.863,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Clinger,-0.036,0.724,0.839,96,0,0.839,0.857,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Crawler,-0.031,0.387,0.839,2,0,0.839,0.857,20260825 to 20260829,does not pass,100,41,0,0.712,0.721,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Planktonic,0,1,1,0,0,1,1,20260825 to 20260829,does not pass,100,41,0,1,1,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Skater,-0.102,0.15,0.839,4,0,0.839,0.857,20260825 to 20260829,does not pass,100,41,0,0.543,0.577,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Sprawler,0.04,0.686,0.839,56,0,0.839,0.857,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Habit,152,NA,BIBI / Habit_Swimmer,-0.035,0.734,0.839,40,0,0.839,0.857,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Size,152,NA,BIBI / Size_Large,0.125,0.211,0.316,52,0,0.307,0.323,20260825 to 20260829,does not pass,100,41,0,0.614,0.633,does not pass
+Biomass,Piedmont,Size,152,NA,BIBI / Size_Medium,0.031,0.772,0.772,89,0,0.757,0.772,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Size,152,NA,BIBI / Size_Small,-0.147,0.147,0.316,103,0,0.307,0.323,20260825 to 20260829,does not pass,100,41,0,0.543,0.577,does not pass
+Biomass,Piedmont,Respiration,152,NA,BIBI / Respiration_Gills,0.102,0.322,0.322,98,0,0.318,0.33,20260825 to 20260829,does not pass,100,41,0,0.688,0.711,does not pass
+Biomass,Piedmont,Respiration,152,NA,BIBI / Respiration_Plastron,0.11,0.21,0.322,17,0,0.318,0.33,20260825 to 20260829,does not pass,100,41,0,0.614,0.633,does not pass
+Biomass,Piedmont,Respiration,152,NA,BIBI / Respiration_Tegument,-0.122,0.232,0.322,85,0,0.318,0.33,20260825 to 20260829,does not pass,100,41,0,0.618,0.636,does not pass
+Biomass,Piedmont,Rheophily,152,NA,BIBI / Rheophily_Both,0.128,0.204,0.306,101,0,0.295,0.306,20260825 to 20260829,does not pass,100,41,0,0.614,0.633,does not pass
+Biomass,Piedmont,Rheophily,152,NA,BIBI / Rheophily_Depositional,-0.229,0.011,0.033,72,5,0.032,0.043,20260825 to 20260829,passes under every seed,100,41,0,0.201,0.236,does not pass
+Biomass,Piedmont,Rheophily,152,NA,BIBI / Rheophily_Erosional,0.035,0.718,0.718,107,0,0.718,0.745,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Thermal,152,NA,BIBI / Thermal_ColdEury,-0.096,0.344,0.43,78,0,0.43,0.449,20260825 to 20260829,does not pass,100,41,0,0.705,0.717,does not pass
+Biomass,Piedmont,Thermal,152,NA,BIBI / Thermal_ColdSteno,-0.155,0.052,0.13,27,0,0.124,0.14,20260825 to 20260829,does not pass,100,41,0,0.255,0.286,does not pass
+Biomass,Piedmont,Thermal,152,NA,BIBI / Thermal_CoolEury,0.225,0.015,0.074,122,5,0.074,0.086,20260825 to 20260829,passes under every seed,100,41,0,0.201,0.236,does not pass
+Biomass,Piedmont,Thermal,152,NA,BIBI / Thermal_HotEury,0.015,0.766,0.766,5,0,0.764,0.777,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Thermal,152,NA,BIBI / Thermal_WarmEury,-0.115,0.25,0.418,108,0,0.417,0.44,20260825 to 20260829,does not pass,100,41,0,0.618,0.642,does not pass
+Biomass,Piedmont,Voltinism,152,NA,BIBI / Voltinism_Multivoltine,-0.025,0.827,0.827,63,0,0.819,0.827,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Voltinism,152,NA,BIBI / Voltinism_Semivoltine,-0.048,0.644,0.827,58,0,0.819,0.827,20260825 to 20260829,does not pass,100,41,0,0.874,0.883,does not pass
+Biomass,Piedmont,Voltinism,152,NA,BIBI / Voltinism_Univoltine,0.071,0.496,0.827,128,0,0.819,0.827,20260825 to 20260829,does not pass,100,41,0,0.847,0.863,does not pass
+Biomass,Coastal Plain,Flying,140,NA,BIBI / Flying_Strong,-0.049,0.709,0.709,68,0,0.706,0.717,20260825 to 20260829,does not pass,99.919,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Flying,140,NA,BIBI / Flying_Weak,0.049,0.709,0.709,97,0,0.706,0.717,20260825 to 20260829,does not pass,99.919,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Emerge,127,NA,BIBI / Emerge_Fall,0.07,0.571,0.86,27,0,0.86,0.874,20260825 to 20260829,does not pass,99.308,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Emerge,127,NA,BIBI / Emerge_Spring,0.057,0.673,0.86,108,0,0.86,0.874,20260825 to 20260829,does not pass,99.308,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Emerge,127,NA,BIBI / Emerge_Summer,0.024,0.86,0.86,99,0,0.86,0.874,20260825 to 20260829,does not pass,99.308,41,0,0.904,0.921,does not pass
+Biomass,Coastal Plain,Emerge,127,NA,BIBI / Emerge_Winter,-0.201,0.095,0.38,51,0,0.37,0.398,20260825 to 20260829,does not pass,99.308,41,0,0.345,0.37,does not pass
+Biomass,Coastal Plain,Synchro,140,NA,BIBI / Synchro_Poorly,0.152,0.255,0.255,56,0,0.248,0.26,20260825 to 20260829,does not pass,99.919,41,0,0.523,0.555,does not pass
+Biomass,Coastal Plain,Synchro,140,NA,BIBI / Synchro_Well,-0.152,0.255,0.255,101,0,0.248,0.26,20260825 to 20260829,does not pass,99.919,41,0,0.523,0.555,does not pass
+Biomass,Coastal Plain,Feed,142,NA,BIBI / Feed_CF,-0.211,0.077,0.388,21,0,0.369,0.408,20260825 to 20260829,does not pass,100,41,0,0.332,0.354,does not pass
+Biomass,Coastal Plain,Feed,142,NA,BIBI / Feed_CG,-0.084,0.529,0.635,57,0,0.615,0.639,20260825 to 20260829,does not pass,100,41,0,0.808,0.84,does not pass
+Biomass,Coastal Plain,Feed,142,NA,BIBI / Feed_HB,-0.054,0.684,0.684,56,0,0.674,0.688,20260825 to 20260829,does not pass,100,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Feed,142,NA,BIBI / Feed_PA,-0.119,0.14,0.388,3,0,0.369,0.408,20260825 to 20260829,does not pass,100,41,0,0.437,0.453,does not pass
+Biomass,Coastal Plain,Feed,142,NA,BIBI / Feed_PR,0.173,0.194,0.388,79,0,0.369,0.408,20260825 to 20260829,does not pass,100,41,0,0.505,0.534,does not pass
+Biomass,Coastal Plain,Feed,142,NA,BIBI / Feed_SH,0.102,0.459,0.635,30,0,0.615,0.639,20260825 to 20260829,does not pass,100,41,0,0.76,0.775,does not pass
+Biomass,Coastal Plain,Disperse,140,NA,BIBI / Disperse_High,-0.062,0.641,0.641,56,0,0.634,0.645,20260825 to 20260829,does not pass,99.919,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Disperse,140,NA,BIBI / Disperse_Low,0.062,0.641,0.641,95,0,0.634,0.645,20260825 to 20260829,does not pass,99.919,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Burrower,-0.209,0.089,0.238,35,0,0.214,0.242,20260825 to 20260829,does not pass,100,41,0,0.332,0.354,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Climber,0.147,0.253,0.404,32,0,0.404,0.455,20260825 to 20260829,does not pass,100,41,0,0.523,0.555,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Clinger,-0.181,0.161,0.322,85,0,0.322,0.333,20260825 to 20260829,does not pass,100,41,0,0.472,0.488,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Crawler,0.094,0.242,0.322,1,0,0.295,0.33,20260825 to 20260829,does not pass,100,41,0,0.523,0.555,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Planktonic,0.023,0.389,0.518,1,0,0.518,0.537,20260825 to 20260829,does not pass,100,41,0,0.693,0.718,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Skater,-0.012,0.843,0.845,3,0,0.845,0.876,20260825 to 20260829,does not pass,100,41,0,0.904,0.921,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Sprawler,0.016,0.945,0.945,49,0,0.927,0.945,20260825 to 20260829,does not pass,100,41,0,0.927,0.945,does not pass
+Biomass,Coastal Plain,Habit,142,NA,BIBI / Habit_Swimmer,0.285,0.029,0.23,36,0,0.214,0.24,20260825 to 20260829,does not pass,100,41,0,0.302,0.328,does not pass
+Biomass,Coastal Plain,Size,142,NA,BIBI / Size_Large,0.127,0.356,0.535,53,0,0.521,0.541,20260825 to 20260829,does not pass,100,41,0,0.647,0.673,does not pass
+Biomass,Coastal Plain,Size,142,NA,BIBI / Size_Medium,-0.141,0.276,0.535,83,0,0.521,0.541,20260825 to 20260829,does not pass,100,41,0,0.539,0.561,does not pass
+Biomass,Coastal Plain,Size,142,NA,BIBI / Size_Small,-0.032,0.808,0.808,87,0,0.793,0.811,20260825 to 20260829,does not pass,100,41,0,0.904,0.919,does not pass
+Biomass,Coastal Plain,Respiration,142,NA,BIBI / Respiration_Gills,-0.097,0.464,0.696,88,0,0.695,0.7,20260825 to 20260829,does not pass,100,41,0,0.76,0.775,does not pass
+Biomass,Coastal Plain,Respiration,142,NA,BIBI / Respiration_Plastron,0.26,0.051,0.153,16,0,0.143,0.159,20260825 to 20260829,does not pass,100,41,0,0.302,0.328,does not pass
+Biomass,Coastal Plain,Respiration,142,NA,BIBI / Respiration_Tegument,0.015,0.908,0.908,79,0,0.906,0.918,20260825 to 20260829,does not pass,100,41,0,0.927,0.941,does not pass
+Biomass,Coastal Plain,Rheophily,142,NA,BIBI / Rheophily_Both,0.026,0.843,0.843,88,0,0.84,0.857,20260825 to 20260829,does not pass,100,41,0,0.904,0.921,does not pass
+Biomass,Coastal Plain,Rheophily,142,NA,BIBI / Rheophily_Depositional,0.307,0.019,0.03,85,5,0.027,0.034,20260825 to 20260829,passes under every seed,100,41,0,0.302,0.328,does not pass
+Biomass,Coastal Plain,Rheophily,142,NA,BIBI / Rheophily_Erosional,-0.289,0.02,0.03,87,5,0.027,0.034,20260825 to 20260829,passes under every seed,100,41,0,0.302,0.328,does not pass
+Biomass,Coastal Plain,Thermal,142,NA,BIBI / Thermal_ColdEury,-0.06,0.625,0.625,62,0,0.625,0.645,20260825 to 20260829,does not pass,100,41,0,0.843,0.853,does not pass
+Biomass,Coastal Plain,Thermal,142,NA,BIBI / Thermal_ColdSteno,0.225,0.055,0.091,18,5,0.086,0.093,20260825 to 20260829,passes under every seed,100,41,0,0.302,0.328,does not pass
+Biomass,Coastal Plain,Thermal,142,NA,BIBI / Thermal_CoolEury,-0.254,0.043,0.091,112,5,0.086,0.093,20260825 to 20260829,passes under every seed,100,41,0,0.302,0.328,does not pass
+Biomass,Coastal Plain,Thermal,142,NA,BIBI / Thermal_HotEury,0.224,0.05,0.091,6,5,0.086,0.093,20260825 to 20260829,passes under every seed,100,41,0,0.302,0.328,does not pass
+Biomass,Coastal Plain,Thermal,142,NA,BIBI / Thermal_WarmEury,0.229,0.078,0.097,97,4,0.096,0.105,20260825 to 20260829,"borderline, passes under 4 of 5 seeds",100,41,0,0.332,0.354,does not pass
+Biomass,Coastal Plain,Voltinism,142,NA,BIBI / Voltinism_Multivoltine,0.052,0.727,0.727,57,0,0.72,0.734,20260825 to 20260829,does not pass,100,41,0,0.843,0.86,does not pass
+Biomass,Coastal Plain,Voltinism,142,NA,BIBI / Voltinism_Semivoltine,-0.195,0.118,0.339,54,0,0.322,0.339,20260825 to 20260829,does not pass,100,41,0,0.378,0.403,does not pass
+Biomass,Coastal Plain,Voltinism,142,NA,BIBI / Voltinism_Univoltine,0.159,0.226,0.339,118,0,0.322,0.339,20260825 to 20260829,does not pass,100,41,0,0.523,0.555,does not pass

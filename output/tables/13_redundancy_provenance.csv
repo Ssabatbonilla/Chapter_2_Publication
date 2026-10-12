@@ -1,0 +1,6 @@
+Metric,Currency,fd_name,corr,n_compared,max_abs_diff,status
+FR_RD_den,den,FR_RD_den,fuzzy weighted Gower,90,3.3306690738754696e-16,REPRODUCED
+FR_RD_bio,bio,FR_RD_bio,fuzzy weighted Gower,90,3.3306690738754696e-16,REPRODUCED
+FR_DB_RD,den,FR_DB_RD,fuzzy weighted Gower,90,3.400058012914542e-16,REPRODUCED
+FRic_den,den,FRic_den,"fuzzy pool dbFD, cailliez",90,9.540979117872439e-18,REPRODUCED
+FR_SF_den_log10,den,FR_SF_den_log10,"Richness_FD / FRic_den, log10(x + 1)",90,2.6645352591003757e-15,REPRODUCED

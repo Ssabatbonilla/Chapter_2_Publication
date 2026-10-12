@@ -1,0 +1,34 @@
+Family,Metric,Region,Tier,rho_full,n_sites,rho_min_abs_one,rho_max_abs_one,worst_site,rho_worst_site,p_worst_site,rho_min_abs_two,worst_pair,rho_worst_pair,p_worst_pair,sign_change_one,below_030_one,sign_change_two,below_030_two,flag
+alpha,HBI_bio,Valley & Ridge,strong,-0.846,30,0.832,0.883,BEAV,-0.832,0,0.815,BEAV+SMTH,-0.815,0,FALSE,FALSE,FALSE,FALSE,stable
+alpha,HBI_bio,Piedmont,strong,-0.616,30,0.575,0.748,GROF,-0.575,0.001,0.528,GROF+LBVR,-0.528,0.004,FALSE,FALSE,FALSE,FALSE,stable
+alpha,HBI_rel_abund,Valley & Ridge,strong,-0.855,30,0.842,0.898,BEAV,-0.842,0,0.826,BEAV+SMTH,-0.826,0,FALSE,FALSE,FALSE,FALSE,stable
+alpha,HBI_rel_abund,Piedmont,strong,-0.772,30,0.749,0.844,RMBO,-0.749,0,0.722,BEET+RMBO,-0.722,0,FALSE,FALSE,FALSE,FALSE,stable
+alpha,Richness_alpha,Valley & Ridge,strong,0.755,30,0.73,0.803,SMTH,0.73,0,0.702,BEAV+SMTH,0.702,0,FALSE,FALSE,FALSE,FALSE,stable
+alpha,Richness_alpha,Piedmont,strong,0.394,30,0.33,0.489,GROF,0.33,0.08,0.258,GROF+LBVR,0.258,0.185,FALSE,FALSE,FALSE,TRUE,falls below |rho| 0.30 with two sites dropped
+alpha,Shannon,Valley & Ridge,strong,0.598,30,0.555,0.661,BEAV,0.555,0.002,0.509,BEAV+MUDD,0.509,0.006,FALSE,FALSE,FALSE,FALSE,stable
+alpha,Shannon,Piedmont,strong,0.734,30,0.706,0.772,GROF,0.706,0,0.678,GROF+RMBO,0.678,0,FALSE,FALSE,FALSE,FALSE,stable
+alpha,Shannon,Coastal Plain,strong,0.639,30,0.606,0.717,ISLD,0.606,0,0.569,ISLD+UNIC,0.569,0.002,FALSE,FALSE,FALSE,FALSE,stable
+concentration,Gini_DB_DOM,Piedmont,strong,0.446,30,0.398,0.532,RMBO,0.398,0.032,0.35,LFAL+RMBO,0.35,0.068,FALSE,FALSE,FALSE,FALSE,stable
+concentration,Gini_DB_DOM,Coastal Plain,strong,0.658,30,0.622,0.755,MONI,0.622,0,0.581,ISLD+MONI,0.581,0.001,FALSE,FALSE,FALSE,FALSE,stable
+concentration,Gini_bio,Coastal Plain,strong,0.504,30,0.451,0.575,MONI,0.451,0.014,0.39,MONI+NORW,0.39,0.04,FALSE,FALSE,FALSE,FALSE,stable
+concentration,Gini_den,Piedmont,strong,-0.594,30,0.555,0.704,RMBO,-0.555,0.002,0.521,ORSN+RMBO,-0.521,0.005,FALSE,FALSE,FALSE,FALSE,stable
+concentration,Gini_den,Coastal Plain,strong,-0.458,30,0.404,0.563,UNIC,-0.404,0.03,0.356,ISLD+UNIC,-0.356,0.063,FALSE,FALSE,FALSE,FALSE,stable
+concentration,N50_bio,Valley & Ridge,strong,0.58,30,0.535,0.638,BEAV,0.535,0.003,0.482,BEAV+SMTH,0.482,0.009,FALSE,FALSE,FALSE,FALSE,stable
+concentration,N50_den,Valley & Ridge,strong,0.518,30,0.46,0.572,BEAV,0.46,0.012,0.406,BEAV+MUDD,0.406,0.032,FALSE,FALSE,FALSE,FALSE,stable
+concentration,N50_den,Piedmont,strong,0.778,30,0.756,0.801,RMBO,0.756,0,0.74,LFAL+RMBO,0.74,0,FALSE,FALSE,FALSE,FALSE,stable
+concentration,N50_den,Coastal Plain,strong,0.348,30,0.278,0.424,UNIC,0.278,0.144,0.201,ISLD+UNIC,0.201,0.306,FALSE,TRUE,FALSE,TRUE,falls below |rho| 0.30 with one site dropped
+fd,FDis_den,Valley & Ridge,strong,0.67,30,0.643,0.738,TOMS,0.643,0,0.612,MUDD+TOMS,0.612,0.001,FALSE,FALSE,FALSE,FALSE,stable
+fd,FDis_den,Piedmont,strong,0.552,30,0.504,0.625,GROF,0.504,0.005,0.458,CARO+GROF,0.458,0.014,FALSE,FALSE,FALSE,FALSE,stable
+fd,FDis_den,Coastal Plain,strong,0.687,30,0.658,0.735,ISLD,0.658,0,0.624,ISLD+UNIC,0.624,0,FALSE,FALSE,FALSE,FALSE,stable
+fd,FRic_den,Valley & Ridge,strong,0.581,30,0.541,0.666,SMTH,0.541,0.002,0.506,SMTH+WFLN,0.506,0.006,FALSE,FALSE,FALSE,FALSE,stable
+fd,RaoQ_den,Valley & Ridge,strong,0.672,30,0.646,0.741,TOMS,0.646,0,0.615,MUDD+TOMS,0.615,0,FALSE,FALSE,FALSE,FALSE,stable
+fd,RaoQ_den,Piedmont,strong,0.548,30,0.5,0.61,GROF,0.5,0.006,0.451,GROF+RIFE,0.451,0.016,FALSE,FALSE,FALSE,FALSE,stable
+fd,RaoQ_den,Coastal Plain,strong,0.638,30,0.605,0.692,ISLD,0.605,0.001,0.568,ISLD+UNIC,0.568,0.002,FALSE,FALSE,FALSE,FALSE,stable
+redundancy,FR_DB_RD,Valley & Ridge,strong,0.6,30,0.571,0.685,TUSC,0.571,0.001,0.54,MUDD+SMTH,0.54,0.003,FALSE,FALSE,FALSE,FALSE,stable
+redundancy,FR_DB_RD,Piedmont,strong,0.462,30,0.404,0.537,GROF,0.404,0.03,0.339,GROF+RIFE,0.339,0.077,FALSE,FALSE,FALSE,FALSE,stable
+redundancy,FR_DB_RD,Coastal Plain,strong,0.432,30,0.378,0.538,NORW,0.378,0.043,0.327,JAMS+NORW,0.327,0.09,FALSE,FALSE,FALSE,FALSE,stable
+redundancy,FR_RD_bio,Piedmont,strong,0.422,30,0.362,0.484,RMBO,0.362,0.054,0.304,RIFE+RMBO,0.304,0.116,FALSE,FALSE,FALSE,FALSE,stable
+redundancy,FR_RD_den,Valley & Ridge,strong,-0.477,30,0.435,0.585,TOMS,-0.435,0.018,0.397,SMTH+TOMS,-0.397,0.037,FALSE,FALSE,FALSE,FALSE,stable
+redundancy,FR_RD_den,Coastal Plain,strong,-0.661,30,0.63,0.719,UNIC,-0.63,0,0.601,NORW+UNIC,-0.601,0.001,FALSE,FALSE,FALSE,FALSE,stable
+redundancy,FR_SF_den_log10,Valley & Ridge,strong,-0.519,30,0.474,0.597,SMTH,-0.474,0.009,0.432,SMTH+WFLN,-0.432,0.022,FALSE,FALSE,FALSE,FALSE,stable
+structure,Total_Biomass,Piedmont,strong,0.446,30,0.404,0.557,RIFE,0.404,0.03,0.366,BEET+RIFE,0.366,0.056,FALSE,FALSE,FALSE,FALSE,stable

@@ -1,0 +1,25 @@
+Property,Metric,Weighting,Region,n,Spearman rho,raw p,FDR p,Tier
+Totals,Total biomass,Biomass,Piedmont,30,0.446,0.014,0.027,strong
+Functional diversity,Functional dispersion (FDis),Density,Valley & Ridge,30,0.67,0,0,strong
+Functional diversity,Functional dispersion (FDis),Density,Piedmont,30,0.552,0.002,0.008,strong
+Functional diversity,Functional dispersion (FDis),Density,Coastal Plain,30,0.687,0,0,strong
+Functional diversity,Functional richness (FRic),invariant,Valley & Ridge,30,0.581,0.001,0.002,strong
+Functional diversity,Rao's quadratic entropy,Density,Valley & Ridge,30,0.672,0,0,strong
+Functional diversity,Rao's quadratic entropy,Density,Piedmont,30,0.548,0.002,0.008,strong
+Functional diversity,Rao's quadratic entropy,Density,Coastal Plain,30,0.638,0,0.001,strong
+Redundancy,Overlap redundancy (FR_RD),Density,Valley & Ridge,30,-0.477,0.008,0.01,strong
+Redundancy,Overlap redundancy (FR_RD),Biomass,Piedmont,30,0.422,0.02,0.041,strong
+Redundancy,Overlap redundancy (FR_RD),Density,Coastal Plain,30,-0.661,0,0,strong
+Redundancy,Redundancy divergence,difference,Valley & Ridge,30,0.6,0,0.002,strong
+Redundancy,Redundancy divergence,difference,Piedmont,30,0.462,0.01,0.041,strong
+Redundancy,Redundancy divergence,difference,Coastal Plain,30,0.432,0.017,0.034,strong
+Redundancy,Space-filling redundancy (FR_SF),invariant,Valley & Ridge,30,-0.519,0.003,0.007,strong
+Inequality,Concentration divergence,difference,Piedmont,30,0.446,0.014,0.022,strong
+Inequality,Concentration divergence,difference,Coastal Plain,30,0.658,0,0,strong
+Inequality,Gini coefficient,Density,Piedmont,30,-0.594,0.001,0.001,strong
+Inequality,Gini coefficient,Biomass,Coastal Plain,30,0.504,0.004,0.011,strong
+Inequality,Gini coefficient,Density,Coastal Plain,30,-0.458,0.011,0.018,strong
+Inequality,Taxa making up half the total,Biomass,Valley & Ridge,30,0.58,0.001,0.004,strong
+Inequality,Taxa making up half the total,Density,Valley & Ridge,30,0.518,0.003,0.008,strong
+Inequality,Taxa making up half the total,Density,Piedmont,30,0.778,0,0,strong
+Inequality,Taxa making up half the total,Density,Coastal Plain,30,0.348,0.059,0.074,strong

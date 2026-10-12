@@ -1,0 +1,21 @@
+# Targeted high-biomass proxy rationale
+
+After the initial proxy-aware CONUS trait integration, several high-influence insect taxa remained unmatched or insufficiently represented in the main functional trait matrix. These taxa were not rare noise taxa; they carried substantial site-level density or biomass in the Step3 trait-coverage audit. Excluding them would disproportionately affect biomass-weighted functional diversity, redundancy, and density–biomass divergence metrics.
+
+To address this, we applied a targeted phylogenetic-nearest proxy procedure. This procedure differed from broad family-level averaging by using a restricted source pool of closely related or functionally similar genera. When partial trait information was available for the focal taxon, those states were retained and only missing trait groups were filled. When focal-taxon information was unavailable, trait groups were filled from genera selected to match phylogenetic position and dominant ecological role.
+
+Proxy rows were named with the community TAXANAME exactly, ensuring direct alignment between the community matrix and trait matrix. Each proxy was retained only when at least eight of the primary trait groups contained information, matching the retention threshold used for the broader CONUS trait matrix. These targeted assignments were included in both the main and sensitivity matrices because they represented constrained, documented, high-influence replacements rather than broad family-level assumptions.
+
+## Targeted proxy assignments
+
+- **Ironoquia**: High-biomass limnephilid caddisfly. Retains exact Ironoquia states where present and fills missing groups from large case-building limnephilid genera to preserve shredder/case-builder signal. Source/fill genera: Limnephilus;Pycnopsyche;Platycentropus. Confidence: medium_high. Trait groups recovered: 10.
+- **Hoperius**: High-biomass predaceous diving beetle. Uses constrained Colymbetini / large dytiscid swimmer-predator proxy rather than broad Dytiscidae averaging. Source/fill genera: Neoscutopterus;Colymbetes;Rhantus. Confidence: medium. Trait groups recovered: 8.
+- **Desmopachria**: Small predaceous dytiscid. Retains exact Desmopachria information where available and fills missing groups only from small-bodied hydroporine-like dytiscids. Source/fill genera: Hygrotus;Liodessus;Stictotarsus. Confidence: high. Trait groups recovered: 11.
+- **Oxycera**: Stratiomyid taxon best represented by Oxycerini-like clean-water soldier flies, not broad Stratiomyidae. Retains exact Oxycera states where present and fills from Oxycerini relatives. Source/fill genera: Caloparyphus;Euparyphus. Confidence: medium. Trait groups recovered: 10.
+- **Agrypnia**: High-biomass phryganeid caddisfly. Retains exact Agrypnia states where present and fills from large case-building Phryganeidae to preserve shredder/omnivore and large-bodied caddisfly signal. Source/fill genera: Phryganea;Ptilostomis. Confidence: medium_high. Trait groups recovered: 11.
+- **Copelatus**: Predaceous dytiscid genus. Retains exact Copelatus information where available and fills only if needed from similar small/medium predaceous dytiscids. Source/fill genera: Matus;Laccophilus. Confidence: high. Trait groups recovered: 11.
+- **Hydaticus**: Large predaceous dytiscid. Retains exact Hydaticus information where available and fills only if needed from Dytiscinae-like swimmer predators. Source/fill genera: Graphoderus;Thermonectus;Acilius. Confidence: high. Trait groups recovered: 8.
+
+## Methods-ready statement
+
+For high-biomass taxa that remained unmatched after the initial proxy pass, we applied a targeted phylogenetic-nearest proxy procedure rather than broad family-level averaging. When partial trait information existed for the focal taxon, those trait states were retained and only missing trait groups were filled using a constrained set of phylogenetically or ecologically similar genera from the same tribe, subfamily, or functionally narrow family subset. This approach was used for Ironoquia, Agrypnia, Oxycera, Hoperius, Desmopachria, Copelatus, and Hydaticus. Proxy rows were named with the community TAXANAME to ensure exact community–trait alignment, and all assignments were recorded in the proxy manifest with source genera, confidence tier, trait-group recovery, and rationale.

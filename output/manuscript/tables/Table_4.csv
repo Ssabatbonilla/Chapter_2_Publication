@@ -1,0 +1,42 @@
+Region,Weighting,Trait group,Trait state,Statistic,raw p,FDR p,"FDR p, range over seeds",Seeds passing,Carrier taxa,Verdict
+Coastal Plain,Biomass,Rheophily,BIBI / Rheophily_Depositional,0.307,0.019,0.03,0.027 to 0.034,5 of 5,85,passes under every seed
+Coastal Plain,Biomass,Rheophily,BIBI / Rheophily_Erosional,-0.289,0.02,0.03,0.027 to 0.034,5 of 5,87,passes under every seed
+Coastal Plain,Biomass,Thermal,BIBI / Thermal_ColdSteno,0.225,0.055,0.091,0.086 to 0.093,5 of 5,18,passes under every seed
+Coastal Plain,Biomass,Thermal,BIBI / Thermal_CoolEury,-0.254,0.043,0.091,0.086 to 0.093,5 of 5,112,passes under every seed
+Coastal Plain,Biomass,Thermal,BIBI / Thermal_HotEury,0.224,0.05,0.091,0.086 to 0.093,5 of 5,6,passes under every seed
+Piedmont,Biomass,Disperse,BIBI / Disperse_High,-0.193,0.045,0.045,0.041 to 0.049,5 of 5,51,passes under every seed
+Piedmont,Biomass,Disperse,BIBI / Disperse_Low,0.193,0.045,0.045,0.041 to 0.049,5 of 5,115,passes under every seed
+Piedmont,Biomass,Feed,BIBI / Feed_SH,0.214,0.015,0.089,0.074 to 0.089,5 of 5,43,passes under every seed
+Piedmont,Biomass,Flying,BIBI / Flying_Strong,-0.192,0.044,0.044,0.041 to 0.045,5 of 5,61,passes under every seed
+Piedmont,Biomass,Flying,BIBI / Flying_Weak,0.192,0.044,0.044,0.041 to 0.045,5 of 5,118,passes under every seed
+Piedmont,Biomass,Rheophily,BIBI / Rheophily_Depositional,-0.229,0.011,0.033,0.032 to 0.043,5 of 5,72,passes under every seed
+Piedmont,Biomass,Thermal,BIBI / Thermal_CoolEury,0.225,0.015,0.074,0.073 to 0.086,5 of 5,122,passes under every seed
+Valley & Ridge,Biomass,Disperse,BIBI / Disperse_High,-0.188,0.028,0.028,0.026 to 0.032,5 of 5,42,passes under every seed
+Valley & Ridge,Biomass,Disperse,BIBI / Disperse_Low,0.188,0.028,0.028,0.026 to 0.032,5 of 5,90,passes under every seed
+Valley & Ridge,Biomass,Flying,BIBI / Flying_Strong,-0.199,0.026,0.026,0.026 to 0.028,5 of 5,48,passes under every seed
+Valley & Ridge,Biomass,Flying,BIBI / Flying_Weak,0.199,0.026,0.026,0.026 to 0.028,5 of 5,93,passes under every seed
+Valley & Ridge,Biomass,Size,BIBI / Size_Small,-0.21,0.025,0.061,0.060 to 0.065,5 of 5,80,passes under every seed
+Coastal Plain,Density,Disperse,BIBI / Disperse_High,-0.237,0.074,0.074,0.067 to 0.075,5 of 5,56,passes under every seed
+Coastal Plain,Density,Disperse,BIBI / Disperse_Low,0.237,0.074,0.074,0.067 to 0.075,5 of 5,95,passes under every seed
+Coastal Plain,Density,Emerge,BIBI / Emerge_Winter,-0.284,0.023,0.093,0.091 to 0.098,5 of 5,51,passes under every seed
+Coastal Plain,Density,Flying,BIBI / Flying_Strong,-0.299,0.019,0.019,0.017 to 0.022,5 of 5,68,passes under every seed
+Coastal Plain,Density,Flying,BIBI / Flying_Weak,0.299,0.019,0.019,0.017 to 0.022,5 of 5,97,passes under every seed
+Coastal Plain,Density,Habit,BIBI / Habit_Crawler,0.377,0.01,0.059,0.057 to 0.061,5 of 5,1,passes under every seed
+Coastal Plain,Density,Respiration,BIBI / Respiration_Gills,0.272,0.042,0.064,0.061 to 0.066,5 of 5,88,passes under every seed
+Coastal Plain,Density,Respiration,BIBI / Respiration_Tegument,-0.278,0.033,0.064,0.061 to 0.066,5 of 5,79,passes under every seed
+Piedmont,Density,Disperse,BIBI / Disperse_High,-0.214,0.003,0.003,0.002 to 0.003,5 of 5,51,passes under every seed
+Piedmont,Density,Disperse,BIBI / Disperse_Low,0.214,0.003,0.003,0.002 to 0.003,5 of 5,115,passes under every seed
+Piedmont,Density,Respiration,BIBI / Respiration_Gills,0.192,0.014,0.026,0.020 to 0.026,5 of 5,98,passes under every seed
+Piedmont,Density,Respiration,BIBI / Respiration_Tegument,-0.186,0.017,0.026,0.020 to 0.026,5 of 5,85,passes under every seed
+Piedmont,Density,Rheophily,BIBI / Rheophily_Depositional,-0.207,0.008,0.012,0.008 to 0.012,5 of 5,72,passes under every seed
+Piedmont,Density,Rheophily,BIBI / Rheophily_Erosional,0.15,0.059,0.089,0.089 to 0.098,5 of 5,107,passes under every seed
+Valley & Ridge,Density,Flying,BIBI / Flying_Strong,-0.321,0.002,0.002,0.001 to 0.002,5 of 5,48,passes under every seed
+Valley & Ridge,Density,Flying,BIBI / Flying_Weak,0.321,0.002,0.002,0.001 to 0.002,5 of 5,93,passes under every seed
+Valley & Ridge,Density,Respiration,BIBI / Respiration_Gills,0.325,0.001,0.001,0.001 to 0.001,5 of 5,72,passes under every seed
+Valley & Ridge,Density,Respiration,BIBI / Respiration_Tegument,-0.324,0.001,0.001,0.001 to 0.001,5 of 5,68,passes under every seed
+Coastal Plain,Biomass,Thermal,BIBI / Thermal_WarmEury,0.229,0.078,0.097,0.096 to 0.105,4 of 5,97,"borderline, passes under 4 of 5 seeds"
+Piedmont,Density,Feed,BIBI / Feed_CF,0.15,0.048,0.095,0.095 to 0.112,3 of 5,25,"borderline, passes under 3 of 5 seeds"
+Piedmont,Density,Feed,BIBI / Feed_CG,-0.15,0.046,0.095,0.095 to 0.112,3 of 5,63,"borderline, passes under 3 of 5 seeds"
+Piedmont,Density,Feed,BIBI / Feed_SH,0.172,0.023,0.095,0.095 to 0.112,3 of 5,43,"borderline, passes under 3 of 5 seeds"
+Piedmont,Density,Size,BIBI / Size_Large,0.149,0.064,0.096,0.096 to 0.118,1 of 5,52,"borderline, passes under 1 of 5 seeds"
+Piedmont,Density,Size,BIBI / Size_Small,-0.155,0.055,0.096,0.096 to 0.118,1 of 5,103,"borderline, passes under 1 of 5 seeds"

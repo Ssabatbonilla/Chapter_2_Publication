@@ -1,0 +1,77 @@
+Scope,Weighting,Transform,n_sites,n_taxa,Test,Term,Statistic,R2,p,Region,n_classes,singleton_class
+cross-region,Biomass,none,90,215,BETADISPER,Region,4.20444523942218,NA,0.02,NA,NA,NA
+cross-region,Biomass,none,90,215,PERMANOVA,BIBI,3.3980696943420456,0.03223763691836685,0.001,NA,NA,NA
+cross-region,Biomass,none,90,215,PERMANOVA,Region,7.058259254576098,0.13392403310832318,0.001,NA,NA,NA
+cross-region,Biomass,none,90,215,PERMANOVA,Region:BIBI,1.946160914927092,0.03692662870605674,0.001,NA,NA,NA
+cross-region,Density,none,90,215,BETADISPER,Region,0.6980949099916065,NA,0.516,NA,NA,NA
+cross-region,Density,none,90,215,PERMANOVA,BIBI,5.349961176146845,0.04637101622174033,0.001,NA,NA,NA
+cross-region,Density,none,90,215,PERMANOVA,Region,10.349886534757593,0.17941616419058773,0.001,NA,NA,NA
+cross-region,Density,none,90,215,PERMANOVA,Region:BIBI,2.6616104665753757,0.0461392440273413,0.001,NA,NA,NA
+cross-region,Biomass,sqrt,90,215,BETADISPER,Region,7.490841883007302,NA,0.001,NA,NA,NA
+cross-region,Biomass,sqrt,90,215,PERMANOVA,BIBI,5.003894379684747,0.0433654286298276,0.001,NA,NA,NA
+cross-region,Biomass,sqrt,90,215,PERMANOVA,Region,10.765383528842678,0.1865928557517478,0.001,NA,NA,NA
+cross-region,Biomass,sqrt,90,215,PERMANOVA,Region:BIBI,2.427180067759353,0.04206951466740976,0.001,NA,NA,NA
+cross-region,Density,sqrt,90,215,BETADISPER,Region,1.3546014121163634,NA,0.251,NA,NA,NA
+cross-region,Density,sqrt,90,215,PERMANOVA,BIBI,6.141745694863114,0.04871909980349556,0.001,NA,NA,NA
+cross-region,Density,sqrt,90,215,PERMANOVA,Region,14.986952730333297,0.2377665511061677,0.001,NA,NA,NA
+cross-region,Density,sqrt,90,215,PERMANOVA,Region:BIBI,2.9743909413758547,0.04718842372412265,0.001,NA,NA,NA
+within-region,Biomass,none,30,142,ANOSIM,B-IBI class,0.3558808245279741,NA,8e-4,Coastal Plain,4,TRUE
+within-region,Biomass,none,30,142,BETADISPER,B-IBI class,NA,NA,NA,Coastal Plain,4,TRUE
+within-region,Biomass,none,30,142,NMDS,stress,0.20464056057114513,NA,NA,Coastal Plain,4,TRUE
+within-region,Biomass,none,30,142,PERMANOVA,B-IBI class,1.5779926447309205,0.15403075854121784,0.006,Coastal Plain,4,TRUE
+within-region,Biomass,none,30,142,PERMANOVA,B-IBI continuous,2.091572481348358,0.06950691867780509,0.002,Coastal Plain,4,TRUE
+within-region,Biomass,none,30,152,ANOSIM,B-IBI class,0.212657980773923,NA,0.0359,Piedmont,5,FALSE
+within-region,Biomass,none,30,152,BETADISPER,B-IBI class,4.269685022105064,NA,0.005,Piedmont,5,FALSE
+within-region,Biomass,none,30,152,NMDS,stress,0.1846229794588031,NA,NA,Piedmont,5,FALSE
+within-region,Biomass,none,30,152,PERMANOVA,B-IBI class,1.9031397780148052,0.23342415680725617,0.001,Piedmont,5,FALSE
+within-region,Biomass,none,30,152,PERMANOVA,B-IBI continuous,3.7418895717731377,0.11788490295488452,0.001,Piedmont,5,FALSE
+within-region,Biomass,none,30,118,ANOSIM,B-IBI class,-0.04463829787234053,NA,0.6176,Valley & Ridge,4,TRUE
+within-region,Biomass,none,30,118,BETADISPER,B-IBI class,NA,NA,NA,Valley & Ridge,4,TRUE
+within-region,Biomass,none,30,118,NMDS,stress,0.16222499852883365,NA,NA,Valley & Ridge,4,TRUE
+within-region,Biomass,none,30,118,PERMANOVA,B-IBI class,0.937368176627444,0.0976014968627429,0.541,Valley & Ridge,4,TRUE
+within-region,Biomass,none,30,118,PERMANOVA,B-IBI continuous,1.6042594739161151,0.05419015717415951,0.071,Valley & Ridge,4,TRUE
+within-region,Density,none,30,142,ANOSIM,B-IBI class,0.3677464056816214,NA,0.0019,Coastal Plain,4,TRUE
+within-region,Density,none,30,142,BETADISPER,B-IBI class,NA,NA,NA,Coastal Plain,4,TRUE
+within-region,Density,none,30,142,NMDS,stress,0.12187005839196008,NA,NA,Coastal Plain,4,TRUE
+within-region,Density,none,30,142,PERMANOVA,B-IBI class,2.402628605794293,0.21705343896388207,0.003,Coastal Plain,4,TRUE
+within-region,Density,none,30,142,PERMANOVA,B-IBI continuous,4.593768728889499,0.14094009094498508,0.001,Coastal Plain,4,TRUE
+within-region,Density,none,30,152,ANOSIM,B-IBI class,0.13760796369492018,NA,0.1088,Piedmont,5,FALSE
+within-region,Density,none,30,152,BETADISPER,B-IBI class,1.3969998754836286,NA,0.264,Piedmont,5,FALSE
+within-region,Density,none,30,152,NMDS,stress,0.21042173337650505,NA,NA,Piedmont,5,FALSE
+within-region,Density,none,30,152,PERMANOVA,B-IBI class,1.861954019127593,0.2295321219446259,0.002,Piedmont,5,FALSE
+within-region,Density,none,30,152,PERMANOVA,B-IBI continuous,4.056779889678146,0.12654982514274227,0.001,Piedmont,5,FALSE
+within-region,Density,none,30,118,ANOSIM,B-IBI class,0.00974468085106406,NA,0.4372,Valley & Ridge,4,TRUE
+within-region,Density,none,30,118,BETADISPER,B-IBI class,NA,NA,NA,Valley & Ridge,4,TRUE
+within-region,Density,none,30,118,NMDS,stress,0.16604143847773792,NA,NA,Valley & Ridge,4,TRUE
+within-region,Density,none,30,118,PERMANOVA,B-IBI class,1.260145104343396,0.12694358807361317,0.157,Valley & Ridge,4,TRUE
+within-region,Density,none,30,118,PERMANOVA,B-IBI continuous,2.2713398639062756,0.07503268352566331,0.015,Valley & Ridge,4,TRUE
+within-region,Biomass,sqrt,30,142,ANOSIM,B-IBI class,0.3510306599688199,NA,0.0015,Coastal Plain,4,TRUE
+within-region,Biomass,sqrt,30,142,BETADISPER,B-IBI class,NA,NA,NA,Coastal Plain,4,TRUE
+within-region,Biomass,sqrt,30,142,NMDS,stress,0.2003982420513128,NA,NA,Coastal Plain,4,TRUE
+within-region,Biomass,sqrt,30,142,PERMANOVA,B-IBI class,1.8017741600522263,0.17211485357528197,0.003,Coastal Plain,4,TRUE
+within-region,Biomass,sqrt,30,142,PERMANOVA,B-IBI continuous,2.6355110978949297,0.08602797875554373,0.003,Coastal Plain,4,TRUE
+within-region,Biomass,sqrt,30,152,ANOSIM,B-IBI class,0.31893817401063784,NA,0.0049,Piedmont,5,FALSE
+within-region,Biomass,sqrt,30,152,BETADISPER,B-IBI class,4.774430807521875,NA,0.005,Piedmont,5,FALSE
+within-region,Biomass,sqrt,30,152,NMDS,stress,0.16775408968017963,NA,NA,Piedmont,5,FALSE
+within-region,Biomass,sqrt,30,152,PERMANOVA,B-IBI class,2.2869853712067845,0.26789144783124974,0.001,Piedmont,5,FALSE
+within-region,Biomass,sqrt,30,152,PERMANOVA,B-IBI continuous,4.742813083764151,0.14485050724355517,0.001,Piedmont,5,FALSE
+within-region,Biomass,sqrt,30,118,ANOSIM,B-IBI class,0.01331914893616989,NA,0.4163,Valley & Ridge,4,TRUE
+within-region,Biomass,sqrt,30,118,BETADISPER,B-IBI class,NA,NA,NA,Valley & Ridge,4,TRUE
+within-region,Biomass,sqrt,30,118,NMDS,stress,0.17319814497214375,NA,NA,Valley & Ridge,4,TRUE
+within-region,Biomass,sqrt,30,118,PERMANOVA,B-IBI class,1.2942698121506278,0.12993455132486714,0.117,Valley & Ridge,4,TRUE
+within-region,Biomass,sqrt,30,118,PERMANOVA,B-IBI continuous,2.7506275223842898,0.08944947612474011,0.008,Valley & Ridge,4,TRUE
+within-region,Density,sqrt,30,142,ANOSIM,B-IBI class,0.39844967954269833,NA,1e-4,Coastal Plain,4,TRUE
+within-region,Density,sqrt,30,142,BETADISPER,B-IBI class,NA,NA,NA,Coastal Plain,4,TRUE
+within-region,Density,sqrt,30,142,NMDS,stress,0.1666414406120808,NA,NA,Coastal Plain,4,TRUE
+within-region,Density,sqrt,30,142,PERMANOVA,B-IBI class,2.061325079915062,0.1921445437886234,0.004,Coastal Plain,4,TRUE
+within-region,Density,sqrt,30,142,PERMANOVA,B-IBI continuous,3.516437474563903,0.11157471327150884,0.001,Coastal Plain,4,TRUE
+within-region,Density,sqrt,30,152,ANOSIM,B-IBI class,0.32054847996877006,NA,0.0027,Piedmont,5,FALSE
+within-region,Density,sqrt,30,152,BETADISPER,B-IBI class,2.100746681004962,NA,0.115,Piedmont,5,FALSE
+within-region,Density,sqrt,30,152,NMDS,stress,0.1899192457029669,NA,NA,Piedmont,5,FALSE
+within-region,Density,sqrt,30,152,PERMANOVA,B-IBI class,2.4174885273244824,0.27891453443558506,0.001,Piedmont,5,FALSE
+within-region,Density,sqrt,30,152,PERMANOVA,B-IBI continuous,5.550449000947827,0.16543590819875537,0.001,Piedmont,5,FALSE
+within-region,Density,sqrt,30,118,ANOSIM,B-IBI class,0.02523404255319124,NA,0.3831,Valley & Ridge,4,TRUE
+within-region,Density,sqrt,30,118,BETADISPER,B-IBI class,NA,NA,NA,Valley & Ridge,4,TRUE
+within-region,Density,sqrt,30,118,NMDS,stress,0.18608384267407252,NA,NA,Valley & Ridge,4,TRUE
+within-region,Density,sqrt,30,118,PERMANOVA,B-IBI class,1.4597846641931644,0.14415559967631972,0.056,Valley & Ridge,4,TRUE
+within-region,Density,sqrt,30,118,PERMANOVA,B-IBI continuous,3.2228143689670987,0.10321985490745224,0.001,Valley & Ridge,4,TRUE

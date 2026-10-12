@@ -1,0 +1,14 @@
+column,value
+parent-site cases resolved,301
+parents resolved at least once,34
+sites with a resolution,87
+taxa in the community table (before),290
+taxa in the community table (after),282
+taxa in the trait set (before),221
+taxa in the trait set (after),215
+median taxa per site removed,3
+max taxa per site removed,7
+density moved (share of total),0.03965251150609591
+biomass moved (share of total),0.02122807980304454
+rows above genus rank still in the resolved table (parents with no child at those sites),64
+sites at which such a row occurs,90

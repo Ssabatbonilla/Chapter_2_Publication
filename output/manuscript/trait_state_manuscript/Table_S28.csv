@@ -1,0 +1,43 @@
+Weighting,Region,Trait group,Trait state,"Statistic, every taxon","FDR p (largest of five seeds), every taxon","Verdict, every taxon","Statistic, without the four","FDR p (largest of five seeds), without the four","Verdict, without the four",Share of the state's weighted mass made up by the four (%)
+Density,Valley & Ridge,flying strength,strong,-0.321,0.002,passes,-0.32,0.031,passes,59.499
+Density,Valley & Ridge,flying strength,weak,0.321,0.002,passes,0.32,0.031,passes,3.042
+Density,Valley & Ridge,respiration mode,gills,0.325,0.001,passes,0.325,0.063,passes,0
+Density,Valley & Ridge,respiration mode,tegument,-0.324,0.001,passes,-0.323,0.063,passes,57.389
+Density,Valley & Ridge,thermal preference,warm eurythermal,-0.288,0.146,does not pass,-0.391,0.073,passes,34.325
+Density,Piedmont,female dispersal,high,-0.214,0.003,passes,-0.219,0.017,passes,52.936
+Density,Piedmont,female dispersal,low,0.214,0.003,passes,0.219,0.017,passes,26.491
+Density,Piedmont,respiration mode,gills,0.192,0.026,passes,0.091,0.544,does not pass,0
+Density,Piedmont,respiration mode,tegument,-0.186,0.026,passes,-0.076,0.544,does not pass,62.717
+Density,Piedmont,rheophily,depositional,-0.207,0.012,passes,-0.126,0.681,does not pass,77.574
+Density,Piedmont,rheophily,erosional,0.15,0.098,passes,0.075,0.86,does not pass,32.787
+Density,Piedmont,emergence synchrony,poorly synchronized,-0.1,0.199,does not pass,-0.173,0.093,passes,39.679
+Density,Piedmont,emergence synchrony,well synchronized,0.1,0.199,does not pass,0.173,0.093,passes,43.612
+Density,Piedmont,thermal preference,cool-warm eurythermal,0.157,0.24,does not pass,0.227,0.1,passes,36.311
+Density,Coastal Plain,female dispersal,high,-0.237,0.075,passes,-0.106,0.583,does not pass,78.563
+Density,Coastal Plain,female dispersal,low,0.237,0.075,passes,0.106,0.583,does not pass,46.42
+Density,Coastal Plain,emergence season,winter,-0.284,0.098,passes,-0.26,0.568,does not pass,90.796
+Density,Coastal Plain,flying strength,strong,-0.299,0.022,passes,-0.249,0.284,does not pass,80.792
+Density,Coastal Plain,flying strength,weak,0.299,0.022,passes,0.249,0.284,does not pass,6.439
+Density,Coastal Plain,habit,crawler,0.377,0.061,passes,0.457,0.19,does not pass,0
+Density,Coastal Plain,respiration mode,gills,0.272,0.066,passes,0.192,0.647,does not pass,0
+Density,Coastal Plain,respiration mode,tegument,-0.278,0.066,passes,-0.201,0.647,does not pass,79.826
+Density,Coastal Plain,rheophily,depositional,0.193,0.584,does not pass,0.505,0.016,passes,71.088
+Density,Coastal Plain,rheophily,erosional,-0.117,0.584,does not pass,-0.463,0.009,passes,59.817
+Biomass,Valley & Ridge,female dispersal,high,-0.188,0.032,passes,-0.172,0.062,passes,10.547
+Biomass,Valley & Ridge,female dispersal,low,0.188,0.032,passes,0.172,0.062,passes,3.008
+Biomass,Valley & Ridge,flying strength,strong,-0.199,0.028,passes,-0.175,0.059,passes,14.771
+Biomass,Valley & Ridge,flying strength,weak,0.199,0.028,passes,0.175,0.059,passes,0.253
+Biomass,Valley & Ridge,body size,small,-0.21,0.065,passes,-0.192,0.128,does not pass,11.629
+Biomass,Piedmont,female dispersal,high,-0.193,0.049,passes,-0.184,0.065,passes,6.35
+Biomass,Piedmont,female dispersal,low,0.193,0.049,passes,0.184,0.065,passes,1.166
+Biomass,Piedmont,feeding style,shredder,0.214,0.089,passes,0.214,0.11,does not pass,1.697
+Biomass,Piedmont,flying strength,strong,-0.192,0.046,passes,-0.177,0.08,passes,8.429
+Biomass,Piedmont,flying strength,weak,0.192,0.046,passes,0.177,0.08,passes,0.061
+Biomass,Piedmont,rheophily,depositional,-0.229,0.043,passes,-0.223,0.058,passes,6.012
+Biomass,Piedmont,thermal preference,cool-warm eurythermal,0.225,0.086,passes,0.222,0.114,borderline,2.233
+Biomass,Coastal Plain,rheophily,depositional,0.307,0.034,passes,0.316,0.041,passes,9.656
+Biomass,Coastal Plain,rheophily,erosional,-0.289,0.034,passes,-0.295,0.041,passes,12.095
+Biomass,Coastal Plain,thermal preference,cold stenothermal,0.225,0.093,passes,0.262,0.082,passes,28.493
+Biomass,Coastal Plain,thermal preference,cool-warm eurythermal,-0.254,0.093,passes,-0.29,0.082,passes,6.193
+Biomass,Coastal Plain,thermal preference,hot eurythermal,0.224,0.093,passes,0.222,0.097,passes,0
+Biomass,Coastal Plain,thermal preference,warm eurythermal,0.229,0.105,borderline,0.256,0.082,passes,13.554

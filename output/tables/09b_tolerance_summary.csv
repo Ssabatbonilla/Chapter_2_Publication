@@ -1,0 +1,7 @@
+Region,Currency,n_tested,n_increaser,n_decreaser,inc_sensitive,inc_intermediate,inc_tolerant,inc_no_value,dec_sensitive,dec_intermediate,dec_tolerant,dec_no_value,back_sensitive,back_intermediate,back_tolerant,back_no_value,median_TV_increasers,median_TV_background,p_wilcox_TV
+Valley & Ridge,Density,44,14,0,5,6,0,3,0,0,0,0,3,25,0,2,3,5,3.3440771790797634e-4
+Valley & Ridge,Biomass,44,13,0,4,6,0,3,0,0,0,0,4,25,0,2,3,5,0.0021039688990424203
+Piedmont,Density,56,16,3,7,7,0,2,0,2,0,1,6,30,0,1,2.5,5,5.832103222555588e-4
+Piedmont,Biomass,56,18,3,6,9,0,3,0,2,0,1,7,28,0,0,3,5,0.006284122828621292
+Coastal Plain,Density,31,0,3,0,0,0,0,0,3,0,0,1,25,2,0,NA,5,NA
+Coastal Plain,Biomass,31,2,3,0,1,1,0,0,3,0,0,1,24,1,0,6,5,NA

@@ -1,0 +1,101 @@
+TAXANAME,method,proxy_source,n_source_genera,tier,included_main,included_sensitivity,notes,ProxyTier,ProxyMethod,IncludeMain,IncludeSensitivity,Confidence,ExactSource,FillSourceGenera,FillTaxaFound,n_trait_groups_filled,ProxyStatus,Rationale,GroupSourceAudit
+Orthocladiinae,CONUS_manual_higher_taxon_family_aggregate,Orthocladiinae (subfamily),63,2,TRUE,TRUE,CONUS aggregate from Orthocladiinae (subfamily) using 63 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chironomini,CONUS_manual_higher_taxon_family_aggregate,Chironomini (tribe),39,2,TRUE,TRUE,CONUS aggregate from Chironomini (tribe) using 39 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tanytarsini,CONUS_manual_higher_taxon_family_aggregate,Tanytarsini (tribe),13,2,TRUE,TRUE,CONUS aggregate from Tanytarsini (tribe) using 13 source genera; groups= 9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Baetidae,CONUS_family_aggregate,Baetidae,23,2,TRUE,TRUE,CONUS aggregate from Baetidae using 23 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tanypodinae,CONUS_manual_higher_taxon_family_aggregate,Tanypodinae (subfamily),31,2,TRUE,TRUE,CONUS aggregate from Tanypodinae (subfamily) using 31 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leuctridae,CONUS_family_aggregate,Leuctridae,7,2,TRUE,TRUE,CONUS aggregate from Leuctridae using 7 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chironomidae,CONUS_family_aggregate,Chironomidae,163,2,TRUE,TRUE,CONUS aggregate from Chironomidae using 163 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Heptageniidae,CONUS_family_aggregate,Heptageniidae,16,2,TRUE,TRUE,CONUS aggregate from Heptageniidae using 16 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hydropsychidae,CONUS_family_aggregate,Hydropsychidae,13,2,TRUE,TRUE,CONUS aggregate from Hydropsychidae using 13 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ceraptogoninae,CONUS_manual_higher_taxon_family_aggregate,Ceratopogoninae (subfamily),19,2,TRUE,TRUE,CONUS aggregate from Ceratopogoninae (subfamily) using 19 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Capniidae,CONUS_family_aggregate,Capniidae,11,2,TRUE,TRUE,CONUS aggregate from Capniidae using 11 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Teloganopsis,LEGACY_CodedTraits_exact_proxy,Teloganopsis,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leptophlebiidae,CONUS_family_aggregate,Leptophlebiidae,9,2,TRUE,TRUE,CONUS aggregate from Leptophlebiidae using 9 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ephemerellidae,CONUS_family_aggregate,Ephemerellidae,14,2,TRUE,TRUE,CONUS aggregate from Ephemerellidae using 14 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Perlidae,CONUS_family_aggregate,Perlidae,15,2,TRUE,TRUE,CONUS aggregate from Perlidae using 15 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Coenagrionidae,CONUS_family_aggregate,Coenagrionidae,10,2,TRUE,TRUE,CONUS aggregate from Coenagrionidae using 10 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Scirtidae,LEGACY_CodedTraits_exact_proxy,Scirtidae,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iswaeon,LEGACY_CodedTraits_exact_proxy,Iswaeon,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Polycentropodidae,CONUS_family_aggregate,Polycentropodidae,8,2,TRUE,TRUE,CONUS aggregate from Polycentropodidae using 8 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Corixidae,CONUS_family_aggregate,Corixidae,12,2,TRUE,TRUE,CONUS aggregate from Corixidae using 12 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Promoresia,CONUS_synonym_to_accepted_genus,Optioservus,1,1,TRUE,TRUE,synonym/equivalent CONUS genus copied: Optioservus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Empididae,CONUS_family_aggregate,Empididae,14,2,TRUE,TRUE,CONUS aggregate from Empididae using 14 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lepidoptera,CONUS_order_aggregate,Lepidoptera,4,2,FALSE,TRUE,order-level CONUS proxy; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aeshnidae,CONUS_family_aggregate,Aeshnidae,11,2,TRUE,TRUE,CONUS aggregate from Aeshnidae using 11 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Simplecta,LEGACY_CodedTraits_exact_proxy,Simplecta,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Trianoides,LEGACY_CodedTraits_exact_proxy,Trianoides,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Staphylinidae,LEGACY_CodedTraits_exact_proxy,Staphylinidae,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Curculionidae,LEGACY_CodedTraits_exact_proxy,Curculionidae,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Limoniidae,LEGACY_CodedTraits_exact_proxy,Limoniidae,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crambidae,CONUS_family_aggregate,Crambidae,4,2,TRUE,TRUE,CONUS aggregate from Crambidae using 4 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Leptoceridae,CONUS_family_aggregate,Leptoceridae,9,2,TRUE,TRUE,CONUS aggregate from Leptoceridae using 9 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Micronecta,LEGACY_CodedTraits_exact_proxy,Micronecta,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Syrphidae,LEGACY_CodedTraits_exact_proxy,Syrphidae,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Phanogomphus,LEGACY_CodedTraits_exact_proxy,Phanogomphus,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Aphididae,UNRESOLVED,NA,0,NA,FALSE,FALSE,excluded: unresolved taxonomy or method,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dicranomyia,LEGACY_CodedTraits_exact_proxy,Dicranomyia,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ephydridae,CONUS_family_aggregate,Ephydridae,34,2,TRUE,TRUE,CONUS aggregate from Ephydridae using 34 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Uvarus,LEGACY_CodedTraits_exact_proxy,Uvarus,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Glossosomatidae,CONUS_family_aggregate,Glossosomatidae,8,2,TRUE,TRUE,CONUS aggregate from Glossosomatidae using 8 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elmidae,CONUS_family_aggregate,Elmidae,25,2,TRUE,TRUE,CONUS aggregate from Elmidae using 25 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nehalennia,LEGACY_CodedTraits_exact_proxy,Nehalennia,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Silvius,LEGACY_CodedTraits_exact_proxy,Silvius,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tipuloidia,CONUS_manual_higher_taxon_family_aggregate,Tipulidae,29,2,TRUE,TRUE,CONUS aggregate from Tipulidae using 29 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Myxosargus,LEGACY_CodedTraits_exact_proxy,Myxosargus,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gomphidae,CONUS_family_aggregate,Gomphidae,14,2,TRUE,TRUE,CONUS aggregate from Gomphidae using 14 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nymphomyia,LEGACY_CodedTraits_exact_proxy,Nymphomyia,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gomphurus,CONUS_synonym_to_accepted_genus,Gomphus,1,1,TRUE,TRUE,synonym/equivalent CONUS genus copied: Gomphus,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Muscidae,CONUS_family_aggregate,Muscidae,2,2,TRUE,TRUE,CONUS aggregate from Muscidae using 2 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hydrophilidae,CONUS_family_aggregate,Hydrophilidae,22,2,TRUE,TRUE,CONUS aggregate from Hydrophilidae using 22 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Nemouridae,CONUS_family_aggregate,Nemouridae,12,2,TRUE,TRUE,CONUS aggregate from Nemouridae using 12 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Corixini,CONUS_manual_higher_taxon_family_aggregate,Corixini (tribe),9,2,TRUE,TRUE,CONUS aggregate from Corixini (tribe) using 9 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Brachycentridae,CONUS_family_aggregate,Brachycentridae,5,2,TRUE,TRUE,CONUS aggregate from Brachycentridae using 5 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dytiscidae,CONUS_family_aggregate,Dytiscidae,47,2,TRUE,TRUE,CONUS aggregate from Dytiscidae using 47 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hydroptilidae,CONUS_family_aggregate,Hydroptilidae,17,2,TRUE,TRUE,CONUS aggregate from Hydroptilidae using 17 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cernotina,LEGACY_CodedTraits_exact_proxy,Cernotina,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Synaptonecta,LEGACY_CodedTraits_exact_proxy,Synaptonecta,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Micronectidae,LEGACY_CodedTraits_exact_proxy,Micronectidae,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Stratiomyidae,CONUS_family_aggregate,Stratiomyidae,8,2,TRUE,TRUE,CONUS aggregate from Stratiomyidae using 8 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crenitulus,LEGACY_CodedTraits_exact_proxy,Crenitulus,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Penelomax,LEGACY_CodedTraits_exact_proxy,Penelomax,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cyphon,LEGACY_CodedTraits_exact_proxy,Cyphon,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chauliodes,LEGACY_CodedTraits_exact_proxy,Chauliodes,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Manophylax,UNRESOLVED,NA,0,NA,FALSE,FALSE,excluded: unresolved taxonomy or method,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Sciomyzidae,LEGACY_CodedTraits_exact_proxy,Sciomyzidae,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tabanidae,CONUS_family_aggregate,Tabanidae,7,2,TRUE,TRUE,CONUS aggregate from Tabanidae using 7 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chrysomelidae,LEGACY_CodedTraits_exact_proxy,Chrysomelidae,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ametor,LEGACY_CodedTraits_exact_proxy,Ametor,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Odontoceridae,CONUS_family_aggregate,Odontoceridae,6,2,TRUE,TRUE,CONUS aggregate from Odontoceridae using 6 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Amphiagrion,LEGACY_CodedTraits_exact_proxy,Amphiagrion,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Anchytarsus,LEGACY_CodedTraits_exact_proxy,Anchytarsus,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Helocombus,LEGACY_CodedTraits_exact_proxy,Helocombus,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Eloeophila,LEGACY_CodedTraits_exact_proxy,Eloeophila,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Dipseudopsidae,CONUS_family_aggregate,Dipseudopsidae,1,2,TRUE,TRUE,CONUS aggregate from Dipseudopsidae using 1 source genera; groups= 8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Megaloptera,CONUS_order_aggregate,Megaloptera,8,2,FALSE,TRUE,order-level CONUS proxy; sensitivity only; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Blephariceridae,CONUS_family_aggregate,Blephariceridae,4,2,TRUE,TRUE,CONUS aggregate from Blephariceridae using 4 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Chironominae,CONUS_manual_higher_taxon_family_aggregate,Chironominae (subfamily),53,2,TRUE,TRUE,CONUS aggregate from Chironominae (subfamily) using 53 source genera; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hydrocolus,LEGACY_CodedTraits_exact_proxy,Hydrocolus,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hydrochus,LEGACY_CodedTraits_exact_proxy,Hydrochus,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Culicidae,CONUS_family_aggregate,Culicidae,11,2,TRUE,TRUE,CONUS aggregate from Culicidae using 11 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Tetanocera,LEGACY_CodedTraits_exact_proxy,Tetanocera,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Symplecta,LEGACY_CodedTraits_exact_proxy,Symplecta,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 10,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Gymnochthebius,LEGACY_CodedTraits_exact_proxy,Gymnochthebius,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Amphizoa,LEGACY_CodedTraits_exact_proxy,Amphizoa,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Perlodidae,CONUS_family_aggregate,Perlodidae,27,2,TRUE,TRUE,CONUS aggregate from Perlodidae using 27 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Plateumaris,LEGACY_CodedTraits_exact_proxy,Plateumaris,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Limnoporus,LEGACY_CodedTraits_exact_proxy,Limnoporus,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Phryganeidae,CONUS_family_aggregate,Phryganeidae,9,2,TRUE,TRUE,CONUS aggregate from Phryganeidae using 9 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Protosialis,LEGACY_CodedTraits_exact_proxy,Protosialis,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Haliplidae,CONUS_family_aggregate,Haliplidae,3,2,TRUE,TRUE,CONUS aggregate from Haliplidae using 3 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Holocentropus,LEGACY_CodedTraits_exact_proxy,Holocentropus,1,3,FALSE,TRUE,legacy exact proxy converted to current modality columns; sensitivity only; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Corduliidae,CONUS_family_aggregate,Corduliidae,9,2,TRUE,TRUE,CONUS aggregate from Corduliidae using 9 source genera; groups= 11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Deilodeites,UNRESOLVED,NA,0,NA,FALSE,FALSE,excluded: unresolved taxonomy or method,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Cirrula,LEGACY_CodedTraits_exact_proxy,Cirrula,1,3,FALSE,FALSE,WARNING: legacy proxy had <8 trait groups with data; groups= 2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Ironoquia,NA,NA,NA,NA,NA,NA,NA,targeted_high_biomass,exact_plus_targeted_fill,TRUE,TRUE,medium_high,Ironoquia,Limnephilus;Pycnopsyche;Platycentropus,Limnephilus;Pycnopsyche;Platycentropus,10,included_targeted_proxy,High-biomass limnephilid caddisfly. Retains exact Ironoquia states where present and fills missing groups from large case-building limnephilid genera to preserve shredder/case-builder signal.,Disperse:fill | Emerge:missing | Feed:exact | Habit:exact | Rheophily:exact | Respiration:exact | Thermal:exact | Voltinism:fill | Flying:fill | Synchro:fill | Size:exact
+Hoperius,NA,NA,NA,NA,NA,NA,NA,targeted_high_biomass,targeted_phylo_aggregate,TRUE,TRUE,medium,NA,Neoscutopterus;Colymbetes;Rhantus,Neoscutopterus;Colymbetes;Rhantus,8,included_targeted_proxy,High-biomass predaceous diving beetle. Uses constrained Colymbetini / large dytiscid swimmer-predator proxy rather than broad Dytiscidae averaging.,Disperse:missing | Emerge:fill | Feed:fill | Habit:fill | Rheophily:fill | Respiration:fill | Thermal:fill | Voltinism:fill | Flying:missing | Synchro:missing | Size:fill
+Desmopachria,NA,NA,NA,NA,NA,NA,NA,targeted_high_biomass,exact_plus_optional_fill,TRUE,TRUE,high,Desmopachria,Hygrotus;Liodessus;Stictotarsus,Hygrotus;Liodessus;Stictotarsus,11,included_targeted_proxy,Small predaceous dytiscid. Retains exact Desmopachria information where available and fills missing groups only from small-bodied hydroporine-like dytiscids.,Disperse:fill | Emerge:exact | Feed:exact | Habit:exact | Rheophily:fill | Respiration:exact | Thermal:fill | Voltinism:exact | Flying:fill | Synchro:fill | Size:exact
+Oxycera,NA,NA,NA,NA,NA,NA,NA,targeted_high_biomass,exact_plus_targeted_fill,TRUE,TRUE,medium,Oxycera,Caloparyphus;Euparyphus,Caloparyphus;Euparyphus,10,included_targeted_proxy,"Stratiomyid taxon best represented by Oxycerini-like clean-water soldier flies, not broad Stratiomyidae. Retains exact Oxycera states where present and fills from Oxycerini relatives.",Disperse:fill | Emerge:missing | Feed:fill | Habit:exact | Rheophily:fill | Respiration:fill | Thermal:fill | Voltinism:fill | Flying:fill | Synchro:fill | Size:fill
+Agrypnia,NA,NA,NA,NA,NA,NA,NA,targeted_high_biomass,exact_plus_targeted_fill,TRUE,TRUE,medium_high,Agrypnia,Phryganea;Ptilostomis,Phryganea;Ptilostomis,11,included_targeted_proxy,High-biomass phryganeid caddisfly. Retains exact Agrypnia states where present and fills from large case-building Phryganeidae to preserve shredder/omnivore and large-bodied caddisfly signal.,Disperse:fill | Emerge:fill | Feed:exact | Habit:exact | Rheophily:exact | Respiration:fill | Thermal:exact | Voltinism:fill | Flying:fill | Synchro:fill | Size:exact
+Copelatus,NA,NA,NA,NA,NA,NA,NA,targeted_high_biomass,exact_plus_optional_fill,TRUE,TRUE,high,Copelatus,Matus;Laccophilus,Matus;Laccophilus,11,included_targeted_proxy,Predaceous dytiscid genus. Retains exact Copelatus information where available and fills only if needed from similar small/medium predaceous dytiscids.,Disperse:fill | Emerge:exact | Feed:exact | Habit:exact | Rheophily:exact | Respiration:exact | Thermal:fill | Voltinism:exact | Flying:fill | Synchro:fill | Size:exact
+Hydaticus,NA,NA,NA,NA,NA,NA,NA,targeted_high_biomass,exact_plus_optional_fill,TRUE,TRUE,high,Hydaticus,Graphoderus;Thermonectus;Acilius,Graphoderus;Thermonectus;Acilius,8,included_targeted_proxy,Large predaceous dytiscid. Retains exact Hydaticus information where available and fills only if needed from Dytiscinae-like swimmer predators.,Disperse:missing | Emerge:exact | Feed:exact | Habit:exact | Rheophily:exact | Respiration:exact | Thermal:fill | Voltinism:exact | Flying:missing | Synchro:missing | Size:exact
